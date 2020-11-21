@@ -1,0 +1,325 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Rabi,Vikarabad,Marpalle,Paddy,9,0
+2018-2019,Rabi,Vikarabad,Mominpet,Paddy,58,22
+2018-2019,Rabi,Vikarabad,Nawabpet,Paddy,21,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Paddy,51,15
+2018-2019,Rabi,Vikarabad,Pudur,Paddy,114,45
+2018-2019,Rabi,Vikarabad,Pargi,Paddy,304,250
+2018-2019,Rabi,Vikarabad,Kulkacharla,Paddy,863,140
+2018-2019,Rabi,Vikarabad,Doma,Paddy,1080,120
+2018-2019,Rabi,Vikarabad,Bomraspeta,Paddy,1168,365
+2018-2019,Rabi,Vikarabad,Dharur,Paddy,296,22
+2018-2019,Rabi,Vikarabad,Kotepally,Paddy,11,8
+2018-2019,Rabi,Vikarabad,Bantwaram,Paddy,10,0
+2018-2019,Rabi,Vikarabad,Peddemul,Paddy,308,112
+2018-2019,Rabi,Vikarabad,Tandur,Paddy,601,180
+2018-2019,Rabi,Vikarabad,Basheerabad,Paddy,334,275
+2018-2019,Rabi,Vikarabad,Yelal,Paddy,1292,982
+2018-2019,Rabi,Vikarabad,Kodangal,Paddy,522,321
+2018-2019,Rabi,Vikarabad,Doulatabad,Paddy,854,345
+2018-2019,Rabi,Vikarabad,Marpalle,Wheat,39,6
+2018-2019,Rabi,Vikarabad,Mominpet,Wheat,33,0
+2018-2019,Rabi,Vikarabad,Nawabpet,Wheat,30,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Wheat,28,10
+2018-2019,Rabi,Vikarabad,Pudur,Wheat,11,2
+2018-2019,Rabi,Vikarabad,Pargi,Wheat,18,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Wheat,0,0
+2018-2019,Rabi,Vikarabad,Doma,Wheat,3,0
+2018-2019,Rabi,Vikarabad,Bomraspeta,Wheat,0,0
+2018-2019,Rabi,Vikarabad,Dharur,Wheat,23,0
+2018-2019,Rabi,Vikarabad,Kotepally,Wheat,3,12
+2018-2019,Rabi,Vikarabad,Bantwaram,Wheat,15,0
+2018-2019,Rabi,Vikarabad,Peddemul,Wheat,3,0
+2018-2019,Rabi,Vikarabad,Tandur,Wheat,9,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Wheat,0,0
+2018-2019,Rabi,Vikarabad,Yelal,Wheat,2,0
+2018-2019,Rabi,Vikarabad,Kodangal,Wheat,0,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Wheat,0,0
+2018-2019,Rabi,Vikarabad,Marpalle,Jowar,71,21
+2018-2019,Rabi,Vikarabad,Mominpet,Jowar,68,6
+2018-2019,Rabi,Vikarabad,Nawabpet,Jowar,54,35
+2018-2019,Rabi,Vikarabad,Vikarabad,Jowar,47,30
+2018-2019,Rabi,Vikarabad,Pudur,Jowar,104,20
+2018-2019,Rabi,Vikarabad,Pargi,Jowar,35,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Jowar,43,0
+2018-2019,Rabi,Vikarabad,Doma,Jowar,103,10
+2018-2019,Rabi,Vikarabad,Bomraspeta,Jowar,20,8
+2018-2019,Rabi,Vikarabad,Dharur,Jowar,121,12
+2018-2019,Rabi,Vikarabad,Kotepally,Jowar,29,16
+2018-2019,Rabi,Vikarabad,Bantwaram,Jowar,108,0
+2018-2019,Rabi,Vikarabad,Peddemul,Jowar,150,52
+2018-2019,Rabi,Vikarabad,Tandur,Jowar,562,52
+2018-2019,Rabi,Vikarabad,Basheerabad,Jowar,444,55
+2018-2019,Rabi,Vikarabad,Yelal,Jowar,324,15
+2018-2019,Rabi,Vikarabad,Kodangal,Jowar,581,294
+2018-2019,Rabi,Vikarabad,Doulatabad,Jowar,209,66
+2018-2019,Rabi,Vikarabad,Marpalle,Maize,23,18
+2018-2019,Rabi,Vikarabad,Mominpet,Maize,58,11
+2018-2019,Rabi,Vikarabad,Nawabpet,Maize,56,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Maize,104,50
+2018-2019,Rabi,Vikarabad,Pudur,Maize,82,19
+2018-2019,Rabi,Vikarabad,Pargi,Maize,79,53
+2018-2019,Rabi,Vikarabad,Kulkacharla,Maize,49,0
+2018-2019,Rabi,Vikarabad,Doma,Maize,153,82
+2018-2019,Rabi,Vikarabad,Bomraspeta,Maize,0,0
+2018-2019,Rabi,Vikarabad,Dharur,Maize,82,0
+2018-2019,Rabi,Vikarabad,Kotepally,Maize,27,7
+2018-2019,Rabi,Vikarabad,Bantwaram,Maize,30,5
+2018-2019,Rabi,Vikarabad,Peddemul,Maize,11,0
+2018-2019,Rabi,Vikarabad,Tandur,Maize,2,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Maize,0,19
+2018-2019,Rabi,Vikarabad,Yelal,Maize,7,0
+2018-2019,Rabi,Vikarabad,Kodangal,Maize,0,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Maize,0,0
+2018-2019,Rabi,Vikarabad,Marpalle,Ragi,0,
+2018-2019,Rabi,Vikarabad,Mominpet,Ragi,0,
+2018-2019,Rabi,Vikarabad,Nawabpet,Ragi,0,
+2018-2019,Rabi,Vikarabad,Vikarabad,Ragi,0,
+2018-2019,Rabi,Vikarabad,Pudur,Ragi,0,
+2018-2019,Rabi,Vikarabad,Pargi,Ragi,0,
+2018-2019,Rabi,Vikarabad,Kulkacharla,Ragi,16,
+2018-2019,Rabi,Vikarabad,Doma,Ragi,74,
+2018-2019,Rabi,Vikarabad,Bomraspeta,Ragi,0,
+2018-2019,Rabi,Vikarabad,Dharur,Ragi,0,
+2018-2019,Rabi,Vikarabad,Kotepally,Ragi,0,
+2018-2019,Rabi,Vikarabad,Bantwaram,Ragi,0,
+2018-2019,Rabi,Vikarabad,Peddemul,Ragi,0,
+2018-2019,Rabi,Vikarabad,Tandur,Ragi,0,
+2018-2019,Rabi,Vikarabad,Basheerabad,Ragi,0,
+2018-2019,Rabi,Vikarabad,Yelal,Ragi,0,
+2018-2019,Rabi,Vikarabad,Kodangal,Ragi,0,
+2018-2019,Rabi,Vikarabad,Doulatabad,Ragi,6,
+2018-2019,Rabi,Vikarabad,Marpalle,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Mominpet,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Nawabpet,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Vikarabad,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Pudur,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Pargi,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Kulkacharla,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Doma,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Bomraspeta,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Dharur,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Kotepally,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Bantwaram,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Peddemul,Red Gram,1,
+2018-2019,Rabi,Vikarabad,Tandur,Red Gram,26,2
+2018-2019,Rabi,Vikarabad,Basheerabad,Red Gram,46,9
+2018-2019,Rabi,Vikarabad,Yelal,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Kodangal,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Doulatabad,Red Gram,0,
+2018-2019,Rabi,Vikarabad,Marpalle,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Mominpet,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Nawabpet,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Vikarabad,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Pudur,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Pargi,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Kulkacharla,Cow Gram,28,
+2018-2019,Rabi,Vikarabad,Doma,Cow Gram,54,5
+2018-2019,Rabi,Vikarabad,Bomraspeta,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Dharur,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Kotepally,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Bantwaram,Cow Gram,3,
+2018-2019,Rabi,Vikarabad,Peddemul,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Tandur,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Basheerabad,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Yelal,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Kodangal,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Doulatabad,Cow Gram,0,
+2018-2019,Rabi,Vikarabad,Marpalle,Bengal Gram,226,111
+2018-2019,Rabi,Vikarabad,Mominpet,Bengal Gram,218,120
+2018-2019,Rabi,Vikarabad,Nawabpet,Bengal Gram,380,596
+2018-2019,Rabi,Vikarabad,Vikarabad,Bengal Gram,186,160
+2018-2019,Rabi,Vikarabad,Pudur,Bengal Gram,374,210
+2018-2019,Rabi,Vikarabad,Pargi,Bengal Gram,373,850
+2018-2019,Rabi,Vikarabad,Kulkacharla,Bengal Gram,2,0
+2018-2019,Rabi,Vikarabad,Doma,Bengal Gram,72,27
+2018-2019,Rabi,Vikarabad,Bomraspeta,Bengal Gram,5,8
+2018-2019,Rabi,Vikarabad,Dharur,Bengal Gram,142,68
+2018-2019,Rabi,Vikarabad,Kotepally,Bengal Gram,10,30
+2018-2019,Rabi,Vikarabad,Bantwaram,Bengal Gram,142,79
+2018-2019,Rabi,Vikarabad,Peddemul,Bengal Gram,68,21
+2018-2019,Rabi,Vikarabad,Tandur,Bengal Gram,262,88
+2018-2019,Rabi,Vikarabad,Basheerabad,Bengal Gram,274,195
+2018-2019,Rabi,Vikarabad,Yelal,Bengal Gram,209,75
+2018-2019,Rabi,Vikarabad,Kodangal,Bengal Gram,322,254
+2018-2019,Rabi,Vikarabad,Doulatabad,Bengal Gram,20,48
+2018-2019,Rabi,Vikarabad,Marpalle,Sugarcane,61,
+2018-2019,Rabi,Vikarabad,Mominpet,Sugarcane,14,
+2018-2019,Rabi,Vikarabad,Nawabpet,Sugarcane,5,
+2018-2019,Rabi,Vikarabad,Vikarabad,Sugarcane,22,11
+2018-2019,Rabi,Vikarabad,Pudur,Sugarcane,2,
+2018-2019,Rabi,Vikarabad,Pargi,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Kulkacharla,Sugarcane,2,
+2018-2019,Rabi,Vikarabad,Doma,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Bomraspeta,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Dharur,Sugarcane,22,
+2018-2019,Rabi,Vikarabad,Kotepally,Sugarcane,14,
+2018-2019,Rabi,Vikarabad,Bantwaram,Sugarcane,246,7
+2018-2019,Rabi,Vikarabad,Peddemul,Sugarcane,997,
+2018-2019,Rabi,Vikarabad,Tandur,Sugarcane,5,
+2018-2019,Rabi,Vikarabad,Basheerabad,Sugarcane,0,10
+2018-2019,Rabi,Vikarabad,Yelal,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Kodangal,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Doulatabad,Sugarcane,0,
+2018-2019,Rabi,Vikarabad,Marpalle,Green chillies,18,14
+2018-2019,Rabi,Vikarabad,Mominpet,Green chillies,3,1
+2018-2019,Rabi,Vikarabad,Nawabpet,Green chillies,9,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Green chillies,4,1
+2018-2019,Rabi,Vikarabad,Pudur,Green chillies,10,1
+2018-2019,Rabi,Vikarabad,Pargi,Green chillies,0,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Green chillies,2,0
+2018-2019,Rabi,Vikarabad,Doma,Green chillies,2,0
+2018-2019,Rabi,Vikarabad,Bomraspeta,Green chillies,7,5
+2018-2019,Rabi,Vikarabad,Dharur,Green chillies,16,0
+2018-2019,Rabi,Vikarabad,Kotepally,Green chillies,5,8
+2018-2019,Rabi,Vikarabad,Bantwaram,Green chillies,4,0
+2018-2019,Rabi,Vikarabad,Peddemul,Green chillies,0,0
+2018-2019,Rabi,Vikarabad,Tandur,Green chillies,5,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Green chillies,9,2
+2018-2019,Rabi,Vikarabad,Yelal,Green chillies,0,0
+2018-2019,Rabi,Vikarabad,Kodangal,Green chillies,13,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Green chillies,8,0
+2018-2019,Rabi,Vikarabad,Marpalle,Potato,245,
+2018-2019,Rabi,Vikarabad,Mominpet,Potato,258,
+2018-2019,Rabi,Vikarabad,Nawabpet,Potato,12,
+2018-2019,Rabi,Vikarabad,Vikarabad,Potato,8,
+2018-2019,Rabi,Vikarabad,Pudur,Potato,0,
+2018-2019,Rabi,Vikarabad,Pargi,Potato,0,
+2018-2019,Rabi,Vikarabad,Kulkacharla,Potato,0,
+2018-2019,Rabi,Vikarabad,Doma,Potato,0,
+2018-2019,Rabi,Vikarabad,Bomraspeta,Potato,0,
+2018-2019,Rabi,Vikarabad,Dharur,Potato,0,
+2018-2019,Rabi,Vikarabad,Kotepally,Potato,0,
+2018-2019,Rabi,Vikarabad,Bantwaram,Potato,16,
+2018-2019,Rabi,Vikarabad,Peddemul,Potato,0,
+2018-2019,Rabi,Vikarabad,Tandur,Potato,0,
+2018-2019,Rabi,Vikarabad,Basheerabad,Potato,0,
+2018-2019,Rabi,Vikarabad,Yelal,Potato,0,
+2018-2019,Rabi,Vikarabad,Kodangal,Potato,0,
+2018-2019,Rabi,Vikarabad,Doulatabad,Potato,0,
+2018-2019,Rabi,Vikarabad,Marpalle,Onion,237,196
+2018-2019,Rabi,Vikarabad,Mominpet,Onion,343,210
+2018-2019,Rabi,Vikarabad,Nawabpet,Onion,51,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Onion,96,56
+2018-2019,Rabi,Vikarabad,Pudur,Onion,30,2
+2018-2019,Rabi,Vikarabad,Pargi,Onion,33,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Onion,27,0
+2018-2019,Rabi,Vikarabad,Doma,Onion,37,3
+2018-2019,Rabi,Vikarabad,Bomraspeta,Onion,23,25
+2018-2019,Rabi,Vikarabad,Dharur,Onion,53,0
+2018-2019,Rabi,Vikarabad,Kotepally,Onion,13,6
+2018-2019,Rabi,Vikarabad,Bantwaram,Onion,157,0
+2018-2019,Rabi,Vikarabad,Peddemul,Onion,27,0
+2018-2019,Rabi,Vikarabad,Tandur,Onion,363,250
+2018-2019,Rabi,Vikarabad,Basheerabad,Onion,2,12
+2018-2019,Rabi,Vikarabad,Yelal,Onion,19,4
+2018-2019,Rabi,Vikarabad,Kodangal,Onion,8,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Onion,2,2
+2018-2019,Rabi,Vikarabad,Marpalle,Other food crops,228,322
+2018-2019,Rabi,Vikarabad,Mominpet,Other food crops,355,70
+2018-2019,Rabi,Vikarabad,Nawabpet,Other food crops,248,392
+2018-2019,Rabi,Vikarabad,Vikarabad,Other food crops,171,139
+2018-2019,Rabi,Vikarabad,Pudur,Other food crops,209,34
+2018-2019,Rabi,Vikarabad,Pargi,Other food crops,68,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Other food crops,64,0
+2018-2019,Rabi,Vikarabad,Doma,Other food crops,70,1
+2018-2019,Rabi,Vikarabad,Bomraspeta,Other food crops,98,15
+2018-2019,Rabi,Vikarabad,Dharur,Other food crops,96,0
+2018-2019,Rabi,Vikarabad,Kotepally,Other food crops,34,34
+2018-2019,Rabi,Vikarabad,Bantwaram,Other food crops,105,0
+2018-2019,Rabi,Vikarabad,Peddemul,Other food crops,46,0
+2018-2019,Rabi,Vikarabad,Tandur,Other food crops,66,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Other food crops,22,92
+2018-2019,Rabi,Vikarabad,Yelal,Other food crops,76,1
+2018-2019,Rabi,Vikarabad,Kodangal,Other food crops,54,22
+2018-2019,Rabi,Vikarabad,Doulatabad,Other food crops,26,18
+2018-2019,Rabi,Vikarabad,Marpalle,Groundnut,0,0
+2018-2019,Rabi,Vikarabad,Mominpet,Groundnut,0,0
+2018-2019,Rabi,Vikarabad,Nawabpet,Groundnut,0,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Groundnut,5,1
+2018-2019,Rabi,Vikarabad,Pudur,Groundnut,0,0
+2018-2019,Rabi,Vikarabad,Pargi,Groundnut,424,20
+2018-2019,Rabi,Vikarabad,Kulkacharla,Groundnut,701,35
+2018-2019,Rabi,Vikarabad,Doma,Groundnut,1008,201
+2018-2019,Rabi,Vikarabad,Bomraspeta,Groundnut,1231,918
+2018-2019,Rabi,Vikarabad,Dharur,Groundnut,335,68
+2018-2019,Rabi,Vikarabad,Kotepally,Groundnut,8,29
+2018-2019,Rabi,Vikarabad,Bantwaram,Groundnut,6,0
+2018-2019,Rabi,Vikarabad,Peddemul,Groundnut,382,126
+2018-2019,Rabi,Vikarabad,Tandur,Groundnut,378,80
+2018-2019,Rabi,Vikarabad,Basheerabad,Groundnut,520,121
+2018-2019,Rabi,Vikarabad,Yelal,Groundnut,1055,563
+2018-2019,Rabi,Vikarabad,Kodangal,Groundnut,363,241
+2018-2019,Rabi,Vikarabad,Doulatabad,Groundnut,841,439
+2018-2019,Rabi,Vikarabad,Marpalle,Safflower,59,5
+2018-2019,Rabi,Vikarabad,Mominpet,Safflower,28,0
+2018-2019,Rabi,Vikarabad,Nawabpet,Safflower,51,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Safflower,30,15
+2018-2019,Rabi,Vikarabad,Pudur,Safflower,16,1
+2018-2019,Rabi,Vikarabad,Pargi,Safflower,0,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Safflower,0,0
+2018-2019,Rabi,Vikarabad,Doma,Safflower,0,0
+2018-2019,Rabi,Vikarabad,Bomraspeta,Safflower,8,1
+2018-2019,Rabi,Vikarabad,Dharur,Safflower,28,0
+2018-2019,Rabi,Vikarabad,Kotepally,Safflower,3,0
+2018-2019,Rabi,Vikarabad,Bantwaram,Safflower,90,0
+2018-2019,Rabi,Vikarabad,Peddemul,Safflower,39,0
+2018-2019,Rabi,Vikarabad,Tandur,Safflower,132,6
+2018-2019,Rabi,Vikarabad,Basheerabad,Safflower,67,5
+2018-2019,Rabi,Vikarabad,Yelal,Safflower,102,10
+2018-2019,Rabi,Vikarabad,Kodangal,Safflower,46,29
+2018-2019,Rabi,Vikarabad,Doulatabad,Safflower,1,0
+2018-2019,Rabi,Vikarabad,Marpalle,Sunflower,7,2
+2018-2019,Rabi,Vikarabad,Mominpet,Sunflower,5,0
+2018-2019,Rabi,Vikarabad,Nawabpet,Sunflower,4,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Sunflower,2,0
+2018-2019,Rabi,Vikarabad,Pudur,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Pargi,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Doma,Sunflower,5,0
+2018-2019,Rabi,Vikarabad,Bomraspeta,Sunflower,3,6
+2018-2019,Rabi,Vikarabad,Dharur,Sunflower,19,0
+2018-2019,Rabi,Vikarabad,Kotepally,Sunflower,2,0
+2018-2019,Rabi,Vikarabad,Bantwaram,Sunflower,9,0
+2018-2019,Rabi,Vikarabad,Peddemul,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Tandur,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Sunflower,4,2
+2018-2019,Rabi,Vikarabad,Yelal,Sunflower,1,0
+2018-2019,Rabi,Vikarabad,Kodangal,Sunflower,0,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Sunflower,5,2
+2018-2019,Rabi,Vikarabad,Marpalle,Other non-food crops,11,2
+2018-2019,Rabi,Vikarabad,Mominpet,Other non-food crops,28,4
+2018-2019,Rabi,Vikarabad,Nawabpet,Other non-food crops,18,0
+2018-2019,Rabi,Vikarabad,Vikarabad,Other non-food crops,50,31
+2018-2019,Rabi,Vikarabad,Pudur,Other non-food crops,25,2
+2018-2019,Rabi,Vikarabad,Pargi,Other non-food crops,0,0
+2018-2019,Rabi,Vikarabad,Kulkacharla,Other non-food crops,21,0
+2018-2019,Rabi,Vikarabad,Doma,Other non-food crops,27,0
+2018-2019,Rabi,Vikarabad,Bomraspeta,Other non-food crops,0,0
+2018-2019,Rabi,Vikarabad,Dharur,Other non-food crops,17,1
+2018-2019,Rabi,Vikarabad,Kotepally,Other non-food crops,5,0
+2018-2019,Rabi,Vikarabad,Bantwaram,Other non-food crops,29,0
+2018-2019,Rabi,Vikarabad,Peddemul,Other non-food crops,12,0
+2018-2019,Rabi,Vikarabad,Tandur,Other non-food crops,1,0
+2018-2019,Rabi,Vikarabad,Basheerabad,Other non-food crops,3,1
+2018-2019,Rabi,Vikarabad,Yelal,Other non-food crops,3,0
+2018-2019,Rabi,Vikarabad,Kodangal,Other non-food crops,0,0
+2018-2019,Rabi,Vikarabad,Doulatabad,Other non-food crops,0,0
+2018-2019,Rabi,Vikarabad,Marpalle,Total,1234,697
+2018-2019,Rabi,Vikarabad,Mominpet,Total,1469,444
+2018-2019,Rabi,Vikarabad,Nawabpet,Total,939,1023
+2018-2019,Rabi,Vikarabad,Vikarabad,Total,804,519
+2018-2019,Rabi,Vikarabad,Pudur,Total,977,336
+2018-2019,Rabi,Vikarabad,Pargi,Total,1334,1173
+2018-2019,Rabi,Vikarabad,Kulkacharla,Total,1818,175
+2018-2019,Rabi,Vikarabad,Doma,Total,2688,449
+2018-2019,Rabi,Vikarabad,Bomraspeta,Total,2563,1351
+2018-2019,Rabi,Vikarabad,Dharur,Total,1250,171
+2018-2019,Rabi,Vikarabad,Kotepally,Total,164,150
+2018-2019,Rabi,Vikarabad,Bantwaram,Total,970,91
+2018-2019,Rabi,Vikarabad,Peddemul,Total,2044,311
+2018-2019,Rabi,Vikarabad,Tandur,Total,2412,658
+2018-2019,Rabi,Vikarabad,Basheerabad,Total,1725,798
+2018-2019,Rabi,Vikarabad,Yelal,Total,3090,1650
+2018-2019,Rabi,Vikarabad,Kodangal,Total,1909,1161
+2018-2019,Rabi,Vikarabad,Doulatabad,Total,1972,920

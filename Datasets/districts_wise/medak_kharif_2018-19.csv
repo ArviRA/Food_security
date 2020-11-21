@@ -1,0 +1,321 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Medak,Shankarampet (A),Paddy,1172,752
+2018-2019,Kharif,Medak,Regode,Paddy,375,100
+2018-2019,Kharif,Medak,Alladurg,Paddy,786,536
+2018-2019,Kharif,Medak,Tekmal,Paddy,1779,1274
+2018-2019,Kharif,Medak,Papannapet,Paddy,4636,5115
+2018-2019,Kharif,Medak,Havelighanpur,Paddy,625,2945
+2018-2019,Kharif,Medak,Ramayampet,Paddy,2252,1084
+2018-2019,Kharif,Medak,Nizampet,Paddy,189,489
+2018-2019,Kharif,Medak,Chegunta,Paddy,2201,1205
+2018-2019,Kharif,Medak,Narsingi,Paddy,138,2621
+2018-2019,Kharif,Medak,Shankarampet (R),Paddy,2405,3537
+2018-2019,Kharif,Medak,Medak,Paddy,4485,1737
+2018-2019,Kharif,Medak,Kulcharam,Paddy,3778,1425
+2018-2019,Kharif,Medak,Chilipched,Paddy,300,1706
+2018-2019,Kharif,Medak,Kowdipalle,Paddy,3916,1588
+2018-2019,Kharif,Medak,Narsapur,Paddy,2367,1462
+2018-2019,Kharif,Medak,Shivampet,Paddy,3027,858
+2018-2019,Kharif,Medak,Yeldurthy,Paddy,2009,1562
+2018-2019,Kharif,Medak,Tupran,Paddy,1518,874
+2018-2019,Kharif,Medak,Manoharabad,Paddy,110,400
+2018-2019,Kharif,Medak,Shankarampet (A),Jowar,227,36
+2018-2019,Kharif,Medak,Regode,Jowar,35,0
+2018-2019,Kharif,Medak,Alladurg,Jowar,74,13
+2018-2019,Kharif,Medak,Tekmal,Jowar,237,97
+2018-2019,Kharif,Medak,Papannapet,Jowar,56,35
+2018-2019,Kharif,Medak,Havelighanpur,Jowar,0,0
+2018-2019,Kharif,Medak,Ramayampet,Jowar,0,0
+2018-2019,Kharif,Medak,Nizampet,Jowar,0,17
+2018-2019,Kharif,Medak,Chegunta,Jowar,0,0
+2018-2019,Kharif,Medak,Narsingi,Jowar,0,3
+2018-2019,Kharif,Medak,Shankarampet (R),Jowar,0,13
+2018-2019,Kharif,Medak,Medak,Jowar,6,10
+2018-2019,Kharif,Medak,Kulcharam,Jowar,38,15
+2018-2019,Kharif,Medak,Chilipched,Jowar,29,22
+2018-2019,Kharif,Medak,Kowdipalle,Jowar,100,0
+2018-2019,Kharif,Medak,Narsapur,Jowar,95,0
+2018-2019,Kharif,Medak,Shivampet,Jowar,14,0
+2018-2019,Kharif,Medak,Yeldurthy,Jowar,0,0
+2018-2019,Kharif,Medak,Tupran,Jowar,4,0
+2018-2019,Kharif,Medak,Manoharabad,Jowar,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Bajra,0,0
+2018-2019,Kharif,Medak,Regode,Bajra,0,0
+2018-2019,Kharif,Medak,Alladurg,Bajra,0,0
+2018-2019,Kharif,Medak,Tekmal,Bajra,0,0
+2018-2019,Kharif,Medak,Papannapet,Bajra,0,0
+2018-2019,Kharif,Medak,Havelighanpur,Bajra,0,0
+2018-2019,Kharif,Medak,Ramayampet,Bajra,0,0
+2018-2019,Kharif,Medak,Nizampet,Bajra,0,2
+2018-2019,Kharif,Medak,Chegunta,Bajra,0,0
+2018-2019,Kharif,Medak,Narsingi,Bajra,0,0
+2018-2019,Kharif,Medak,Shankarampet (R),Bajra,0,0
+2018-2019,Kharif,Medak,Medak,Bajra,0,0
+2018-2019,Kharif,Medak,Kulcharam,Bajra,0,0
+2018-2019,Kharif,Medak,Chilipched,Bajra,0,0
+2018-2019,Kharif,Medak,Kowdipalle,Bajra,0,0
+2018-2019,Kharif,Medak,Narsapur,Bajra,0,0
+2018-2019,Kharif,Medak,Shivampet,Bajra,0,0
+2018-2019,Kharif,Medak,Yeldurthy,Bajra,0,0
+2018-2019,Kharif,Medak,Tupran,Bajra,4,0
+2018-2019,Kharif,Medak,Manoharabad,Bajra,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Maize,1508,431
+2018-2019,Kharif,Medak,Regode,Maize,146,17
+2018-2019,Kharif,Medak,Alladurg,Maize,435,87
+2018-2019,Kharif,Medak,Tekmal,Maize,2641,724
+2018-2019,Kharif,Medak,Papannapet,Maize,423,318
+2018-2019,Kharif,Medak,Havelighanpur,Maize,201,376
+2018-2019,Kharif,Medak,Ramayampet,Maize,3378,1047
+2018-2019,Kharif,Medak,Nizampet,Maize,567,2431
+2018-2019,Kharif,Medak,Chegunta,Maize,5266,1057
+2018-2019,Kharif,Medak,Narsingi,Maize,153,243
+2018-2019,Kharif,Medak,Shankarampet (R),Maize,2247,226
+2018-2019,Kharif,Medak,Medak,Maize,695,169
+2018-2019,Kharif,Medak,Kulcharam,Maize,1214,856
+2018-2019,Kharif,Medak,Chilipched,Maize,233,645
+2018-2019,Kharif,Medak,Kowdipalle,Maize,2160,2125
+2018-2019,Kharif,Medak,Narsapur,Maize,1035,1028
+2018-2019,Kharif,Medak,Shivampet,Maize,2918,231
+2018-2019,Kharif,Medak,Yeldurthy,Maize,909,554
+2018-2019,Kharif,Medak,Tupran,Maize,1626,739
+2018-2019,Kharif,Medak,Manoharabad,Maize,231,374
+2018-2019,Kharif,Medak,Shankarampet (A),Green Gram,766,611
+2018-2019,Kharif,Medak,Regode,Green Gram,1481,347
+2018-2019,Kharif,Medak,Alladurg,Green Gram,675,61
+2018-2019,Kharif,Medak,Tekmal,Green Gram,597,150
+2018-2019,Kharif,Medak,Papannapet,Green Gram,77,63
+2018-2019,Kharif,Medak,Havelighanpur,Green Gram,17,2
+2018-2019,Kharif,Medak,Ramayampet,Green Gram,5,0
+2018-2019,Kharif,Medak,Nizampet,Green Gram,0,0
+2018-2019,Kharif,Medak,Chegunta,Green Gram,1,3
+2018-2019,Kharif,Medak,Narsingi,Green Gram,0,8
+2018-2019,Kharif,Medak,Shankarampet (R),Green Gram,1,14
+2018-2019,Kharif,Medak,Medak,Green Gram,18,20
+2018-2019,Kharif,Medak,Kulcharam,Green Gram,33,19
+2018-2019,Kharif,Medak,Chilipched,Green Gram,13,0
+2018-2019,Kharif,Medak,Kowdipalle,Green Gram,59,0
+2018-2019,Kharif,Medak,Narsapur,Green Gram,7,0
+2018-2019,Kharif,Medak,Shivampet,Green Gram,4,0
+2018-2019,Kharif,Medak,Yeldurthy,Green Gram,0,0
+2018-2019,Kharif,Medak,Tupran,Green Gram,0,6
+2018-2019,Kharif,Medak,Manoharabad,Green Gram,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Black Gram,224,130
+2018-2019,Kharif,Medak,Regode,Black Gram,522,172
+2018-2019,Kharif,Medak,Alladurg,Black Gram,368,41
+2018-2019,Kharif,Medak,Tekmal,Black Gram,281,2
+2018-2019,Kharif,Medak,Papannapet,Black Gram,56,33
+2018-2019,Kharif,Medak,Havelighanpur,Black Gram,10,0
+2018-2019,Kharif,Medak,Ramayampet,Black Gram,4,0
+2018-2019,Kharif,Medak,Nizampet,Black Gram,0,0
+2018-2019,Kharif,Medak,Chegunta,Black Gram,0,3
+2018-2019,Kharif,Medak,Narsingi,Black Gram,0,8
+2018-2019,Kharif,Medak,Shankarampet (R),Black Gram,1,9
+2018-2019,Kharif,Medak,Medak,Black Gram,17,15
+2018-2019,Kharif,Medak,Kulcharam,Black Gram,35,8
+2018-2019,Kharif,Medak,Chilipched,Black Gram,10,0
+2018-2019,Kharif,Medak,Kowdipalle,Black Gram,46,0
+2018-2019,Kharif,Medak,Narsapur,Black Gram,3,0
+2018-2019,Kharif,Medak,Shivampet,Black Gram,0,0
+2018-2019,Kharif,Medak,Yeldurthy,Black Gram,0,0
+2018-2019,Kharif,Medak,Tupran,Black Gram,0,0
+2018-2019,Kharif,Medak,Manoharabad,Black Gram,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Red Gram,267,115
+2018-2019,Kharif,Medak,Regode,Red Gram,575,199
+2018-2019,Kharif,Medak,Alladurg,Red Gram,607,107
+2018-2019,Kharif,Medak,Tekmal,Red Gram,538,74
+2018-2019,Kharif,Medak,Papannapet,Red Gram,64,48
+2018-2019,Kharif,Medak,Havelighanpur,Red Gram,8,1
+2018-2019,Kharif,Medak,Ramayampet,Red Gram,65,164
+2018-2019,Kharif,Medak,Nizampet,Red Gram,39,123
+2018-2019,Kharif,Medak,Chegunta,Red Gram,101,113
+2018-2019,Kharif,Medak,Narsingi,Red Gram,4,8
+2018-2019,Kharif,Medak,Shankarampet (R),Red Gram,58,69
+2018-2019,Kharif,Medak,Medak,Red Gram,18,83
+2018-2019,Kharif,Medak,Kulcharam,Red Gram,89,75
+2018-2019,Kharif,Medak,Chilipched,Red Gram,38,78
+2018-2019,Kharif,Medak,Kowdipalle,Red Gram,252,187
+2018-2019,Kharif,Medak,Narsapur,Red Gram,100,113
+2018-2019,Kharif,Medak,Shivampet,Red Gram,156,23
+2018-2019,Kharif,Medak,Yeldurthy,Red Gram,28,0
+2018-2019,Kharif,Medak,Tupran,Red Gram,129,71
+2018-2019,Kharif,Medak,Manoharabad,Red Gram,7,43
+2018-2019,Kharif,Medak,Shankarampet (A),Cow Gram,0,0
+2018-2019,Kharif,Medak,Regode,Cow Gram,0,0
+2018-2019,Kharif,Medak,Alladurg,Cow Gram,0,0
+2018-2019,Kharif,Medak,Tekmal,Cow Gram,0,0
+2018-2019,Kharif,Medak,Papannapet,Cow Gram,0,0
+2018-2019,Kharif,Medak,Havelighanpur,Cow Gram,0,0
+2018-2019,Kharif,Medak,Ramayampet,Cow Gram,8,0
+2018-2019,Kharif,Medak,Nizampet,Cow Gram,0,0
+2018-2019,Kharif,Medak,Chegunta,Cow Gram,2,14
+2018-2019,Kharif,Medak,Narsingi,Cow Gram,0,0
+2018-2019,Kharif,Medak,Shankarampet (R),Cow Gram,17,0
+2018-2019,Kharif,Medak,Medak,Cow Gram,0,0
+2018-2019,Kharif,Medak,Kulcharam,Cow Gram,0,0
+2018-2019,Kharif,Medak,Chilipched,Cow Gram,3,0
+2018-2019,Kharif,Medak,Kowdipalle,Cow Gram,1,0
+2018-2019,Kharif,Medak,Narsapur,Cow Gram,0,0
+2018-2019,Kharif,Medak,Shivampet,Cow Gram,1,0
+2018-2019,Kharif,Medak,Yeldurthy,Cow Gram,0,0
+2018-2019,Kharif,Medak,Tupran,Cow Gram,0,0
+2018-2019,Kharif,Medak,Manoharabad,Cow Gram,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Chillies,0,0
+2018-2019,Kharif,Medak,Regode,Chillies,0,0
+2018-2019,Kharif,Medak,Alladurg,Chillies,16,0
+2018-2019,Kharif,Medak,Tekmal,Chillies,18,0
+2018-2019,Kharif,Medak,Papannapet,Chillies,0,0
+2018-2019,Kharif,Medak,Havelighanpur,Chillies,2,0
+2018-2019,Kharif,Medak,Ramayampet,Chillies,0,0
+2018-2019,Kharif,Medak,Nizampet,Chillies,0,11
+2018-2019,Kharif,Medak,Chegunta,Chillies,0,0
+2018-2019,Kharif,Medak,Narsingi,Chillies,0,0
+2018-2019,Kharif,Medak,Shankarampet (R),Chillies,0,0
+2018-2019,Kharif,Medak,Medak,Chillies,1,0
+2018-2019,Kharif,Medak,Kulcharam,Chillies,0,0
+2018-2019,Kharif,Medak,Chilipched,Chillies,0,0
+2018-2019,Kharif,Medak,Kowdipalle,Chillies,6,0
+2018-2019,Kharif,Medak,Narsapur,Chillies,1,0
+2018-2019,Kharif,Medak,Shivampet,Chillies,1,0
+2018-2019,Kharif,Medak,Yeldurthy,Chillies,1,0
+2018-2019,Kharif,Medak,Tupran,Chillies,4,0
+2018-2019,Kharif,Medak,Manoharabad,Chillies,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Sugarcane,47,4
+2018-2019,Kharif,Medak,Regode,Sugarcane,44,0
+2018-2019,Kharif,Medak,Alladurg,Sugarcane,119,21
+2018-2019,Kharif,Medak,Tekmal,Sugarcane,274,43
+2018-2019,Kharif,Medak,Papannapet,Sugarcane,315,21
+2018-2019,Kharif,Medak,Havelighanpur,Sugarcane,20,88
+2018-2019,Kharif,Medak,Ramayampet,Sugarcane,244,94
+2018-2019,Kharif,Medak,Nizampet,Sugarcane,28,93
+2018-2019,Kharif,Medak,Chegunta,Sugarcane,23,58
+2018-2019,Kharif,Medak,Narsingi,Sugarcane,0,90
+2018-2019,Kharif,Medak,Shankarampet (R),Sugarcane,134,70
+2018-2019,Kharif,Medak,Medak,Sugarcane,514,213
+2018-2019,Kharif,Medak,Kulcharam,Sugarcane,227,74
+2018-2019,Kharif,Medak,Chilipched,Sugarcane,45,90
+2018-2019,Kharif,Medak,Kowdipalle,Sugarcane,923,25
+2018-2019,Kharif,Medak,Narsapur,Sugarcane,378,10
+2018-2019,Kharif,Medak,Shivampet,Sugarcane,12,4
+2018-2019,Kharif,Medak,Yeldurthy,Sugarcane,75,34
+2018-2019,Kharif,Medak,Tupran,Sugarcane,10,2
+2018-2019,Kharif,Medak,Manoharabad,Sugarcane,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Onion,0,0
+2018-2019,Kharif,Medak,Regode,Onion,13,252
+2018-2019,Kharif,Medak,Alladurg,Onion,13,23
+2018-2019,Kharif,Medak,Tekmal,Onion,14,0
+2018-2019,Kharif,Medak,Papannapet,Onion,2,5
+2018-2019,Kharif,Medak,Havelighanpur,Onion,3,0
+2018-2019,Kharif,Medak,Ramayampet,Onion,2,0
+2018-2019,Kharif,Medak,Nizampet,Onion,0,0
+2018-2019,Kharif,Medak,Chegunta,Onion,2,0
+2018-2019,Kharif,Medak,Narsingi,Onion,0,12
+2018-2019,Kharif,Medak,Shankarampet (R),Onion,0,0
+2018-2019,Kharif,Medak,Medak,Onion,3,0
+2018-2019,Kharif,Medak,Kulcharam,Onion,3,0
+2018-2019,Kharif,Medak,Chilipched,Onion,0,0
+2018-2019,Kharif,Medak,Kowdipalle,Onion,0,0
+2018-2019,Kharif,Medak,Narsapur,Onion,4,0
+2018-2019,Kharif,Medak,Shivampet,Onion,6,12
+2018-2019,Kharif,Medak,Yeldurthy,Onion,0,0
+2018-2019,Kharif,Medak,Tupran,Onion,3,0
+2018-2019,Kharif,Medak,Manoharabad,Onion,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Cotton,154,591
+2018-2019,Kharif,Medak,Regode,Cotton,4432,2928
+2018-2019,Kharif,Medak,Alladurg,Cotton,6605,4560
+2018-2019,Kharif,Medak,Tekmal,Cotton,1044,1557
+2018-2019,Kharif,Medak,Papannapet,Cotton,10,28
+2018-2019,Kharif,Medak,Havelighanpur,Cotton,0,0
+2018-2019,Kharif,Medak,Ramayampet,Cotton,143,355
+2018-2019,Kharif,Medak,Nizampet,Cotton,17,355
+2018-2019,Kharif,Medak,Chegunta,Cotton,405,98
+2018-2019,Kharif,Medak,Narsingi,Cotton,1,0
+2018-2019,Kharif,Medak,Shankarampet (R),Cotton,50,633
+2018-2019,Kharif,Medak,Medak,Cotton,0,739
+2018-2019,Kharif,Medak,Kulcharam,Cotton,175,142
+2018-2019,Kharif,Medak,Chilipched,Cotton,83,188
+2018-2019,Kharif,Medak,Kowdipalle,Cotton,79,140
+2018-2019,Kharif,Medak,Narsapur,Cotton,125,1365
+2018-2019,Kharif,Medak,Shivampet,Cotton,117,74
+2018-2019,Kharif,Medak,Yeldurthy,Cotton,7,19
+2018-2019,Kharif,Medak,Tupran,Cotton,142,113
+2018-2019,Kharif,Medak,Manoharabad,Cotton,6,108
+2018-2019,Kharif,Medak,Shankarampet (A),Groundnut,0,0
+2018-2019,Kharif,Medak,Regode,Groundnut,0,0
+2018-2019,Kharif,Medak,Alladurg,Groundnut,0,0
+2018-2019,Kharif,Medak,Tekmal,Groundnut,1,0
+2018-2019,Kharif,Medak,Papannapet,Groundnut,0,0
+2018-2019,Kharif,Medak,Havelighanpur,Groundnut,0,0
+2018-2019,Kharif,Medak,Ramayampet,Groundnut,1,4
+2018-2019,Kharif,Medak,Nizampet,Groundnut,0,0
+2018-2019,Kharif,Medak,Chegunta,Groundnut,0,0
+2018-2019,Kharif,Medak,Narsingi,Groundnut,0,12
+2018-2019,Kharif,Medak,Shankarampet (R),Groundnut,0,0
+2018-2019,Kharif,Medak,Medak,Groundnut,1,0
+2018-2019,Kharif,Medak,Kulcharam,Groundnut,0,0
+2018-2019,Kharif,Medak,Chilipched,Groundnut,0,0
+2018-2019,Kharif,Medak,Kowdipalle,Groundnut,0,0
+2018-2019,Kharif,Medak,Narsapur,Groundnut,0,0
+2018-2019,Kharif,Medak,Shivampet,Groundnut,3,0
+2018-2019,Kharif,Medak,Yeldurthy,Groundnut,0,0
+2018-2019,Kharif,Medak,Tupran,Groundnut,0,0
+2018-2019,Kharif,Medak,Manoharabad,Groundnut,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Castor,0,0
+2018-2019,Kharif,Medak,Regode,Castor,0,0
+2018-2019,Kharif,Medak,Alladurg,Castor,0,0
+2018-2019,Kharif,Medak,Tekmal,Castor,0,0
+2018-2019,Kharif,Medak,Papannapet,Castor,0,0
+2018-2019,Kharif,Medak,Havelighanpur,Castor,0,0
+2018-2019,Kharif,Medak,Ramayampet,Castor,5,0
+2018-2019,Kharif,Medak,Nizampet,Castor,0,0
+2018-2019,Kharif,Medak,Chegunta,Castor,0,6
+2018-2019,Kharif,Medak,Narsingi,Castor,0,0
+2018-2019,Kharif,Medak,Shankarampet (R),Castor,5,0
+2018-2019,Kharif,Medak,Medak,Castor,0,0
+2018-2019,Kharif,Medak,Kulcharam,Castor,0,0
+2018-2019,Kharif,Medak,Chilipched,Castor,0,0
+2018-2019,Kharif,Medak,Kowdipalle,Castor,0,6
+2018-2019,Kharif,Medak,Narsapur,Castor,0,0
+2018-2019,Kharif,Medak,Shivampet,Castor,3,0
+2018-2019,Kharif,Medak,Yeldurthy,Castor,0,0
+2018-2019,Kharif,Medak,Tupran,Castor,4,0
+2018-2019,Kharif,Medak,Manoharabad,Castor,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Soyabean,466,6
+2018-2019,Kharif,Medak,Regode,Soyabean,168,0
+2018-2019,Kharif,Medak,Alladurg,Soyabean,312,1
+2018-2019,Kharif,Medak,Tekmal,Soyabean,67,0
+2018-2019,Kharif,Medak,Papannapet,Soyabean,34,0
+2018-2019,Kharif,Medak,Havelighanpur,Soyabean,31,0
+2018-2019,Kharif,Medak,Ramayampet,Soyabean,67,0
+2018-2019,Kharif,Medak,Nizampet,Soyabean,7,0
+2018-2019,Kharif,Medak,Chegunta,Soyabean,8,0
+2018-2019,Kharif,Medak,Narsingi,Soyabean,0,9
+2018-2019,Kharif,Medak,Shankarampet (R),Soyabean,42,0
+2018-2019,Kharif,Medak,Medak,Soyabean,71,0
+2018-2019,Kharif,Medak,Kulcharam,Soyabean,16,0
+2018-2019,Kharif,Medak,Chilipched,Soyabean,6,0
+2018-2019,Kharif,Medak,Kowdipalle,Soyabean,49,0
+2018-2019,Kharif,Medak,Narsapur,Soyabean,19,0
+2018-2019,Kharif,Medak,Shivampet,Soyabean,7,0
+2018-2019,Kharif,Medak,Yeldurthy,Soyabean,24,0
+2018-2019,Kharif,Medak,Tupran,Soyabean,0,0
+2018-2019,Kharif,Medak,Manoharabad,Soyabean,0,0
+2018-2019,Kharif,Medak,Shankarampet (A),Total,4831,2676
+2018-2019,Kharif,Medak,Regode,Total,7791,4015
+2018-2019,Kharif,Medak,Alladurg,Total,10010,5450
+2018-2019,Kharif,Medak,Tekmal,Total,7491,3921
+2018-2019,Kharif,Medak,Papannapet,Total,5673,5666
+2018-2019,Kharif,Medak,Havelighanpur,Total,917,3412
+2018-2019,Kharif,Medak,Ramayampet,Total,6174,2748
+2018-2019,Kharif,Medak,Nizampet,Total,847,3521
+2018-2019,Kharif,Medak,Chegunta,Total,8009,2557
+2018-2019,Kharif,Medak,Narsingi,Total,296,3014
+2018-2019,Kharif,Medak,Shankarampet (R),Total,4960,4571
+2018-2019,Kharif,Medak,Medak,Total,5829,2986
+2018-2019,Kharif,Medak,Kulcharam,Total,5608,2614
+2018-2019,Kharif,Medak,Chilipched,Total,760,2729
+2018-2019,Kharif,Medak,Kowdipalle,Total,7591,4071
+2018-2019,Kharif,Medak,Narsapur,Total,4134,3978
+2018-2019,Kharif,Medak,Shivampet,Total,6269,1202
+2018-2019,Kharif,Medak,Yeldurthy,Total,3053,2169
+2018-2019,Kharif,Medak,Tupran,Total,3444,1805
+2018-2019,Kharif,Medak,Manoharabad,Total,354,925

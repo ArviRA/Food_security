@@ -1,0 +1,36 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Medchal,Medchal,Paddy,591,930
+2018-2019,Kharif,Medchal,Shamirpet,Paddy,686,1146
+2018-2019,Kharif,Medchal,Keesara,Paddy,462,1136
+2018-2019,Kharif,Medchal,Ghatkesar,Paddy,1046,536
+2018-2019,Kharif,Medchal,Dundigal,Paddy,92,235
+2018-2019,Kharif,Medchal,Medchal,Maize,392,352
+2018-2019,Kharif,Medchal,Shamirpet,Maize,609,454
+2018-2019,Kharif,Medchal,Keesara,Maize,22,0
+2018-2019,Kharif,Medchal,Ghatkesar,Maize,1,6
+2018-2019,Kharif,Medchal,Dundigal,Maize,38,13
+2018-2019,Kharif,Medchal,Medchal,Jowar,15,10
+2018-2019,Kharif,Medchal,Shamirpet,Jowar,27,12
+2018-2019,Kharif,Medchal,Keesara,Jowar,2,0
+2018-2019,Kharif,Medchal,Ghatkesar,Jowar,1,0
+2018-2019,Kharif,Medchal,Dundigal,Jowar,0,2
+2018-2019,Kharif,Medchal,Medchal,Red Gram,29,37
+2018-2019,Kharif,Medchal,Shamirpet,Red Gram,69,80
+2018-2019,Kharif,Medchal,Keesara,Red Gram,4,0
+2018-2019,Kharif,Medchal,Ghatkesar,Red Gram,1,0
+2018-2019,Kharif,Medchal,Dundigal,Red Gram,6,0
+2018-2019,Kharif,Medchal,Medchal,Other food crops,421,466
+2018-2019,Kharif,Medchal,Shamirpet,Other food crops,1161,997
+2018-2019,Kharif,Medchal,Keesara,Other food crops,256,117
+2018-2019,Kharif,Medchal,Ghatkesar,Other food crops,135,340
+2018-2019,Kharif,Medchal,Dundigal,Other food crops,38,112
+2018-2019,Kharif,Medchal,Medchal,Other non-food crops,24,48
+2018-2019,Kharif,Medchal,Shamirpet,Other non-food crops,142,108
+2018-2019,Kharif,Medchal,Keesara,Other non-food crops,16,639
+2018-2019,Kharif,Medchal,Ghatkesar,Other non-food crops,292,11
+2018-2019,Kharif,Medchal,Dundigal,Other non-food crops,3,28
+2018-2019,Kharif,Medchal,Medchal,Total,1472,1843
+2018-2019,Kharif,Medchal,Shamirpet,Total,2694,2797
+2018-2019,Kharif,Medchal,Keesara,Total,762,1892
+2018-2019,Kharif,Medchal,Ghatkesar,Total,1476,893
+2018-2019,Kharif,Medchal,Dundigal,Total,177,390

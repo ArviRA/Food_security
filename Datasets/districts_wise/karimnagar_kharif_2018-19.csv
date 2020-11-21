@@ -1,0 +1,196 @@
+year,season,districtName,mandalName,crop,normalArea,actualArea
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Paddy,1915,1888
+2018-2019,Kharif,Karimnagar,Kothapalli,Paddy,1303,1501
+2018-2019,Kharif,Karimnagar,Gangadhara,Paddy,1205,2240
+2018-2019,Kharif,Karimnagar,Ramadugu,Paddy,1561,2778
+2018-2019,Kharif,Karimnagar,Choppadandi,Paddy,2700,5837
+2018-2019,Kharif,Karimnagar,Manakondur,Paddy,6403,8572
+2018-2019,Kharif,Karimnagar,Thimmapur,Paddy,2534,2544
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Paddy,1197,1471
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Paddy,563,717
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Paddy,6675,8850
+2018-2019,Kharif,Karimnagar,Huzurabad,Paddy,4787,6066
+2018-2019,Kharif,Karimnagar,Veenavanka,Paddy,2678,5069
+2018-2019,Kharif,Karimnagar,Jammikunta,Paddy,1629,3317
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Paddy,1081,1699
+2018-2019,Kharif,Karimnagar,Saidapur,Paddy,1559,2063
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Maize,304,44
+2018-2019,Kharif,Karimnagar,Kothapalli,Maize,251,83
+2018-2019,Kharif,Karimnagar,Gangadhara,Maize,320,221
+2018-2019,Kharif,Karimnagar,Ramadugu,Maize,716,477
+2018-2019,Kharif,Karimnagar,Choppadandi,Maize,1973,1651
+2018-2019,Kharif,Karimnagar,Manakondur,Maize,804,426
+2018-2019,Kharif,Karimnagar,Thimmapur,Maize,1832,2286
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Maize,2523,2297
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Maize,461,877
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Maize,667,192
+2018-2019,Kharif,Karimnagar,Huzurabad,Maize,938,285
+2018-2019,Kharif,Karimnagar,Veenavanka,Maize,1158,891
+2018-2019,Kharif,Karimnagar,Jammikunta,Maize,325,359
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Maize,262,411
+2018-2019,Kharif,Karimnagar,Saidapur,Maize,1219,331
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Green Gram,27,8
+2018-2019,Kharif,Karimnagar,Kothapalli,Green Gram,12,19
+2018-2019,Kharif,Karimnagar,Gangadhara,Green Gram,152,116
+2018-2019,Kharif,Karimnagar,Ramadugu,Green Gram,280,79
+2018-2019,Kharif,Karimnagar,Choppadandi,Green Gram,31,23
+2018-2019,Kharif,Karimnagar,Manakondur,Green Gram,26,13
+2018-2019,Kharif,Karimnagar,Thimmapur,Green Gram,32,55
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Green Gram,62,64
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Green Gram,15,30
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Green Gram,26,9
+2018-2019,Kharif,Karimnagar,Huzurabad,Green Gram,16,5
+2018-2019,Kharif,Karimnagar,Veenavanka,Green Gram,10,3
+2018-2019,Kharif,Karimnagar,Jammikunta,Green Gram,0,0
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Green Gram,0,1
+2018-2019,Kharif,Karimnagar,Saidapur,Green Gram,29,0
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Kothapalli,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Gangadhara,Black Gram,1,0
+2018-2019,Kharif,Karimnagar,Ramadugu,Black Gram,6,0
+2018-2019,Kharif,Karimnagar,Choppadandi,Black Gram,7,0
+2018-2019,Kharif,Karimnagar,Manakondur,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Thimmapur,Black Gram,8,7
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Black Gram,14,34
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Black Gram,3,2
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Huzurabad,Black Gram,1,0
+2018-2019,Kharif,Karimnagar,Veenavanka,Black Gram,1,0
+2018-2019,Kharif,Karimnagar,Jammikunta,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Black Gram,0,0
+2018-2019,Kharif,Karimnagar,Saidapur,Black Gram,3,0
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Red Gram,112,22
+2018-2019,Kharif,Karimnagar,Kothapalli,Red Gram,58,42
+2018-2019,Kharif,Karimnagar,Gangadhara,Red Gram,175,447
+2018-2019,Kharif,Karimnagar,Ramadugu,Red Gram,106,101
+2018-2019,Kharif,Karimnagar,Choppadandi,Red Gram,94,183
+2018-2019,Kharif,Karimnagar,Manakondur,Red Gram,29,7
+2018-2019,Kharif,Karimnagar,Thimmapur,Red Gram,57,67
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Red Gram,48,116
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Red Gram,36,184
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Red Gram,17,6
+2018-2019,Kharif,Karimnagar,Huzurabad,Red Gram,10,2
+2018-2019,Kharif,Karimnagar,Veenavanka,Red Gram,0,1
+2018-2019,Kharif,Karimnagar,Jammikunta,Red Gram,14,2
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Red Gram,6,1
+2018-2019,Kharif,Karimnagar,Saidapur,Red Gram,24,6
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Kothapalli,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Gangadhara,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Ramadugu,Cow Gram,13,
+2018-2019,Kharif,Karimnagar,Choppadandi,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Manakondur,Cow Gram,5,
+2018-2019,Kharif,Karimnagar,Thimmapur,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Cow Gram,5,
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Huzurabad,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Veenavanka,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Jammikunta,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Saidapur,Cow Gram,0,
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Kothapalli,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Gangadhara,Anumulu,9,
+2018-2019,Kharif,Karimnagar,Ramadugu,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Choppadandi,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Manakondur,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Thimmapur,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Huzurabad,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Veenavanka,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Jammikunta,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Saidapur,Anumulu,0,
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Kothapalli,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Gangadhara,Red chillies,7,
+2018-2019,Kharif,Karimnagar,Ramadugu,Red chillies,6,
+2018-2019,Kharif,Karimnagar,Choppadandi,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Manakondur,Red chillies,1,
+2018-2019,Kharif,Karimnagar,Thimmapur,Red chillies,2,
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Red chillies,7,
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Huzurabad,Red chillies,4,
+2018-2019,Kharif,Karimnagar,Veenavanka,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Jammikunta,Red chillies,79,
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Red chillies,61,
+2018-2019,Kharif,Karimnagar,Saidapur,Red chillies,0,
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Kothapalli,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Gangadhara,Turmeric,0,2
+2018-2019,Kharif,Karimnagar,Ramadugu,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Choppadandi,Turmeric,1,23
+2018-2019,Kharif,Karimnagar,Manakondur,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Thimmapur,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Turmeric,,0
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Turmeric,1,0
+2018-2019,Kharif,Karimnagar,Huzurabad,Turmeric,1,0
+2018-2019,Kharif,Karimnagar,Veenavanka,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Jammikunta,Turmeric,24,45
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Turmeric,99,154
+2018-2019,Kharif,Karimnagar,Saidapur,Turmeric,0,0
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Cotton,1414,1825
+2018-2019,Kharif,Karimnagar,Kothapalli,Cotton,1251,1172
+2018-2019,Kharif,Karimnagar,Gangadhara,Cotton,5978,4552
+2018-2019,Kharif,Karimnagar,Ramadugu,Cotton,5446,4056
+2018-2019,Kharif,Karimnagar,Choppadandi,Cotton,3882,1575
+2018-2019,Kharif,Karimnagar,Manakondur,Cotton,1056,805
+2018-2019,Kharif,Karimnagar,Thimmapur,Cotton,2474,2257
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Cotton,4706,4102
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Cotton,3300,2620
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Cotton,1008,518
+2018-2019,Kharif,Karimnagar,Huzurabad,Cotton,2606,1073
+2018-2019,Kharif,Karimnagar,Veenavanka,Cotton,3031,2637
+2018-2019,Kharif,Karimnagar,Jammikunta,Cotton,5187,5275
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Cotton,4075,3815
+2018-2019,Kharif,Karimnagar,Saidapur,Cotton,7666,6636
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Kothapalli,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Gangadhara,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Ramadugu,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Choppadandi,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Manakondur,Groundnut,3,0
+2018-2019,Kharif,Karimnagar,Thimmapur,Groundnut,69,13
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Groundnut,3,0
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Groundnut,0,1
+2018-2019,Kharif,Karimnagar,Huzurabad,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Veenavanka,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Jammikunta,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Groundnut,0,0
+2018-2019,Kharif,Karimnagar,Saidapur,Groundnut,4,9
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Soyabean,6,0
+2018-2019,Kharif,Karimnagar,Kothapalli,Soyabean,5,0
+2018-2019,Kharif,Karimnagar,Gangadhara,Soyabean,5,0
+2018-2019,Kharif,Karimnagar,Ramadugu,Soyabean,2,0
+2018-2019,Kharif,Karimnagar,Choppadandi,Soyabean,7,8
+2018-2019,Kharif,Karimnagar,Manakondur,Soyabean,0,0
+2018-2019,Kharif,Karimnagar,Thimmapur,Soyabean,1,0
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Soyabean,15,0
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Soyabean,2,0
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Soyabean,0,0
+2018-2019,Kharif,Karimnagar,Huzurabad,Soyabean,0,0
+2018-2019,Kharif,Karimnagar,Veenavanka,Soyabean,1,0
+2018-2019,Kharif,Karimnagar,Jammikunta,Soyabean,0,0
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Soyabean,0,0
+2018-2019,Kharif,Karimnagar,Saidapur,Soyabean,2,0
+2018-2019,Kharif,Karimnagar,Karimnagar Rural,Total,3778,3787
+2018-2019,Kharif,Karimnagar,Kothapalli,Total,2880,2817
+2018-2019,Kharif,Karimnagar,Gangadhara,Total,7836,7578
+2018-2019,Kharif,Karimnagar,Ramadugu,Total,8117,7491
+2018-2019,Kharif,Karimnagar,Choppadandi,Total,8695,9300
+2018-2019,Kharif,Karimnagar,Manakondur,Total,8321,9823
+2018-2019,Kharif,Karimnagar,Thimmapur,Total,7007,7229
+2018-2019,Kharif,Karimnagar,Chigurmamidi,Total,8568,8084
+2018-2019,Kharif,Karimnagar,Ganneruvaram,Total,4380,4430
+2018-2019,Kharif,Karimnagar,Kesavapatnam,Total,8394,9576
+2018-2019,Kharif,Karimnagar,Huzurabad,Total,8359,7431
+2018-2019,Kharif,Karimnagar,Veenavanka,Total,6879,8601
+2018-2019,Kharif,Karimnagar,Jammikunta,Total,7179,8998
+2018-2019,Kharif,Karimnagar,Ellandhakunta,Total,5523,6081
+2018-2019,Kharif,Karimnagar,Saidapur,Total,10506,9045

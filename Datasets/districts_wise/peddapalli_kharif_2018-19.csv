@@ -1,0 +1,239 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Peddapalli,Peddapally,Paddy,5589,6883
+2018-2019,Kharif,Peddapalli,Julapally,Paddy,2259,4194
+2018-2019,Kharif,Peddapalli,Sulthanabad,Paddy,6278,8746
+2018-2019,Kharif,Peddapalli,Odela,Paddy,4798,6573
+2018-2019,Kharif,Peddapalli,Srirampur,Paddy,4467,5108
+2018-2019,Kharif,Peddapalli,Eligaid,Paddy,3312,5057
+2018-2019,Kharif,Peddapalli,Dharmaram,Paddy,3946,5232
+2018-2019,Kharif,Peddapalli,Palakurthy,Paddy,802,2048
+2018-2019,Kharif,Peddapalli,Anthargaon,Paddy,462,1782
+2018-2019,Kharif,Peddapalli,Ramagundam,Paddy,1985,881
+2018-2019,Kharif,Peddapalli,Manthani,Paddy,3013,4352
+2018-2019,Kharif,Peddapalli,Mutharam,Paddy,2840,2980
+2018-2019,Kharif,Peddapalli,Kamanpur,Paddy,2514.8,1608
+2018-2019,Kharif,Peddapalli,Ramagiri,Paddy,841,2360
+2018-2019,Kharif,Peddapalli,Peddapally,Maize,177,47
+2018-2019,Kharif,Peddapalli,Julapally,Maize,509,97
+2018-2019,Kharif,Peddapalli,Sulthanabad,Maize,804,55
+2018-2019,Kharif,Peddapalli,Odela,Maize,778,252
+2018-2019,Kharif,Peddapalli,Srirampur,Maize,1015,1094
+2018-2019,Kharif,Peddapalli,Eligaid,Maize,23,8
+2018-2019,Kharif,Peddapalli,Dharmaram,Maize,770,34
+2018-2019,Kharif,Peddapalli,Palakurthy,Maize,73,25
+2018-2019,Kharif,Peddapalli,Anthargaon,Maize,83,8
+2018-2019,Kharif,Peddapalli,Ramagundam,Maize,90,0
+2018-2019,Kharif,Peddapalli,Manthani,Maize,4,0
+2018-2019,Kharif,Peddapalli,Mutharam,Maize,5,2
+2018-2019,Kharif,Peddapalli,Kamanpur,Maize,6,2
+2018-2019,Kharif,Peddapalli,Ramagiri,Maize,1,0
+2018-2019,Kharif,Peddapalli,Peddapally,Green Gram,32,6
+2018-2019,Kharif,Peddapalli,Julapally,Green Gram,40,5
+2018-2019,Kharif,Peddapalli,Sulthanabad,Green Gram,28,4
+2018-2019,Kharif,Peddapalli,Odela,Green Gram,68,3
+2018-2019,Kharif,Peddapalli,Srirampur,Green Gram,12,4
+2018-2019,Kharif,Peddapalli,Eligaid,Green Gram,15,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Green Gram,84,2
+2018-2019,Kharif,Peddapalli,Palakurthy,Green Gram,20,18
+2018-2019,Kharif,Peddapalli,Anthargaon,Green Gram,16,11
+2018-2019,Kharif,Peddapalli,Ramagundam,Green Gram,126,0
+2018-2019,Kharif,Peddapalli,Manthani,Green Gram,1,2
+2018-2019,Kharif,Peddapalli,Mutharam,Green Gram,2,2
+2018-2019,Kharif,Peddapalli,Kamanpur,Green Gram,8,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Green Gram,1,1
+2018-2019,Kharif,Peddapalli,Peddapally,Black Gram,1,0
+2018-2019,Kharif,Peddapalli,Julapally,Black Gram,3,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Black Gram,3,0
+2018-2019,Kharif,Peddapalli,Odela,Black Gram,3,1
+2018-2019,Kharif,Peddapalli,Srirampur,Black Gram,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Black Gram,3,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Black Gram,4,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Black Gram,5,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Black Gram,2,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Black Gram,5,0
+2018-2019,Kharif,Peddapalli,Manthani,Black Gram,1,1
+2018-2019,Kharif,Peddapalli,Mutharam,Black Gram,0,1
+2018-2019,Kharif,Peddapalli,Kamanpur,Black Gram,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Black Gram,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Red Gram,81,9
+2018-2019,Kharif,Peddapalli,Julapally,Red Gram,40,19
+2018-2019,Kharif,Peddapalli,Sulthanabad,Red Gram,50,15
+2018-2019,Kharif,Peddapalli,Odela,Red Gram,25,17
+2018-2019,Kharif,Peddapalli,Srirampur,Red Gram,15,4
+2018-2019,Kharif,Peddapalli,Eligaid,Red Gram,9,4
+2018-2019,Kharif,Peddapalli,Dharmaram,Red Gram,112,28
+2018-2019,Kharif,Peddapalli,Palakurthy,Red Gram,64,41
+2018-2019,Kharif,Peddapalli,Anthargaon,Red Gram,81,4
+2018-2019,Kharif,Peddapalli,Ramagundam,Red Gram,95,0
+2018-2019,Kharif,Peddapalli,Manthani,Red Gram,17,0
+2018-2019,Kharif,Peddapalli,Mutharam,Red Gram,14,2
+2018-2019,Kharif,Peddapalli,Kamanpur,Red Gram,5.6,6
+2018-2019,Kharif,Peddapalli,Ramagiri,Red Gram,5,2
+2018-2019,Kharif,Peddapalli,Peddapally,Cow Gram,0,13
+2018-2019,Kharif,Peddapalli,Julapally,Cow Gram,0,1
+2018-2019,Kharif,Peddapalli,Sulthanabad,Cow Gram,0,2
+2018-2019,Kharif,Peddapalli,Odela,Cow Gram,7,2
+2018-2019,Kharif,Peddapalli,Srirampur,Cow Gram,0,2
+2018-2019,Kharif,Peddapalli,Eligaid,Cow Gram,0,1
+2018-2019,Kharif,Peddapalli,Dharmaram,Cow Gram,5,4
+2018-2019,Kharif,Peddapalli,Palakurthy,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Mutharam,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Kamanpur,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Cow Gram,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Julapally,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Odela,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Srirampur,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Anumulu,6,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Mutharam,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Kamanpur,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Anumulu,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Chillies,19,30
+2018-2019,Kharif,Peddapalli,Julapally,Chillies,1,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Chillies,2,0
+2018-2019,Kharif,Peddapalli,Odela,Chillies,15,4
+2018-2019,Kharif,Peddapalli,Srirampur,Chillies,21,18
+2018-2019,Kharif,Peddapalli,Eligaid,Chillies,8,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Chillies,29,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Chillies,2,8
+2018-2019,Kharif,Peddapalli,Anthargaon,Chillies,1,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Chillies,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Chillies,78,139
+2018-2019,Kharif,Peddapalli,Mutharam,Chillies,111,204
+2018-2019,Kharif,Peddapalli,Kamanpur,Chillies,1.2,1
+2018-2019,Kharif,Peddapalli,Ramagiri,Chillies,1,3
+2018-2019,Kharif,Peddapalli,Peddapally,Turmeric,0,0
+2018-2019,Kharif,Peddapalli,Julapally,Turmeric,20,46
+2018-2019,Kharif,Peddapalli,Sulthanabad,Turmeric,5,1
+2018-2019,Kharif,Peddapalli,Odela,Turmeric,37,28
+2018-2019,Kharif,Peddapalli,Srirampur,Turmeric,32,150
+2018-2019,Kharif,Peddapalli,Eligaid,Turmeric,2,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Turmeric,54,10
+2018-2019,Kharif,Peddapalli,Palakurthy,Turmeric,10,43
+2018-2019,Kharif,Peddapalli,Anthargaon,Turmeric,5,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Turmeric,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Turmeric,1,43
+2018-2019,Kharif,Peddapalli,Mutharam,Turmeric,63,106
+2018-2019,Kharif,Peddapalli,Kamanpur,Turmeric,8,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Turmeric,0,1
+2018-2019,Kharif,Peddapalli,Peddapally,Onion,0,0
+2018-2019,Kharif,Peddapalli,Julapally,Onion,0,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Onion,0,0
+2018-2019,Kharif,Peddapalli,Odela,Onion,0,0
+2018-2019,Kharif,Peddapalli,Srirampur,Onion,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Onion,0,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Onion,4,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Onion,0,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Onion,0,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Onion,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Onion,0,0
+2018-2019,Kharif,Peddapalli,Mutharam,Onion,0,1
+2018-2019,Kharif,Peddapalli,Kamanpur,Onion,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Onion,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Tomato,23,51
+2018-2019,Kharif,Peddapalli,Julapally,Tomato,4,7
+2018-2019,Kharif,Peddapalli,Sulthanabad,Tomato,21,7
+2018-2019,Kharif,Peddapalli,Odela,Tomato,12,10
+2018-2019,Kharif,Peddapalli,Srirampur,Tomato,3,3
+2018-2019,Kharif,Peddapalli,Eligaid,Tomato,1,2
+2018-2019,Kharif,Peddapalli,Dharmaram,Tomato,17,8
+2018-2019,Kharif,Peddapalli,Palakurthy,Tomato,8,5
+2018-2019,Kharif,Peddapalli,Anthargaon,Tomato,5,5
+2018-2019,Kharif,Peddapalli,Ramagundam,Tomato,5,2
+2018-2019,Kharif,Peddapalli,Manthani,Tomato,1,3
+2018-2019,Kharif,Peddapalli,Mutharam,Tomato,1,3
+2018-2019,Kharif,Peddapalli,Kamanpur,Tomato,1.6,2
+2018-2019,Kharif,Peddapalli,Ramagiri,Tomato,2,0
+2018-2019,Kharif,Peddapalli,Peddapally,Other food crops,115,108
+2018-2019,Kharif,Peddapalli,Julapally,Other food crops,117,31
+2018-2019,Kharif,Peddapalli,Sulthanabad,Other food crops,50,15
+2018-2019,Kharif,Peddapalli,Odela,Other food crops,62,29.8
+2018-2019,Kharif,Peddapalli,Srirampur,Other food crops,64,27
+2018-2019,Kharif,Peddapalli,Eligaid,Other food crops,67,11
+2018-2019,Kharif,Peddapalli,Dharmaram,Other food crops,1108,59
+2018-2019,Kharif,Peddapalli,Palakurthy,Other food crops,13,11
+2018-2019,Kharif,Peddapalli,Anthargaon,Other food crops,21,10
+2018-2019,Kharif,Peddapalli,Ramagundam,Other food crops,11,5
+2018-2019,Kharif,Peddapalli,Manthani,Other food crops,9,31
+2018-2019,Kharif,Peddapalli,Mutharam,Other food crops,28,31.4
+2018-2019,Kharif,Peddapalli,Kamanpur,Other food crops,10.4,14
+2018-2019,Kharif,Peddapalli,Ramagiri,Other food crops,16,5
+2018-2019,Kharif,Peddapalli,Peddapally,Cotton,5642,5481
+2018-2019,Kharif,Peddapalli,Julapally,Cotton,1976,1888
+2018-2019,Kharif,Peddapalli,Sulthanabad,Cotton,2986,2647
+2018-2019,Kharif,Peddapalli,Odela,Cotton,4256,4142
+2018-2019,Kharif,Peddapalli,Srirampur,Cotton,4657,4181
+2018-2019,Kharif,Peddapalli,Eligaid,Cotton,806,545
+2018-2019,Kharif,Peddapalli,Dharmaram,Cotton,3154,1878
+2018-2019,Kharif,Peddapalli,Palakurthy,Cotton,800,2559
+2018-2019,Kharif,Peddapalli,Anthargaon,Cotton,492,1889
+2018-2019,Kharif,Peddapalli,Ramagundam,Cotton,1749,92
+2018-2019,Kharif,Peddapalli,Manthani,Cotton,3765,4342
+2018-2019,Kharif,Peddapalli,Mutharam,Cotton,2446,2966
+2018-2019,Kharif,Peddapalli,Kamanpur,Cotton,956,1272
+2018-2019,Kharif,Peddapalli,Ramagiri,Cotton,429,1145
+2018-2019,Kharif,Peddapalli,Peddapally,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Julapally,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Odela,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Srirampur,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Groundnut,1,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Mutharam,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Kamanpur,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Groundnut,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Julapally,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Odela,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Srirampur,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Sesamum,4,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Manthani,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Mutharam,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Kamanpur,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Sesamum,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Soyabean,11,0
+2018-2019,Kharif,Peddapalli,Julapally,Soyabean,6,0
+2018-2019,Kharif,Peddapalli,Sulthanabad,Soyabean,4,0
+2018-2019,Kharif,Peddapalli,Odela,Soyabean,2,0
+2018-2019,Kharif,Peddapalli,Srirampur,Soyabean,0,0
+2018-2019,Kharif,Peddapalli,Eligaid,Soyabean,0,0
+2018-2019,Kharif,Peddapalli,Dharmaram,Soyabean,29,0
+2018-2019,Kharif,Peddapalli,Palakurthy,Soyabean,4,0
+2018-2019,Kharif,Peddapalli,Anthargaon,Soyabean,2,0
+2018-2019,Kharif,Peddapalli,Ramagundam,Soyabean,29,0
+2018-2019,Kharif,Peddapalli,Manthani,Soyabean,9,0
+2018-2019,Kharif,Peddapalli,Mutharam,Soyabean,0,0
+2018-2019,Kharif,Peddapalli,Kamanpur,Soyabean,0.8,0
+2018-2019,Kharif,Peddapalli,Ramagiri,Soyabean,0,0
+2018-2019,Kharif,Peddapalli,Peddapally,Total,11690,12628
+2018-2019,Kharif,Peddapalli,Julapally,Total,4975,6288
+2018-2019,Kharif,Peddapalli,Sulthanabad,Total,10231,11492
+2018-2019,Kharif,Peddapalli,Odela,Total,10063,11061.8
+2018-2019,Kharif,Peddapalli,Srirampur,Total,10286,10591
+2018-2019,Kharif,Peddapalli,Eligaid,Total,4246,5628
+2018-2019,Kharif,Peddapalli,Dharmaram,Total,9327,7255
+2018-2019,Kharif,Peddapalli,Palakurthy,Total,1801,4758
+2018-2019,Kharif,Peddapalli,Anthargaon,Total,1170,3709
+2018-2019,Kharif,Peddapalli,Ramagundam,Total,4095,980
+2018-2019,Kharif,Peddapalli,Manthani,Total,6899,8913
+2018-2019,Kharif,Peddapalli,Mutharam,Total,5510,6298.4
+2018-2019,Kharif,Peddapalli,Kamanpur,Total,3512.4,2905
+2018-2019,Kharif,Peddapalli,Ramagiri,Total,1296,3517

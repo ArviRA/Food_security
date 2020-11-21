@@ -1,0 +1,521 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Mahabubnagar,Damargidda,Paddy,958,1090
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Paddy,1198,470
+2018-2019,Kharif,Mahabubnagar,Utkoor,Paddy,1242,812
+2018-2019,Kharif,Mahabubnagar,Maganoor,Paddy,1823,1835
+2018-2019,Kharif,Mahabubnagar,Krishna,Paddy,1999,4115
+2018-2019,Kharif,Mahabubnagar,Makthal,Paddy,3064,4272
+2018-2019,Kharif,Mahabubnagar,Narva,Paddy,1196,1221
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Paddy,1995,1651
+2018-2019,Kharif,Mahabubnagar,Marikal,Paddy,765,1480
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Paddy,732,881
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Paddy,1298,1291
+2018-2019,Kharif,Mahabubnagar,Maddur,Paddy,1084,858
+2018-2019,Kharif,Mahabubnagar,Kosgi,Paddy,1817,1818
+2018-2019,Kharif,Mahabubnagar,Gandeed,Paddy,1680,1056
+2018-2019,Kharif,Mahabubnagar,Hanwada,Paddy,1669,936
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Paddy,1131,974
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Paddy,1384,1365
+2018-2019,Kharif,Mahabubnagar,Addakal,Paddy,1075,970
+2018-2019,Kharif,Mahabubnagar,Moosapet,Paddy,1125,566
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Paddy,1410,425
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Paddy,520,415
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Paddy,1635,609
+2018-2019,Kharif,Mahabubnagar,Balanagar,Paddy,425,290
+2018-2019,Kharif,Mahabubnagar,Rajapur,Paddy,278,148
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Paddy,954,451
+2018-2019,Kharif,Mahabubnagar,Midjil,Paddy,632,262
+2018-2019,Kharif,Mahabubnagar,Damargidda,Jowar,911,1020
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Jowar,531,470
+2018-2019,Kharif,Mahabubnagar,Utkoor,Jowar,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Jowar,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Jowar,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Jowar,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Jowar,1,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Jowar,28,22
+2018-2019,Kharif,Mahabubnagar,Marikal,Jowar,140,76
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Jowar,448,389
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Jowar,2175,2369
+2018-2019,Kharif,Mahabubnagar,Maddur,Jowar,2463,2230
+2018-2019,Kharif,Mahabubnagar,Kosgi,Jowar,1186,756
+2018-2019,Kharif,Mahabubnagar,Gandeed,Jowar,591,1278
+2018-2019,Kharif,Mahabubnagar,Hanwada,Jowar,1172,1010
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Jowar,957,1360
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Jowar,515,423
+2018-2019,Kharif,Mahabubnagar,Addakal,Jowar,229,171
+2018-2019,Kharif,Mahabubnagar,Moosapet,Jowar,158,168
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Jowar,661,687
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Jowar,460,620
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Jowar,428,220
+2018-2019,Kharif,Mahabubnagar,Balanagar,Jowar,353,375
+2018-2019,Kharif,Mahabubnagar,Rajapur,Jowar,167,171
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Jowar,490,210
+2018-2019,Kharif,Mahabubnagar,Midjil,Jowar,142,86
+2018-2019,Kharif,Mahabubnagar,Damargidda,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Bajra,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Maize,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Maize,12,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Maize,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Maize,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Maize,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Maize,3,0
+2018-2019,Kharif,Mahabubnagar,Narva,Maize,11,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Maize,44,28
+2018-2019,Kharif,Mahabubnagar,Marikal,Maize,2,16
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Maize,6,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Maize,97,100
+2018-2019,Kharif,Mahabubnagar,Maddur,Maize,63,15
+2018-2019,Kharif,Mahabubnagar,Kosgi,Maize,1116,1092
+2018-2019,Kharif,Mahabubnagar,Gandeed,Maize,1519,1549
+2018-2019,Kharif,Mahabubnagar,Hanwada,Maize,1440,1346
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Maize,624,387
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Maize,74,24
+2018-2019,Kharif,Mahabubnagar,Addakal,Maize,296,149
+2018-2019,Kharif,Mahabubnagar,Moosapet,Maize,234,376
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Maize,2045,1057
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Maize,322,415
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Maize,10185,13020
+2018-2019,Kharif,Mahabubnagar,Balanagar,Maize,6613,6250
+2018-2019,Kharif,Mahabubnagar,Rajapur,Maize,5336,3699
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Maize,6519,3243
+2018-2019,Kharif,Mahabubnagar,Midjil,Maize,3593,2688
+2018-2019,Kharif,Mahabubnagar,Damargidda,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Ragi,31,25
+2018-2019,Kharif,Mahabubnagar,Maddur,Ragi,8,3
+2018-2019,Kharif,Mahabubnagar,Kosgi,Ragi,47,3
+2018-2019,Kharif,Mahabubnagar,Gandeed,Ragi,96,78
+2018-2019,Kharif,Mahabubnagar,Hanwada,Ragi,201,360
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Ragi,32,29
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Ragi,8,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Ragi,15,41
+2018-2019,Kharif,Mahabubnagar,Moosapet,Ragi,16,9
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Ragi,7,2
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Ragi,5,7
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Ragi,82,15
+2018-2019,Kharif,Mahabubnagar,Balanagar,Ragi,15,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Ragi,2,6
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Ragi,24,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Ragi,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Red Gram,7130,7767
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Red Gram,5887,5200
+2018-2019,Kharif,Mahabubnagar,Utkoor,Red Gram,5718,3420
+2018-2019,Kharif,Mahabubnagar,Maganoor,Red Gram,2532,1160
+2018-2019,Kharif,Mahabubnagar,Krishna,Red Gram,2562,2501
+2018-2019,Kharif,Mahabubnagar,Makthal,Red Gram,7194,7589
+2018-2019,Kharif,Mahabubnagar,Narva,Red Gram,6732,8588
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Red Gram,4194,4183
+2018-2019,Kharif,Mahabubnagar,Marikal,Red Gram,1860,3727
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Red Gram,2714,3155
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Red Gram,1481,2557
+2018-2019,Kharif,Mahabubnagar,Maddur,Red Gram,7324,8510
+2018-2019,Kharif,Mahabubnagar,Kosgi,Red Gram,5662,6952
+2018-2019,Kharif,Mahabubnagar,Gandeed,Red Gram,957,1496
+2018-2019,Kharif,Mahabubnagar,Hanwada,Red Gram,682,1108
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Red Gram,449,922
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Red Gram,1154,3097
+2018-2019,Kharif,Mahabubnagar,Addakal,Red Gram,703,1421
+2018-2019,Kharif,Mahabubnagar,Moosapet,Red Gram,240,665
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Red Gram,322,163
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Red Gram,113,250
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Red Gram,542,650
+2018-2019,Kharif,Mahabubnagar,Balanagar,Red Gram,250,250
+2018-2019,Kharif,Mahabubnagar,Rajapur,Red Gram,140,68
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Red Gram,376,185
+2018-2019,Kharif,Mahabubnagar,Midjil,Red Gram,242,282
+2018-2019,Kharif,Mahabubnagar,Damargidda,Green Gram,1804,2323
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Green Gram,967,740
+2018-2019,Kharif,Mahabubnagar,Utkoor,Green Gram,248,6
+2018-2019,Kharif,Mahabubnagar,Maganoor,Green Gram,232,24
+2018-2019,Kharif,Mahabubnagar,Krishna,Green Gram,301,32
+2018-2019,Kharif,Mahabubnagar,Makthal,Green Gram,437,221
+2018-2019,Kharif,Mahabubnagar,Narva,Green Gram,8,2
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Green Gram,4,4
+2018-2019,Kharif,Mahabubnagar,Marikal,Green Gram,13,18
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Green Gram,17,6
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Green Gram,80,22
+2018-2019,Kharif,Mahabubnagar,Maddur,Green Gram,543,237
+2018-2019,Kharif,Mahabubnagar,Kosgi,Green Gram,434,255
+2018-2019,Kharif,Mahabubnagar,Gandeed,Green Gram,21,12
+2018-2019,Kharif,Mahabubnagar,Hanwada,Green Gram,7,9
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Green Gram,8,5
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Green Gram,1,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Green Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Green Gram,0,1
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Green Gram,2,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Green Gram,3,2
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Green Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Green Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Green Gram,0,18
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Green Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Green Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Black Gram,355,270
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Black Gram,19,35
+2018-2019,Kharif,Mahabubnagar,Utkoor,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Black Gram,6,0
+2018-2019,Kharif,Mahabubnagar,Narva,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Black Gram,40,25
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Black Gram,3,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Black Gram,19,16
+2018-2019,Kharif,Mahabubnagar,Gandeed,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Black Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Horse Gram,30,67
+2018-2019,Kharif,Mahabubnagar,Utkoor,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Horse Gram,11,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Horse Gram,2,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Horse Gram,3,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Horse Gram,25,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Horse Gram,4,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Horse Gram,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Cotton,951,516
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Cotton,1989,5208
+2018-2019,Kharif,Mahabubnagar,Utkoor,Cotton,7778,11222
+2018-2019,Kharif,Mahabubnagar,Maganoor,Cotton,2871,3112
+2018-2019,Kharif,Mahabubnagar,Krishna,Cotton,3842,5622
+2018-2019,Kharif,Mahabubnagar,Makthal,Cotton,2471,5731
+2018-2019,Kharif,Mahabubnagar,Narva,Cotton,1335,1671
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Cotton,2159,4274
+2018-2019,Kharif,Mahabubnagar,Marikal,Cotton,1863,3970
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Cotton,1396,2674
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Cotton,120,40
+2018-2019,Kharif,Mahabubnagar,Maddur,Cotton,349,1140
+2018-2019,Kharif,Mahabubnagar,Kosgi,Cotton,400,626
+2018-2019,Kharif,Mahabubnagar,Gandeed,Cotton,71,92
+2018-2019,Kharif,Mahabubnagar,Hanwada,Cotton,193,155
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Cotton,322,482
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Cotton,2730,2862
+2018-2019,Kharif,Mahabubnagar,Addakal,Cotton,710,813
+2018-2019,Kharif,Mahabubnagar,Moosapet,Cotton,334,342
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Cotton,3234,2581
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Cotton,42,50
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Cotton,1050,1125
+2018-2019,Kharif,Mahabubnagar,Balanagar,Cotton,2546,3700
+2018-2019,Kharif,Mahabubnagar,Rajapur,Cotton,1426,3016
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Cotton,7261,9254
+2018-2019,Kharif,Mahabubnagar,Midjil,Cotton,6541,7419
+2018-2019,Kharif,Mahabubnagar,Damargidda,Groundnut,69,242
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Groundnut,44,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Groundnut,64,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Groundnut,98,5
+2018-2019,Kharif,Mahabubnagar,Makthal,Groundnut,83,19
+2018-2019,Kharif,Mahabubnagar,Narva,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Groundnut,4,14
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Groundnut,9,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Groundnut,22,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Groundnut,51,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Groundnut,10,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Groundnut,3,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Groundnut,2,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Groundnut,2,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Groundnut,6,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Groundnut,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Sesamum,0,20
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Sesamum,42,49
+2018-2019,Kharif,Mahabubnagar,Utkoor,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Sesamum,7,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Sesamum,84,109
+2018-2019,Kharif,Mahabubnagar,Maddur,Sesamum,27,26
+2018-2019,Kharif,Mahabubnagar,Kosgi,Sesamum,0,7
+2018-2019,Kharif,Mahabubnagar,Gandeed,Sesamum,89,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Sesamum,22,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Sesamum,27,51
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Sesamum,47,87
+2018-2019,Kharif,Mahabubnagar,Addakal,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Sesamum,5,2
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Sesamum,13,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Sesamum,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Sunflower,29,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Sunflower,3,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Sunflower,328,8
+2018-2019,Kharif,Mahabubnagar,Maganoor,Sunflower,5,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Sunflower,38,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Sunflower,269,109
+2018-2019,Kharif,Mahabubnagar,Narva,Sunflower,15,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Sunflower,7,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Sunflower,3,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Sunflower,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Castor,65,51
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Castor,731,432
+2018-2019,Kharif,Mahabubnagar,Utkoor,Castor,2257,752
+2018-2019,Kharif,Mahabubnagar,Maganoor,Castor,1390,136
+2018-2019,Kharif,Mahabubnagar,Krishna,Castor,493,48
+2018-2019,Kharif,Mahabubnagar,Makthal,Castor,2705,1899
+2018-2019,Kharif,Mahabubnagar,Narva,Castor,1939,897
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Castor,1733,785
+2018-2019,Kharif,Mahabubnagar,Marikal,Castor,1268,912
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Castor,1757,631
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Castor,576,592
+2018-2019,Kharif,Mahabubnagar,Maddur,Castor,540,968
+2018-2019,Kharif,Mahabubnagar,Kosgi,Castor,138,40
+2018-2019,Kharif,Mahabubnagar,Gandeed,Castor,16,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Castor,40,90
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Castor,302,500
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Castor,1116,1135
+2018-2019,Kharif,Mahabubnagar,Addakal,Castor,932,642
+2018-2019,Kharif,Mahabubnagar,Moosapet,Castor,302,268
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Castor,339,120
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Castor,49,65
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Castor,17,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Castor,7,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Castor,5,2
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Castor,55,10
+2018-2019,Kharif,Mahabubnagar,Midjil,Castor,15,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Soyabean,4,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Marikal,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Soyabean,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Chillies,17,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Chillies,17,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Chillies,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Chillies,6,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Chillies,6,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Chillies,2,0
+2018-2019,Kharif,Mahabubnagar,Narva,Chillies,7,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Chillies,3,123
+2018-2019,Kharif,Mahabubnagar,Marikal,Chillies,8,45
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Chillies,13,8
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Chillies,30,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Chillies,9,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Chillies,0,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Chillies,20,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Chillies,47,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Chillies,13,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Chillies,18,0
+2018-2019,Kharif,Mahabubnagar,Addakal,Chillies,9,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Chillies,5,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Chillies,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Chillies,8,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Chillies,47,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Chillies,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Chillies,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Chillies,41,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Chillies,30,24
+2018-2019,Kharif,Mahabubnagar,Damargidda,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Onion,13,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Onion,1,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Onion,2,0
+2018-2019,Kharif,Mahabubnagar,Makthal,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Narva,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Onion,6,16
+2018-2019,Kharif,Mahabubnagar,Marikal,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Onion,3,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Onion,5,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Onion,6,2
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Onion,23,29
+2018-2019,Kharif,Mahabubnagar,Addakal,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Onion,28,8
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Onion,8,6
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Onion,23,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Onion,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Sugarcane,4,0
+2018-2019,Kharif,Mahabubnagar,Utkoor,Sugarcane,4,0
+2018-2019,Kharif,Mahabubnagar,Maganoor,Sugarcane,6,0
+2018-2019,Kharif,Mahabubnagar,Krishna,Sugarcane,11,28
+2018-2019,Kharif,Mahabubnagar,Makthal,Sugarcane,13,71
+2018-2019,Kharif,Mahabubnagar,Narva,Sugarcane,144,117
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Sugarcane,145,70
+2018-2019,Kharif,Mahabubnagar,Marikal,Sugarcane,1,0
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Sugarcane,1,0
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Maddur,Sugarcane,4,0
+2018-2019,Kharif,Mahabubnagar,Kosgi,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Gandeed,Sugarcane,15,0
+2018-2019,Kharif,Mahabubnagar,Hanwada,Sugarcane,15,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Sugarcane,1,0
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Sugarcane,19,5
+2018-2019,Kharif,Mahabubnagar,Addakal,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Moosapet,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Sugarcane,4,0
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Sugarcane,22,0
+2018-2019,Kharif,Mahabubnagar,Balanagar,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Rajapur,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Midjil,Sugarcane,0,0
+2018-2019,Kharif,Mahabubnagar,Damargidda,Other crops,181,165
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Other crops,254,210
+2018-2019,Kharif,Mahabubnagar,Utkoor,Other crops,149,126
+2018-2019,Kharif,Mahabubnagar,Maganoor,Other crops,61,44
+2018-2019,Kharif,Mahabubnagar,Krishna,Other crops,11,4
+2018-2019,Kharif,Mahabubnagar,Makthal,Other crops,134,128
+2018-2019,Kharif,Mahabubnagar,Narva,Other crops,175,111
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Other crops,223,199
+2018-2019,Kharif,Mahabubnagar,Marikal,Other crops,84,48
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Other crops,189,124
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Other crops,211,155
+2018-2019,Kharif,Mahabubnagar,Maddur,Other crops,254,201
+2018-2019,Kharif,Mahabubnagar,Kosgi,Other crops,516,406
+2018-2019,Kharif,Mahabubnagar,Gandeed,Other crops,704,505
+2018-2019,Kharif,Mahabubnagar,Hanwada,Other crops,298,166
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Other crops,173,111
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Other crops,254,188
+2018-2019,Kharif,Mahabubnagar,Addakal,Other crops,90,54
+2018-2019,Kharif,Mahabubnagar,Moosapet,Other crops,46,15
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Other crops,284,210
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Other crops,101,60
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Other crops,444,302
+2018-2019,Kharif,Mahabubnagar,Balanagar,Other crops,672,405
+2018-2019,Kharif,Mahabubnagar,Rajapur,Other crops,161,80
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Other crops,518,301
+2018-2019,Kharif,Mahabubnagar,Midjil,Other crops,291,107
+2018-2019,Kharif,Mahabubnagar,Damargidda,Total,12470,13464
+2018-2019,Kharif,Mahabubnagar,Narayanpet,Total,11745,12881
+2018-2019,Kharif,Mahabubnagar,Utkoor,Total,17724,16346
+2018-2019,Kharif,Mahabubnagar,Maganoor,Total,8991,6311
+2018-2019,Kharif,Mahabubnagar,Krishna,Total,9363,12355
+2018-2019,Kharif,Mahabubnagar,Makthal,Total,16381,20039
+2018-2019,Kharif,Mahabubnagar,Narva,Total,11563,12607
+2018-2019,Kharif,Mahabubnagar,Chinna Chita Kunta,Total,10534,11355
+2018-2019,Kharif,Mahabubnagar,Marikal,Total,6048,10331
+2018-2019,Kharif,Mahabubnagar,Dhanwada,Total,7287,7868
+2018-2019,Kharif,Mahabubnagar,Koilkonda,Total,6192,7260
+2018-2019,Kharif,Mahabubnagar,Maddur,Total,12699,14188
+2018-2019,Kharif,Mahabubnagar,Kosgi,Total,11402,11971
+2018-2019,Kharif,Mahabubnagar,Gandeed,Total,5779,6066
+2018-2019,Kharif,Mahabubnagar,Hanwada,Total,5786,5180
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (r),Total,4055,4823
+2018-2019,Kharif,Mahabubnagar,Devarkadra,Total,7343,9215
+2018-2019,Kharif,Mahabubnagar,Addakal,Total,4062,4261
+2018-2019,Kharif,Mahabubnagar,Moosapet,Total,2462,2410
+2018-2019,Kharif,Mahabubnagar,Bhoothpur,Total,8332,5253
+2018-2019,Kharif,Mahabubnagar,Mahabubnagar (u),Total,1644,1892
+2018-2019,Kharif,Mahabubnagar,Nawabpet,Total,14497,15941
+2018-2019,Kharif,Mahabubnagar,Balanagar,Total,10906,11270
+2018-2019,Kharif,Mahabubnagar,Rajapur,Total,7519,7208
+2018-2019,Kharif,Mahabubnagar,Jadcherla,Total,16238,13654
+2018-2019,Kharif,Mahabubnagar,Midjil,Total,11486,10868

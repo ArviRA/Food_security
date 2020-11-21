@@ -1,0 +1,443 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Sangareddy,Sangareddy,Paddy,1375,550
+2018-2019,Kharif,Sangareddy,Kandi ,Paddy,421,1464
+2018-2019,Kharif,Sangareddy,Sadasivpet,Paddy,398,452.8
+2018-2019,Kharif,Sangareddy,Kondapoor,Paddy,688,677
+2018-2019,Kharif,Sangareddy,Patancheru,Paddy,1193,1093
+2018-2019,Kharif,Sangareddy,Ameenpur ,Paddy,50,107
+2018-2019,Kharif,Sangareddy,R.c.puram,Paddy,309,267
+2018-2019,Kharif,Sangareddy,Jinnaram,Paddy,1364,1222
+2018-2019,Kharif,Sangareddy,Gummadidala ,Paddy,243,840
+2018-2019,Kharif,Sangareddy,Zaheerabad,Paddy,12,4
+2018-2019,Kharif,Sangareddy,Mogudampally ,Paddy,0,0
+2018-2019,Kharif,Sangareddy,Kohir,Paddy,10,0
+2018-2019,Kharif,Sangareddy,Jharasangam,Paddy,26,0
+2018-2019,Kharif,Sangareddy,Nyalkal,Paddy,32,1
+2018-2019,Kharif,Sangareddy,Narayankhed,Paddy,1391,1763
+2018-2019,Kharif,Sangareddy,Kangti,Paddy,270,170
+2018-2019,Kharif,Sangareddy,Kalher,Paddy,2136,1583.6
+2018-2019,Kharif,Sangareddy,Sirgapur,Paddy,197,459
+2018-2019,Kharif,Sangareddy,Manoor,Paddy,79,2
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Paddy,4,6.88
+2018-2019,Kharif,Sangareddy,Andole,Paddy,1721,1476
+2018-2019,Kharif,Sangareddy,Pulkal,Paddy,2181,2363
+2018-2019,Kharif,Sangareddy,Hathnoora,Paddy,2646,2151
+2018-2019,Kharif,Sangareddy,Raikode,Paddy,100,36
+2018-2019,Kharif,Sangareddy,Munipally,Paddy,35,20
+2018-2019,Kharif,Sangareddy,Vatpally ,Paddy,94,171
+2018-2019,Kharif,Sangareddy,Sangareddy,Jowar,199,10
+2018-2019,Kharif,Sangareddy,Kandi ,Jowar,25,64
+2018-2019,Kharif,Sangareddy,Sadasivpet,Jowar,67,44.8
+2018-2019,Kharif,Sangareddy,Kondapoor,Jowar,259,125
+2018-2019,Kharif,Sangareddy,Patancheru,Jowar,107,19
+2018-2019,Kharif,Sangareddy,Ameenpur ,Jowar,1,4
+2018-2019,Kharif,Sangareddy,R.c.puram,Jowar,84,67
+2018-2019,Kharif,Sangareddy,Jinnaram,Jowar,43,9
+2018-2019,Kharif,Sangareddy,Gummadidala ,Jowar,1,3
+2018-2019,Kharif,Sangareddy,Zaheerabad,Jowar,1101,525
+2018-2019,Kharif,Sangareddy,Mogudampally ,Jowar,131,50
+2018-2019,Kharif,Sangareddy,Kohir,Jowar,224,0
+2018-2019,Kharif,Sangareddy,Jharasangam,Jowar,412,220
+2018-2019,Kharif,Sangareddy,Nyalkal,Jowar,712,38
+2018-2019,Kharif,Sangareddy,Narayankhed,Jowar,959,376
+2018-2019,Kharif,Sangareddy,Kangti,Jowar,1059,778.8
+2018-2019,Kharif,Sangareddy,Kalher,Jowar,147,42.8
+2018-2019,Kharif,Sangareddy,Sirgapur,Jowar,191,421
+2018-2019,Kharif,Sangareddy,Manoor,Jowar,651,18
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Jowar,189,432.4
+2018-2019,Kharif,Sangareddy,Andole,Jowar,11,12
+2018-2019,Kharif,Sangareddy,Pulkal,Jowar,9,0
+2018-2019,Kharif,Sangareddy,Hathnoora,Jowar,207,55
+2018-2019,Kharif,Sangareddy,Raikode,Jowar,204,99
+2018-2019,Kharif,Sangareddy,Munipally,Jowar,255,198
+2018-2019,Kharif,Sangareddy,Vatpally ,Jowar,4,0
+2018-2019,Kharif,Sangareddy,Sangareddy,Maize,762,10
+2018-2019,Kharif,Sangareddy,Kandi ,Maize,472,251
+2018-2019,Kharif,Sangareddy,Sadasivpet,Maize,179,18
+2018-2019,Kharif,Sangareddy,Kondapoor,Maize,1418,522
+2018-2019,Kharif,Sangareddy,Patancheru,Maize,708,451
+2018-2019,Kharif,Sangareddy,Ameenpur ,Maize,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Maize,194,53
+2018-2019,Kharif,Sangareddy,Jinnaram,Maize,693,42
+2018-2019,Kharif,Sangareddy,Gummadidala ,Maize,459,1038
+2018-2019,Kharif,Sangareddy,Zaheerabad,Maize,1652,1126
+2018-2019,Kharif,Sangareddy,Mogudampally ,Maize,316,57
+2018-2019,Kharif,Sangareddy,Kohir,Maize,4108,3105
+2018-2019,Kharif,Sangareddy,Jharasangam,Maize,1146,190
+2018-2019,Kharif,Sangareddy,Nyalkal,Maize,72,11
+2018-2019,Kharif,Sangareddy,Narayankhed,Maize,1124,454
+2018-2019,Kharif,Sangareddy,Kangti,Maize,991,530.8
+2018-2019,Kharif,Sangareddy,Kalher,Maize,1921,1274.4
+2018-2019,Kharif,Sangareddy,Sirgapur,Maize,142,288
+2018-2019,Kharif,Sangareddy,Manoor,Maize,30,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Maize,1,
+2018-2019,Kharif,Sangareddy,Andole,Maize,523,77.7
+2018-2019,Kharif,Sangareddy,Pulkal,Maize,101,2.4
+2018-2019,Kharif,Sangareddy,Hathnoora,Maize,691,210
+2018-2019,Kharif,Sangareddy,Raikode,Maize,58,
+2018-2019,Kharif,Sangareddy,Munipally,Maize,210,121
+2018-2019,Kharif,Sangareddy,Vatpally ,Maize,12,0
+2018-2019,Kharif,Sangareddy,Sangareddy,Bajra,0,
+2018-2019,Kharif,Sangareddy,Kandi ,Bajra,0,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Bajra,0,
+2018-2019,Kharif,Sangareddy,Kondapoor,Bajra,0,
+2018-2019,Kharif,Sangareddy,Patancheru,Bajra,3,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Bajra,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Bajra,0,
+2018-2019,Kharif,Sangareddy,Jinnaram,Bajra,0,
+2018-2019,Kharif,Sangareddy,Gummadidala ,Bajra,0,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Bajra,119,88
+2018-2019,Kharif,Sangareddy,Mogudampally ,Bajra,14,
+2018-2019,Kharif,Sangareddy,Kohir,Bajra,14,0
+2018-2019,Kharif,Sangareddy,Jharasangam,Bajra,45,
+2018-2019,Kharif,Sangareddy,Nyalkal,Bajra,32,21
+2018-2019,Kharif,Sangareddy,Narayankhed,Bajra,0,
+2018-2019,Kharif,Sangareddy,Kangti,Bajra,0,
+2018-2019,Kharif,Sangareddy,Kalher,Bajra,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Bajra,0,
+2018-2019,Kharif,Sangareddy,Manoor,Bajra,0,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Bajra,0,
+2018-2019,Kharif,Sangareddy,Andole,Bajra,0,
+2018-2019,Kharif,Sangareddy,Pulkal,Bajra,0,
+2018-2019,Kharif,Sangareddy,Hathnoora,Bajra,0,
+2018-2019,Kharif,Sangareddy,Raikode,Bajra,0,
+2018-2019,Kharif,Sangareddy,Munipally,Bajra,0,
+2018-2019,Kharif,Sangareddy,Vatpally ,Bajra,0,
+2018-2019,Kharif,Sangareddy,Sangareddy,Red Gram,252,75
+2018-2019,Kharif,Sangareddy,Kandi ,Red Gram,108,231
+2018-2019,Kharif,Sangareddy,Sadasivpet,Red Gram,463,350
+2018-2019,Kharif,Sangareddy,Kondapoor,Red Gram,300,708
+2018-2019,Kharif,Sangareddy,Patancheru,Red Gram,122,62
+2018-2019,Kharif,Sangareddy,Ameenpur ,Red Gram,1,6
+2018-2019,Kharif,Sangareddy,R.c.puram,Red Gram,51,76
+2018-2019,Kharif,Sangareddy,Jinnaram,Red Gram,61,45
+2018-2019,Kharif,Sangareddy,Gummadidala ,Red Gram,38,87
+2018-2019,Kharif,Sangareddy,Zaheerabad,Red Gram,2986,1819
+2018-2019,Kharif,Sangareddy,Mogudampally ,Red Gram,680,50
+2018-2019,Kharif,Sangareddy,Kohir,Red Gram,1913,2014
+2018-2019,Kharif,Sangareddy,Jharasangam,Red Gram,890,248
+2018-2019,Kharif,Sangareddy,Nyalkal,Red Gram,2002,1985
+2018-2019,Kharif,Sangareddy,Narayankhed,Red Gram,1521,1646
+2018-2019,Kharif,Sangareddy,Kangti,Red Gram,1857,2122.4
+2018-2019,Kharif,Sangareddy,Kalher,Red Gram,495,647.2
+2018-2019,Kharif,Sangareddy,Sirgapur,Red Gram,335,709
+2018-2019,Kharif,Sangareddy,Manoor,Red Gram,2351,1236
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Red Gram,815,2411.2
+2018-2019,Kharif,Sangareddy,Andole,Red Gram,348,80
+2018-2019,Kharif,Sangareddy,Pulkal,Red Gram,191,10
+2018-2019,Kharif,Sangareddy,Hathnoora,Red Gram,235,160
+2018-2019,Kharif,Sangareddy,Raikode,Red Gram,961,819
+2018-2019,Kharif,Sangareddy,Munipally,Red Gram,571,321
+2018-2019,Kharif,Sangareddy,Vatpally ,Red Gram,233,94
+2018-2019,Kharif,Sangareddy,Sangareddy,Green Gram,20,25
+2018-2019,Kharif,Sangareddy,Kandi ,Green Gram,3,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Green Gram,128,72
+2018-2019,Kharif,Sangareddy,Kondapoor,Green Gram,101,51
+2018-2019,Kharif,Sangareddy,Patancheru,Green Gram,2,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Green Gram,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Green Gram,1,
+2018-2019,Kharif,Sangareddy,Jinnaram,Green Gram,10,0
+2018-2019,Kharif,Sangareddy,Gummadidala ,Green Gram,11,11
+2018-2019,Kharif,Sangareddy,Zaheerabad,Green Gram,1011,571
+2018-2019,Kharif,Sangareddy,Mogudampally ,Green Gram,454,17
+2018-2019,Kharif,Sangareddy,Kohir,Green Gram,505,321
+2018-2019,Kharif,Sangareddy,Jharasangam,Green Gram,900,456
+2018-2019,Kharif,Sangareddy,Nyalkal,Green Gram,2174,1250
+2018-2019,Kharif,Sangareddy,Narayankhed,Green Gram,3131,1556
+2018-2019,Kharif,Sangareddy,Kangti,Green Gram,1981,1769.2
+2018-2019,Kharif,Sangareddy,Kalher,Green Gram,829,764
+2018-2019,Kharif,Sangareddy,Sirgapur,Green Gram,555,1139
+2018-2019,Kharif,Sangareddy,Manoor,Green Gram,3134,1021
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Green Gram,866,1722.4
+2018-2019,Kharif,Sangareddy,Andole,Green Gram,245,29
+2018-2019,Kharif,Sangareddy,Pulkal,Green Gram,90,7.2
+2018-2019,Kharif,Sangareddy,Hathnoora,Green Gram,23,30
+2018-2019,Kharif,Sangareddy,Raikode,Green Gram,1373,539
+2018-2019,Kharif,Sangareddy,Munipally,Green Gram,276,201
+2018-2019,Kharif,Sangareddy,Vatpally ,Green Gram,339,150
+2018-2019,Kharif,Sangareddy,Sangareddy,Black Gram,32,5
+2018-2019,Kharif,Sangareddy,Kandi ,Black Gram,5,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Black Gram,91,82
+2018-2019,Kharif,Sangareddy,Kondapoor,Black Gram,70,51
+2018-2019,Kharif,Sangareddy,Patancheru,Black Gram,9,15
+2018-2019,Kharif,Sangareddy,Ameenpur ,Black Gram,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Black Gram,1,
+2018-2019,Kharif,Sangareddy,Jinnaram,Black Gram,3,0
+2018-2019,Kharif,Sangareddy,Gummadidala ,Black Gram,5,0
+2018-2019,Kharif,Sangareddy,Zaheerabad,Black Gram,920,514
+2018-2019,Kharif,Sangareddy,Mogudampally ,Black Gram,439,42
+2018-2019,Kharif,Sangareddy,Kohir,Black Gram,443,284
+2018-2019,Kharif,Sangareddy,Jharasangam,Black Gram,387,217
+2018-2019,Kharif,Sangareddy,Nyalkal,Black Gram,1136,615
+2018-2019,Kharif,Sangareddy,Narayankhed,Black Gram,1594,1142
+2018-2019,Kharif,Sangareddy,Kangti,Black Gram,1250,1192
+2018-2019,Kharif,Sangareddy,Kalher,Black Gram,603,439.2
+2018-2019,Kharif,Sangareddy,Sirgapur,Black Gram,264,522
+2018-2019,Kharif,Sangareddy,Manoor,Black Gram,1983,647
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Black Gram,588,1261.6
+2018-2019,Kharif,Sangareddy,Andole,Black Gram,183,23.9
+2018-2019,Kharif,Sangareddy,Pulkal,Black Gram,82,9.2
+2018-2019,Kharif,Sangareddy,Hathnoora,Black Gram,35,35
+2018-2019,Kharif,Sangareddy,Raikode,Black Gram,474,413
+2018-2019,Kharif,Sangareddy,Munipally,Black Gram,243,212
+2018-2019,Kharif,Sangareddy,Vatpally ,Black Gram,136,30
+2018-2019,Kharif,Sangareddy,Sangareddy,Cotton,1450,900
+2018-2019,Kharif,Sangareddy,Kandi ,Cotton,702,618
+2018-2019,Kharif,Sangareddy,Sadasivpet,Cotton,10929,10892.8
+2018-2019,Kharif,Sangareddy,Kondapoor,Cotton,4833,5903
+2018-2019,Kharif,Sangareddy,Patancheru,Cotton,415,508
+2018-2019,Kharif,Sangareddy,Ameenpur ,Cotton,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Cotton,178,109
+2018-2019,Kharif,Sangareddy,Jinnaram,Cotton,193,3
+2018-2019,Kharif,Sangareddy,Gummadidala ,Cotton,71,145
+2018-2019,Kharif,Sangareddy,Zaheerabad,Cotton,325,120
+2018-2019,Kharif,Sangareddy,Mogudampally ,Cotton,35,
+2018-2019,Kharif,Sangareddy,Kohir,Cotton,2220,2039
+2018-2019,Kharif,Sangareddy,Jharasangam,Cotton,5844,5291
+2018-2019,Kharif,Sangareddy,Nyalkal,Cotton,4335,5650
+2018-2019,Kharif,Sangareddy,Narayankhed,Cotton,3575,5428
+2018-2019,Kharif,Sangareddy,Kangti,Cotton,3874,3336.4
+2018-2019,Kharif,Sangareddy,Kalher,Cotton,356,43.6
+2018-2019,Kharif,Sangareddy,Sirgapur,Cotton,352,1182
+2018-2019,Kharif,Sangareddy,Manoor,Cotton,5229,4755
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Cotton,693,2988.4
+2018-2019,Kharif,Sangareddy,Andole,Cotton,4768,5408
+2018-2019,Kharif,Sangareddy,Pulkal,Cotton,7359,6290.8
+2018-2019,Kharif,Sangareddy,Hathnoora,Cotton,2715,4125
+2018-2019,Kharif,Sangareddy,Raikode,Cotton,9077,10212
+2018-2019,Kharif,Sangareddy,Munipally,Cotton,9758,9123
+2018-2019,Kharif,Sangareddy,Vatpally ,Cotton,2319,7657
+2018-2019,Kharif,Sangareddy,Sangareddy,Soyabean,74,60
+2018-2019,Kharif,Sangareddy,Kandi ,Soyabean,57,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Soyabean,122,10
+2018-2019,Kharif,Sangareddy,Kondapoor,Soyabean,40,0
+2018-2019,Kharif,Sangareddy,Patancheru,Soyabean,10,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Soyabean,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Soyabean,16,
+2018-2019,Kharif,Sangareddy,Jinnaram,Soyabean,3,0
+2018-2019,Kharif,Sangareddy,Gummadidala ,Soyabean,1,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Soyabean,3285,2782
+2018-2019,Kharif,Sangareddy,Mogudampally ,Soyabean,920,401
+2018-2019,Kharif,Sangareddy,Kohir,Soyabean,1928,1256
+2018-2019,Kharif,Sangareddy,Jharasangam,Soyabean,1464,603
+2018-2019,Kharif,Sangareddy,Nyalkal,Soyabean,2167,1150
+2018-2019,Kharif,Sangareddy,Narayankhed,Soyabean,2080,709
+2018-2019,Kharif,Sangareddy,Kangti,Soyabean,3833,3118
+2018-2019,Kharif,Sangareddy,Kalher,Soyabean,1218,639.6
+2018-2019,Kharif,Sangareddy,Sirgapur,Soyabean,547,920
+2018-2019,Kharif,Sangareddy,Manoor,Soyabean,2241,134
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Soyabean,1080,2966
+2018-2019,Kharif,Sangareddy,Andole,Soyabean,16,
+2018-2019,Kharif,Sangareddy,Pulkal,Soyabean,33,0
+2018-2019,Kharif,Sangareddy,Hathnoora,Soyabean,138,35
+2018-2019,Kharif,Sangareddy,Raikode,Soyabean,633,74
+2018-2019,Kharif,Sangareddy,Munipally,Soyabean,292,20
+2018-2019,Kharif,Sangareddy,Vatpally ,Soyabean,88,2
+2018-2019,Kharif,Sangareddy,Sangareddy,Sugarcane,691,633
+2018-2019,Kharif,Sangareddy,Kandi ,Sugarcane,24.4,69
+2018-2019,Kharif,Sangareddy,Sadasivpet,Sugarcane,318.6,392
+2018-2019,Kharif,Sangareddy,Kondapoor,Sugarcane,311.8,266
+2018-2019,Kharif,Sangareddy,Patancheru,Sugarcane,47,65
+2018-2019,Kharif,Sangareddy,Ameenpur ,Sugarcane,0,0
+2018-2019,Kharif,Sangareddy,R.c.puram,Sugarcane,0,0
+2018-2019,Kharif,Sangareddy,Jinnaram,Sugarcane,0.4,0
+2018-2019,Kharif,Sangareddy,Gummadidala ,Sugarcane,0,0
+2018-2019,Kharif,Sangareddy,Zaheerabad,Sugarcane,3780.2,4261
+2018-2019,Kharif,Sangareddy,Mogudampally ,Sugarcane,351.6,1519
+2018-2019,Kharif,Sangareddy,Kohir,Sugarcane,598.2,847
+2018-2019,Kharif,Sangareddy,Jharasangam,Sugarcane,1109.6,1524
+2018-2019,Kharif,Sangareddy,Nyalkal,Sugarcane,1995.2,2706
+2018-2019,Kharif,Sangareddy,Narayankhed,Sugarcane,193,150
+2018-2019,Kharif,Sangareddy,Kangti,Sugarcane,215.8,179
+2018-2019,Kharif,Sangareddy,Kalher,Sugarcane,274.6,112
+2018-2019,Kharif,Sangareddy,Sirgapur,Sugarcane,72,317
+2018-2019,Kharif,Sangareddy,Manoor,Sugarcane,1946.6,2301
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Sugarcane,243,629
+2018-2019,Kharif,Sangareddy,Andole,Sugarcane,315,273
+2018-2019,Kharif,Sangareddy,Pulkal,Sugarcane,1346,835
+2018-2019,Kharif,Sangareddy,Hathnoora,Sugarcane,412.2,158
+2018-2019,Kharif,Sangareddy,Raikode,Sugarcane,414,447
+2018-2019,Kharif,Sangareddy,Munipally,Sugarcane,310,308
+2018-2019,Kharif,Sangareddy,Vatpally ,Sugarcane,22.4,105
+2018-2019,Kharif,Sangareddy,Sangareddy,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Kandi ,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Kondapoor,Sesamum,2,2
+2018-2019,Kharif,Sangareddy,Patancheru,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Sesamum,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Jinnaram,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Gummadidala ,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Sesamum,42,3
+2018-2019,Kharif,Sangareddy,Mogudampally ,Sesamum,7,
+2018-2019,Kharif,Sangareddy,Kohir,Sesamum,62,10
+2018-2019,Kharif,Sangareddy,Jharasangam,Sesamum,7,
+2018-2019,Kharif,Sangareddy,Nyalkal,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Narayankhed,Sesamum,8,
+2018-2019,Kharif,Sangareddy,Kangti,Sesamum,20,
+2018-2019,Kharif,Sangareddy,Kalher,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Manoor,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Andole,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Pulkal,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Hathnoora,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Raikode,Sesamum,7,
+2018-2019,Kharif,Sangareddy,Munipally,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Vatpally ,Sesamum,0,
+2018-2019,Kharif,Sangareddy,Sangareddy,Turmeric,72,2
+2018-2019,Kharif,Sangareddy,Kandi ,Turmeric,6,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Turmeric,81,50
+2018-2019,Kharif,Sangareddy,Kondapoor,Turmeric,410,272
+2018-2019,Kharif,Sangareddy,Patancheru,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Turmeric,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Jinnaram,Turmeric,0,2
+2018-2019,Kharif,Sangareddy,Gummadidala ,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Turmeric,259,175
+2018-2019,Kharif,Sangareddy,Mogudampally ,Turmeric,22,
+2018-2019,Kharif,Sangareddy,Kohir,Turmeric,278,29
+2018-2019,Kharif,Sangareddy,Jharasangam,Turmeric,129,12
+2018-2019,Kharif,Sangareddy,Nyalkal,Turmeric,65,85
+2018-2019,Kharif,Sangareddy,Narayankhed,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Kangti,Turmeric,4,
+2018-2019,Kharif,Sangareddy,Kalher,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Manoor,Turmeric,3,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Andole,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Pulkal,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Hathnoora,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Raikode,Turmeric,3,
+2018-2019,Kharif,Sangareddy,Munipally,Turmeric,42,11
+2018-2019,Kharif,Sangareddy,Vatpally ,Turmeric,0,
+2018-2019,Kharif,Sangareddy,Sangareddy,Castor,2,
+2018-2019,Kharif,Sangareddy,Kandi ,Castor,0,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Castor,0,
+2018-2019,Kharif,Sangareddy,Kondapoor,Castor,0,
+2018-2019,Kharif,Sangareddy,Patancheru,Castor,1,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Castor,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Castor,0,
+2018-2019,Kharif,Sangareddy,Jinnaram,Castor,0,
+2018-2019,Kharif,Sangareddy,Gummadidala ,Castor,0,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Castor,12,20
+2018-2019,Kharif,Sangareddy,Mogudampally ,Castor,0,
+2018-2019,Kharif,Sangareddy,Kohir,Castor,2,0
+2018-2019,Kharif,Sangareddy,Jharasangam,Castor,0,
+2018-2019,Kharif,Sangareddy,Nyalkal,Castor,0,
+2018-2019,Kharif,Sangareddy,Narayankhed,Castor,0,
+2018-2019,Kharif,Sangareddy,Kangti,Castor,0,
+2018-2019,Kharif,Sangareddy,Kalher,Castor,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Castor,0,
+2018-2019,Kharif,Sangareddy,Manoor,Castor,0,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Castor,0,
+2018-2019,Kharif,Sangareddy,Andole,Castor,0,
+2018-2019,Kharif,Sangareddy,Pulkal,Castor,0,
+2018-2019,Kharif,Sangareddy,Hathnoora,Castor,0,
+2018-2019,Kharif,Sangareddy,Raikode,Castor,0,
+2018-2019,Kharif,Sangareddy,Munipally,Castor,0,
+2018-2019,Kharif,Sangareddy,Vatpally ,Castor,0,
+2018-2019,Kharif,Sangareddy,Sangareddy,Chillies,28,2
+2018-2019,Kharif,Sangareddy,Kandi ,Chillies,0,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Chillies,5,10
+2018-2019,Kharif,Sangareddy,Kondapoor,Chillies,12,4
+2018-2019,Kharif,Sangareddy,Patancheru,Chillies,23,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Chillies,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Chillies,5,4
+2018-2019,Kharif,Sangareddy,Jinnaram,Chillies,0,4
+2018-2019,Kharif,Sangareddy,Gummadidala ,Chillies,0,5
+2018-2019,Kharif,Sangareddy,Zaheerabad,Chillies,0,
+2018-2019,Kharif,Sangareddy,Mogudampally ,Chillies,3,
+2018-2019,Kharif,Sangareddy,Kohir,Chillies,1,
+2018-2019,Kharif,Sangareddy,Jharasangam,Chillies,13,
+2018-2019,Kharif,Sangareddy,Nyalkal,Chillies,17,9
+2018-2019,Kharif,Sangareddy,Narayankhed,Chillies,1,
+2018-2019,Kharif,Sangareddy,Kangti,Chillies,0,
+2018-2019,Kharif,Sangareddy,Kalher,Chillies,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Chillies,0,66.8
+2018-2019,Kharif,Sangareddy,Manoor,Chillies,7,11
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Chillies,0,
+2018-2019,Kharif,Sangareddy,Andole,Chillies,52,
+2018-2019,Kharif,Sangareddy,Pulkal,Chillies,11,1.6
+2018-2019,Kharif,Sangareddy,Hathnoora,Chillies,9,
+2018-2019,Kharif,Sangareddy,Raikode,Chillies,28,
+2018-2019,Kharif,Sangareddy,Munipally,Chillies,20,9
+2018-2019,Kharif,Sangareddy,Vatpally ,Chillies,0,8
+2018-2019,Kharif,Sangareddy,Sangareddy,Onion,11,
+2018-2019,Kharif,Sangareddy,Kandi ,Onion,2,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Onion,29,
+2018-2019,Kharif,Sangareddy,Kondapoor,Onion,28,
+2018-2019,Kharif,Sangareddy,Patancheru,Onion,1,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Onion,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Onion,1,
+2018-2019,Kharif,Sangareddy,Jinnaram,Onion,,
+2018-2019,Kharif,Sangareddy,Gummadidala ,Onion,1,4
+2018-2019,Kharif,Sangareddy,Zaheerabad,Onion,26,24
+2018-2019,Kharif,Sangareddy,Mogudampally ,Onion,6,
+2018-2019,Kharif,Sangareddy,Kohir,Onion,4,
+2018-2019,Kharif,Sangareddy,Jharasangam,Onion,27,
+2018-2019,Kharif,Sangareddy,Nyalkal,Onion,12,5
+2018-2019,Kharif,Sangareddy,Narayankhed,Onion,0,
+2018-2019,Kharif,Sangareddy,Kangti,Onion,0,
+2018-2019,Kharif,Sangareddy,Kalher,Onion,4,4
+2018-2019,Kharif,Sangareddy,Sirgapur,Onion,3,0
+2018-2019,Kharif,Sangareddy,Manoor,Onion,18,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Onion,0,
+2018-2019,Kharif,Sangareddy,Andole,Onion,5,19
+2018-2019,Kharif,Sangareddy,Pulkal,Onion,4,
+2018-2019,Kharif,Sangareddy,Hathnoora,Onion,1,
+2018-2019,Kharif,Sangareddy,Raikode,Onion,32,
+2018-2019,Kharif,Sangareddy,Munipally,Onion,19,5
+2018-2019,Kharif,Sangareddy,Vatpally ,Onion,0,1
+2018-2019,Kharif,Sangareddy,Sangareddy,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Kandi ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Sadasivpet,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Kondapoor,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Patancheru,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Ameenpur ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,R.c.puram,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Jinnaram,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Gummadidala ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Zaheerabad,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Mogudampally ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Kohir,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Jharasangam,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Nyalkal,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Narayankhed,Groundnut,6,
+2018-2019,Kharif,Sangareddy,Kangti,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Kalher,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Sirgapur,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Manoor,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Andole,Groundnut,0,3.64
+2018-2019,Kharif,Sangareddy,Pulkal,Groundnut,3,
+2018-2019,Kharif,Sangareddy,Hathnoora,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Raikode,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Munipally,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Vatpally ,Groundnut,0,
+2018-2019,Kharif,Sangareddy,Sangareddy,Total,4855,2272
+2018-2019,Kharif,Sangareddy,Kandi ,Total,1817.4,2697
+2018-2019,Kharif,Sangareddy,Sadasivpet,Total,12695.6,12374.4
+2018-2019,Kharif,Sangareddy,Kondapoor,Total,8020.8,8581
+2018-2019,Kharif,Sangareddy,Patancheru,Total,2613,2213
+2018-2019,Kharif,Sangareddy,Ameenpur ,Total,52,117
+2018-2019,Kharif,Sangareddy,R.c.puram,Total,834,576
+2018-2019,Kharif,Sangareddy,Jinnaram,Total,2370.4,1327
+2018-2019,Kharif,Sangareddy,Gummadidala ,Total,829,2133
+2018-2019,Kharif,Sangareddy,Zaheerabad,Total,15072.2,12032
+2018-2019,Kharif,Sangareddy,Mogudampally ,Total,3326.6,2136
+2018-2019,Kharif,Sangareddy,Kohir,Total,11949.2,9905
+2018-2019,Kharif,Sangareddy,Jharasangam,Total,12178.6,8761
+2018-2019,Kharif,Sangareddy,Nyalkal,Total,14625.2,13526
+2018-2019,Kharif,Sangareddy,Narayankhed,Total,15568,13224
+2018-2019,Kharif,Sangareddy,Kangti,Total,15330.8,13196.6
+2018-2019,Kharif,Sangareddy,Kalher,Total,7979.6,5550.4
+2018-2019,Kharif,Sangareddy,Sirgapur,Total,2655,6023.8
+2018-2019,Kharif,Sangareddy,Manoor,Total,17644.6,10125
+2018-2019,Kharif,Sangareddy,Nagalgidda ,Total,4479,12417.88
+2018-2019,Kharif,Sangareddy,Andole,Total,8130,7402.24
+2018-2019,Kharif,Sangareddy,Pulkal,Total,11392,9519.2
+2018-2019,Kharif,Sangareddy,Hathnoora,Total,7102.2,6959
+2018-2019,Kharif,Sangareddy,Raikode,Total,13294,12639
+2018-2019,Kharif,Sangareddy,Munipally,Total,11950,10549
+2018-2019,Kharif,Sangareddy,Vatpally ,Total,3247.4,8218

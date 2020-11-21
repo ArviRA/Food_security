@@ -1,0 +1,346 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Paddy,64,12
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Paddy,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Paddy,12,2
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Paddy,59,4
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Paddy,23,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Paddy,89,1
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Paddy,58,2
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Paddy,100,25
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Paddy,54,1
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Paddy,149,65
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Paddy,247,78
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Paddy,350,154
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Paddy,141,87
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Paddy,137,73
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Paddy,617,221
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Paddy,478,234
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Paddy,403,198
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Paddy,572,267
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Paddy,338,158
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Paddy,882,489
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Paddy,367,157
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Paddy,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Paddy,642,127
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Jowar,18,16
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Jowar,4,5
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Jowar,8,6
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Jowar,9,11
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Jowar,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Jowar,22,13
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Jowar,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Jowar,5,3
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Jowar,4,5
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Jowar,6,7
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Jowar,2,2
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Jowar,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Jowar,5,6
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Jowar,8,5
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Jowar,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Jowar,3,2
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Jowar,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Maize,438,512
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Maize,19,28
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Maize,62,54
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Maize,69,92
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Maize,22,31
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Maize,43,47
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Maize,53,48
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Maize,99,101
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Maize,85,89
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Maize,30,32
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Maize,42,45
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Maize,2273,2489
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Maize,949,1120
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Maize,148,121
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Maize,91,97
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Maize,45,57
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Maize,20,17
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Maize,29,29
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Maize,6,6
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Maize,28,32
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Maize,88,92
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Maize,7,9
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Maize,76,87
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Green Gram,102,32
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Green Gram,11,2
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Green Gram,28,7
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Green Gram,31,4
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Green Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Green Gram,9,4
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Green Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Green Gram,5,4
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Green Gram,14,6
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Green Gram,3,1
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Green Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Green Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Green Gram,28,7
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Green Gram,4,2
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Green Gram,50,35
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Green Gram,180,59
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Green Gram,110,24
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Green Gram,236,46
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Green Gram,114,66
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Green Gram,207,56
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Green Gram,34,3
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Green Gram,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Green Gram,92,9
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Black Gram,42,11
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Black Gram,2,1
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Black Gram,10,3
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Black Gram,21,5
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Black Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Black Gram,13,4
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Black Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Black Gram,4,2
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Black Gram,5,2
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Black Gram,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Black Gram,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Black Gram,5,1
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Black Gram,47,22
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Black Gram,12,2
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Black Gram,22,9
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Black Gram,166,36
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Black Gram,34,21
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Black Gram,82,44
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Black Gram,73,22
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Black Gram,106,41
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Black Gram,30,8
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Black Gram,3,1
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Black Gram,51,18
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Red Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Red Gram,10,0
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Red Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Red Gram,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Red Gram,6,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Red Gram,5,0
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Red Gram,12,0
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Red Gram,7,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Red Gram,9,0
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Red Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Red Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Bengal Gram,15,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Bengal Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Bengal Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Bengal Gram,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Bengal Gram,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Bengal Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Horse Gram,0,2
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Horse Gram,0,5
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Horse Gram,0,14
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Horse Gram,0,10
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Horse Gram,0,10
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Horse Gram,0,10
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Horse Gram,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Chillies,18,22
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Chillies,43,45
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Chillies,40,38
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Chillies,4,6
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Chillies,13,15
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Chillies,7,8
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Chillies,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Chillies,20,18
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Chillies,29,22
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Chillies,46,54
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Chillies,46,45
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Chillies,46,41
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Chillies,100,102
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Chillies,11,15
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Chillies,213,203
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Chillies,305,303
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Chillies,46,42
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Chillies,1187,1189
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Groundnut,22,23
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Groundnut,1,3
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Groundnut,24,32
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Groundnut,30,45
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Groundnut,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Groundnut,8,12
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Groundnut,4,9
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Groundnut,41,54
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Groundnut,6,8
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Groundnut,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Groundnut,8,12
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Groundnut,839,952
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Groundnut,285,302
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Groundnut,503,523
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Groundnut,52,72
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Groundnut,13,18
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Groundnut,21,28
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Groundnut,13,19
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Groundnut,185,201
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Groundnut,64,71
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Groundnut,12,15
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Groundnut,1,2
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Groundnut,45,54
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Sesamum,1,2
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Sesamum,2,1
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Sesamum,3,1
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Sesamum,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Sesamum,22,20
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Sesamum,17,15
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Sesamum,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Sesamum,7,6
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Sesamum,21,13
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Sesamum,2,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Sesamum,28,15
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Sesamum,3,1
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Sesamum,11,10
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Sesamum,33,18
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Sesamum,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Sesamum,13,8
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Sunflower,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Sunflower,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Sunflower,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Tobacco,15,10
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Tobacco,589,189
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Tobacco,691,215
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Tobacco,283,235
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Tobacco,7,1
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Tobacco,6,2
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Tobacco,1,0
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Tobacco,3,1
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Tobacco,0,0
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Tobacco,8,2
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Other crops,66,65
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Other crops,121,135
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Other crops,7,9
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Other crops,68,75
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Other crops,5,5
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Other crops,58,64
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Other crops,7,2
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Other crops,37,39
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Other crops,60,58
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Other crops,8,8
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Other crops,30,32
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Other crops,704,657
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Other crops,203,156
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Other crops,344,345
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Other crops,35,30
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Other crops,4,3
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Other crops,65,54
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Other crops,49,32
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Other crops,34,32
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Other crops,51,55
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Other crops,25,21
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Other crops,5,6
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Other crops,36,21
+2018-2019,Rabi,Bhadradri Kothagudem,Yellandu,Total,753,673
+2018-2019,Rabi,Bhadradri Kothagudem,Allapalli,Total,179,198
+2018-2019,Rabi,Bhadradri Kothagudem,Gundala,Total,194,158
+2018-2019,Rabi,Bhadradri Kothagudem,Tekulapally,Total,327,274
+2018-2019,Rabi,Bhadradri Kothagudem,Kothagudem,Total,52,36
+2018-2019,Rabi,Bhadradri Kothagudem,Sujathanagar,Total,250,152
+2018-2019,Rabi,Bhadradri Kothagudem,Chunchupalli,Total,141,77
+2018-2019,Rabi,Bhadradri Kothagudem,Laxmidevipalli,Total,299,241
+2018-2019,Rabi,Bhadradri Kothagudem,Julurpadu,Total,228,169
+2018-2019,Rabi,Bhadradri Kothagudem,Chandrugonda,Total,198,113
+2018-2019,Rabi,Bhadradri Kothagudem,Annapureddipalli,Total,367,197
+2018-2019,Rabi,Bhadradri Kothagudem,Dammapet,Total,4760,4456
+2018-2019,Rabi,Bhadradri Kothagudem,Aswaraopet,Total,2391,1952
+2018-2019,Rabi,Bhadradri Kothagudem,Mulkalapally,Total,1463,1335
+2018-2019,Rabi,Bhadradri Kothagudem,Palwancha,Total,927,535
+2018-2019,Rabi,Bhadradri Kothagudem,Burgampadu,Total,970,465
+2018-2019,Rabi,Bhadradri Kothagudem,Manuguru,Total,716,385
+2018-2019,Rabi,Bhadradri Kothagudem,Aswapuram,Total,1120,560
+2018-2019,Rabi,Bhadradri Kothagudem,Karakagudem,Total,786,506
+2018-2019,Rabi,Bhadradri Kothagudem,Pinapaka,Total,1575,958
+2018-2019,Rabi,Bhadradri Kothagudem,Dummugudem,Total,906,619
+2018-2019,Rabi,Bhadradri Kothagudem,Bhadrachalam,Total,65,60
+2018-2019,Rabi,Bhadradri Kothagudem,Cherla,Total,2151,1515

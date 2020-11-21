@@ -1,0 +1,441 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Rabi,Kamareddy,Madnur,Paddy,1374,546
+2018-2019,Rabi,Kamareddy,Jukkal,Paddy,413,10
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Paddy,138,15
+2018-2019,Rabi,Kamareddy,Bichkunda,Paddy,1432,482
+2018-2019,Rabi,Kamareddy,Birkoor,Paddy,3352,1260
+2018-2019,Rabi,Kamareddy,Nasurullabad,Paddy,2936,1054
+2018-2019,Rabi,Kamareddy,Banswada,Paddy,3238,121
+2018-2019,Rabi,Kamareddy,Pitlam,Paddy,1896,300
+2018-2019,Rabi,Kamareddy,Nizamsagar,Paddy,2016,35
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Paddy,1409,725
+2018-2019,Rabi,Kamareddy,Yellareddy,Paddy,1421,524
+2018-2019,Rabi,Kamareddy,Lingampet,Paddy,1089,624
+2018-2019,Rabi,Kamareddy,Gandhari,Paddy,435,212
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Paddy,550,87
+2018-2019,Rabi,Kamareddy,Tadwai,Paddy,74,6
+2018-2019,Rabi,Kamareddy,Rajampet,Paddy,186,4
+2018-2019,Rabi,Kamareddy,Bhiknur,Paddy,1007,49
+2018-2019,Rabi,Kamareddy,Kamareddy,Paddy,696,208
+2018-2019,Rabi,Kamareddy,Ramareddy,Paddy,508,98
+2018-2019,Rabi,Kamareddy,Machareddy,Paddy,1120,315
+2018-2019,Rabi,Kamareddy,Domakonda,Paddy,802,178
+2018-2019,Rabi,Kamareddy,Bibipet,Paddy,504,120
+2018-2019,Rabi,Kamareddy,Madnur,Wheat,116,64
+2018-2019,Rabi,Kamareddy,Jukkal,Wheat,124,85
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Wheat,45,10
+2018-2019,Rabi,Kamareddy,Bichkunda,Wheat,18,75
+2018-2019,Rabi,Kamareddy,Birkoor,Wheat,13,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Wheat,0,
+2018-2019,Rabi,Kamareddy,Banswada,Wheat,7,5
+2018-2019,Rabi,Kamareddy,Pitlam,Wheat,4,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Wheat,1,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Wheat,4,6
+2018-2019,Rabi,Kamareddy,Yellareddy,Wheat,4,0
+2018-2019,Rabi,Kamareddy,Lingampet,Wheat,2,45
+2018-2019,Rabi,Kamareddy,Gandhari,Wheat,37,327
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Wheat,46,51
+2018-2019,Rabi,Kamareddy,Tadwai,Wheat,60,104
+2018-2019,Rabi,Kamareddy,Rajampet,Wheat,17,0
+2018-2019,Rabi,Kamareddy,Bhiknur,Wheat,36,6
+2018-2019,Rabi,Kamareddy,Kamareddy,Wheat,41,0
+2018-2019,Rabi,Kamareddy,Ramareddy,Wheat,70,43
+2018-2019,Rabi,Kamareddy,Machareddy,Wheat,24,
+2018-2019,Rabi,Kamareddy,Domakonda,Wheat,13,8
+2018-2019,Rabi,Kamareddy,Bibipet,Wheat,13,2
+2018-2019,Rabi,Kamareddy,Madnur,Jowar,1152,25
+2018-2019,Rabi,Kamareddy,Jukkal,Jowar,775,418
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Jowar,207,178
+2018-2019,Rabi,Kamareddy,Bichkunda,Jowar,235,350
+2018-2019,Rabi,Kamareddy,Birkoor,Jowar,97,13
+2018-2019,Rabi,Kamareddy,Nasurullabad,Jowar,0,0
+2018-2019,Rabi,Kamareddy,Banswada,Jowar,315,80
+2018-2019,Rabi,Kamareddy,Pitlam,Jowar,840,710
+2018-2019,Rabi,Kamareddy,Nizamsagar,Jowar,203,85
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Jowar,34,8
+2018-2019,Rabi,Kamareddy,Yellareddy,Jowar,93,20
+2018-2019,Rabi,Kamareddy,Lingampet,Jowar,86,89
+2018-2019,Rabi,Kamareddy,Gandhari,Jowar,151,446
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Jowar,0,13
+2018-2019,Rabi,Kamareddy,Tadwai,Jowar,13,0
+2018-2019,Rabi,Kamareddy,Rajampet,Jowar,1,0
+2018-2019,Rabi,Kamareddy,Bhiknur,Jowar,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Jowar,6,0
+2018-2019,Rabi,Kamareddy,Ramareddy,Jowar,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Jowar,3,
+2018-2019,Rabi,Kamareddy,Domakonda,Jowar,0,2
+2018-2019,Rabi,Kamareddy,Bibipet,Jowar,0,0
+2018-2019,Rabi,Kamareddy,Madnur,Maize,103,300
+2018-2019,Rabi,Kamareddy,Jukkal,Maize,127,105
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Maize,501,813
+2018-2019,Rabi,Kamareddy,Bichkunda,Maize,369,500
+2018-2019,Rabi,Kamareddy,Birkoor,Maize,117,12
+2018-2019,Rabi,Kamareddy,Nasurullabad,Maize,373,24
+2018-2019,Rabi,Kamareddy,Banswada,Maize,1231,260
+2018-2019,Rabi,Kamareddy,Pitlam,Maize,1280,450
+2018-2019,Rabi,Kamareddy,Nizamsagar,Maize,255,120
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Maize,323,94
+2018-2019,Rabi,Kamareddy,Yellareddy,Maize,791,183
+2018-2019,Rabi,Kamareddy,Lingampet,Maize,1473,170
+2018-2019,Rabi,Kamareddy,Gandhari,Maize,3143,1827
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Maize,881,204
+2018-2019,Rabi,Kamareddy,Tadwai,Maize,498,43
+2018-2019,Rabi,Kamareddy,Rajampet,Maize,980,52
+2018-2019,Rabi,Kamareddy,Bhiknur,Maize,1651,256
+2018-2019,Rabi,Kamareddy,Kamareddy,Maize,435,84
+2018-2019,Rabi,Kamareddy,Ramareddy,Maize,151,377
+2018-2019,Rabi,Kamareddy,Machareddy,Maize,645,29
+2018-2019,Rabi,Kamareddy,Domakonda,Maize,632.178981937603,45
+2018-2019,Rabi,Kamareddy,Bibipet,Maize,248.821018062397,62
+2018-2019,Rabi,Kamareddy,Madnur,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Jukkal,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Bichkunda,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Birkoor,Green Gram,14,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Banswada,Green Gram,40,0
+2018-2019,Rabi,Kamareddy,Pitlam,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Green Gram,23,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Green Gram,2,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Green Gram,34,9
+2018-2019,Rabi,Kamareddy,Lingampet,Green Gram,8,10
+2018-2019,Rabi,Kamareddy,Gandhari,Green Gram,13,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Green Gram,1,16
+2018-2019,Rabi,Kamareddy,Tadwai,Green Gram,0,0
+2018-2019,Rabi,Kamareddy,Rajampet,Green Gram,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Green Gram,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Green Gram,2,
+2018-2019,Rabi,Kamareddy,Ramareddy,Green Gram,4,
+2018-2019,Rabi,Kamareddy,Machareddy,Green Gram,8,
+2018-2019,Rabi,Kamareddy,Domakonda,Green Gram,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Green Gram,0,3
+2018-2019,Rabi,Kamareddy,Madnur,Black Gram,49,0
+2018-2019,Rabi,Kamareddy,Jukkal,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Bichkunda,Black Gram,2,0
+2018-2019,Rabi,Kamareddy,Birkoor,Black Gram,14,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Banswada,Black Gram,11,0
+2018-2019,Rabi,Kamareddy,Pitlam,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Black Gram,6,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Black Gram,5,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Black Gram,4,11
+2018-2019,Rabi,Kamareddy,Lingampet,Black Gram,6,7
+2018-2019,Rabi,Kamareddy,Gandhari,Black Gram,8,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Black Gram,2,4
+2018-2019,Rabi,Kamareddy,Tadwai,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Rajampet,Black Gram,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Black Gram,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Black Gram,3,
+2018-2019,Rabi,Kamareddy,Ramareddy,Black Gram,3,
+2018-2019,Rabi,Kamareddy,Machareddy,Black Gram,1,
+2018-2019,Rabi,Kamareddy,Domakonda,Black Gram,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Black Gram,0,0
+2018-2019,Rabi,Kamareddy,Madnur,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Jukkal,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Bichkunda,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Birkoor,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Banswada,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Tadwai,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Rajampet,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Cow Gram,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Cow Gram,2,
+2018-2019,Rabi,Kamareddy,Bibipet,Cow Gram,0,0
+2018-2019,Rabi,Kamareddy,Madnur,Bengal Gram,4880,3812
+2018-2019,Rabi,Kamareddy,Jukkal,Bengal Gram,3716,3718
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Bengal Gram,128,103
+2018-2019,Rabi,Kamareddy,Bichkunda,Bengal Gram,3525,3010
+2018-2019,Rabi,Kamareddy,Birkoor,Bengal Gram,83,32
+2018-2019,Rabi,Kamareddy,Nasurullabad,Bengal Gram,0,393
+2018-2019,Rabi,Kamareddy,Banswada,Bengal Gram,527,90
+2018-2019,Rabi,Kamareddy,Pitlam,Bengal Gram,787,248
+2018-2019,Rabi,Kamareddy,Nizamsagar,Bengal Gram,56,76
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Bengal Gram,8,60
+2018-2019,Rabi,Kamareddy,Yellareddy,Bengal Gram,5,218
+2018-2019,Rabi,Kamareddy,Lingampet,Bengal Gram,81,535
+2018-2019,Rabi,Kamareddy,Gandhari,Bengal Gram,1215,1610
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Bengal Gram,749,578
+2018-2019,Rabi,Kamareddy,Tadwai,Bengal Gram,755,1427
+2018-2019,Rabi,Kamareddy,Rajampet,Bengal Gram,193,212
+2018-2019,Rabi,Kamareddy,Bhiknur,Bengal Gram,244,535
+2018-2019,Rabi,Kamareddy,Kamareddy,Bengal Gram,230,114
+2018-2019,Rabi,Kamareddy,Ramareddy,Bengal Gram,52,223
+2018-2019,Rabi,Kamareddy,Machareddy,Bengal Gram,48,47
+2018-2019,Rabi,Kamareddy,Domakonda,Bengal Gram,43.7826086956522,196
+2018-2019,Rabi,Kamareddy,Bibipet,Bengal Gram,9.21739130434783,20
+2018-2019,Rabi,Kamareddy,Madnur,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Jukkal,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Birkoor,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Banswada,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Other pulses (rajmaa),0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Other pulses (rajmaa),0,16
+2018-2019,Rabi,Kamareddy,Tadwai,Other pulses (rajmaa),206,417
+2018-2019,Rabi,Kamareddy,Rajampet,Other pulses (rajmaa),21,
+2018-2019,Rabi,Kamareddy,Bhiknur,Other pulses (rajmaa),77,24
+2018-2019,Rabi,Kamareddy,Kamareddy,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Machareddy,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Domakonda,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Bibipet,Other pulses (rajmaa),0,
+2018-2019,Rabi,Kamareddy,Madnur,Chillies,38,
+2018-2019,Rabi,Kamareddy,Jukkal,Chillies,13,15
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Chillies,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Chillies,8,0
+2018-2019,Rabi,Kamareddy,Birkoor,Chillies,5,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Chillies,0,
+2018-2019,Rabi,Kamareddy,Banswada,Chillies,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Chillies,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Chillies,0,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Chillies,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Chillies,0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Chillies,12,2
+2018-2019,Rabi,Kamareddy,Gandhari,Chillies,2,5
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Chillies,9,
+2018-2019,Rabi,Kamareddy,Tadwai,Chillies,7,0
+2018-2019,Rabi,Kamareddy,Rajampet,Chillies,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Chillies,25,
+2018-2019,Rabi,Kamareddy,Kamareddy,Chillies,6,2
+2018-2019,Rabi,Kamareddy,Ramareddy,Chillies,5,
+2018-2019,Rabi,Kamareddy,Machareddy,Chillies,3,2
+2018-2019,Rabi,Kamareddy,Domakonda,Chillies,9,6
+2018-2019,Rabi,Kamareddy,Bibipet,Chillies,3,
+2018-2019,Rabi,Kamareddy,Madnur,Coriander,0,
+2018-2019,Rabi,Kamareddy,Jukkal,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Coriander,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Birkoor,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Coriander,0,
+2018-2019,Rabi,Kamareddy,Banswada,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Coriander,0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Coriander,13,18
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Coriander,67,
+2018-2019,Rabi,Kamareddy,Tadwai,Coriander,65,6
+2018-2019,Rabi,Kamareddy,Rajampet,Coriander,6,
+2018-2019,Rabi,Kamareddy,Bhiknur,Coriander,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Coriander,1,
+2018-2019,Rabi,Kamareddy,Ramareddy,Coriander,3,
+2018-2019,Rabi,Kamareddy,Machareddy,Coriander,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Coriander,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Coriander,0,
+2018-2019,Rabi,Kamareddy,Madnur,Onion,9,
+2018-2019,Rabi,Kamareddy,Jukkal,Onion,23,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Onion,8,
+2018-2019,Rabi,Kamareddy,Bichkunda,Onion,36,150
+2018-2019,Rabi,Kamareddy,Birkoor,Onion,17,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Onion,0,
+2018-2019,Rabi,Kamareddy,Banswada,Onion,9,0
+2018-2019,Rabi,Kamareddy,Pitlam,Onion,23,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Onion,8,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Onion,23,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Onion,12,0
+2018-2019,Rabi,Kamareddy,Lingampet,Onion,24,4
+2018-2019,Rabi,Kamareddy,Gandhari,Onion,17,5
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Onion,43,
+2018-2019,Rabi,Kamareddy,Tadwai,Onion,25,
+2018-2019,Rabi,Kamareddy,Rajampet,Onion,32,
+2018-2019,Rabi,Kamareddy,Bhiknur,Onion,37,
+2018-2019,Rabi,Kamareddy,Kamareddy,Onion,54,14
+2018-2019,Rabi,Kamareddy,Ramareddy,Onion,26,
+2018-2019,Rabi,Kamareddy,Machareddy,Onion,23,12
+2018-2019,Rabi,Kamareddy,Domakonda,Onion,24,15
+2018-2019,Rabi,Kamareddy,Bibipet,Onion,21,
+2018-2019,Rabi,Kamareddy,Madnur,Other food crops,86,
+2018-2019,Rabi,Kamareddy,Jukkal,Other food crops,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Other food crops,73,
+2018-2019,Rabi,Kamareddy,Bichkunda,Other food crops,200,0
+2018-2019,Rabi,Kamareddy,Birkoor,Other food crops,0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Other food crops,102,10
+2018-2019,Rabi,Kamareddy,Banswada,Other food crops,49,0
+2018-2019,Rabi,Kamareddy,Pitlam,Other food crops,138,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Other food crops,113,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Other food crops,241,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Other food crops,112,0
+2018-2019,Rabi,Kamareddy,Lingampet,Other food crops,364,80
+2018-2019,Rabi,Kamareddy,Gandhari,Other food crops,351,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Other food crops,370,
+2018-2019,Rabi,Kamareddy,Tadwai,Other food crops,408,
+2018-2019,Rabi,Kamareddy,Rajampet,Other food crops,314,
+2018-2019,Rabi,Kamareddy,Bhiknur,Other food crops,550,
+2018-2019,Rabi,Kamareddy,Kamareddy,Other food crops,555,
+2018-2019,Rabi,Kamareddy,Ramareddy,Other food crops,353,
+2018-2019,Rabi,Kamareddy,Machareddy,Other food crops,617,
+2018-2019,Rabi,Kamareddy,Domakonda,Other food crops,10.5658818942177,
+2018-2019,Rabi,Kamareddy,Bibipet,Other food crops,577.434118105782,
+2018-2019,Rabi,Kamareddy,Madnur,Groundnut,23,
+2018-2019,Rabi,Kamareddy,Jukkal,Groundnut,143,110
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Groundnut,2,
+2018-2019,Rabi,Kamareddy,Bichkunda,Groundnut,2,0
+2018-2019,Rabi,Kamareddy,Birkoor,Groundnut,13,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Banswada,Groundnut,12,0
+2018-2019,Rabi,Kamareddy,Pitlam,Groundnut,7,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Groundnut,27,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Groundnut,7,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Groundnut,15,3
+2018-2019,Rabi,Kamareddy,Lingampet,Groundnut,20,12
+2018-2019,Rabi,Kamareddy,Gandhari,Groundnut,8,2
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Groundnut,5,
+2018-2019,Rabi,Kamareddy,Tadwai,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Rajampet,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Groundnut,13,
+2018-2019,Rabi,Kamareddy,Kamareddy,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Groundnut,0,
+2018-2019,Rabi,Kamareddy,Madnur,Sesamum,20,
+2018-2019,Rabi,Kamareddy,Jukkal,Sesamum,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Sesamum,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Sesamum,1,0
+2018-2019,Rabi,Kamareddy,Birkoor,Sesamum,2,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Sesamum,0,
+2018-2019,Rabi,Kamareddy,Banswada,Sesamum,5,0
+2018-2019,Rabi,Kamareddy,Pitlam,Sesamum,16,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Sesamum,9,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Sesamum,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Sesamum,3,0
+2018-2019,Rabi,Kamareddy,Lingampet,Sesamum,7,0
+2018-2019,Rabi,Kamareddy,Gandhari,Sesamum,5,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Sesamum,1,
+2018-2019,Rabi,Kamareddy,Tadwai,Sesamum,5,
+2018-2019,Rabi,Kamareddy,Rajampet,Sesamum,3,
+2018-2019,Rabi,Kamareddy,Bhiknur,Sesamum,10,
+2018-2019,Rabi,Kamareddy,Kamareddy,Sesamum,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Sesamum,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Sesamum,2,
+2018-2019,Rabi,Kamareddy,Domakonda,Sesamum,15,7
+2018-2019,Rabi,Kamareddy,Bibipet,Sesamum,0,
+2018-2019,Rabi,Kamareddy,Madnur,Safflower,173,120
+2018-2019,Rabi,Kamareddy,Jukkal,Safflower,121,144
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Safflower,14,14
+2018-2019,Rabi,Kamareddy,Bichkunda,Safflower,374,207
+2018-2019,Rabi,Kamareddy,Birkoor,Safflower,6,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Safflower,0,
+2018-2019,Rabi,Kamareddy,Banswada,Safflower,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Safflower,7,7
+2018-2019,Rabi,Kamareddy,Nizamsagar,Safflower,8,8
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Safflower,2,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Safflower,2,0
+2018-2019,Rabi,Kamareddy,Lingampet,Safflower,0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Safflower,0,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Safflower,3,2
+2018-2019,Rabi,Kamareddy,Tadwai,Safflower,0,
+2018-2019,Rabi,Kamareddy,Rajampet,Safflower,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Safflower,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Safflower,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Safflower,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Safflower,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Safflower,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Safflower,0,
+2018-2019,Rabi,Kamareddy,Madnur,Sunflower,10,
+2018-2019,Rabi,Kamareddy,Jukkal,Sunflower,5,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Sunflower,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Sunflower,81,0
+2018-2019,Rabi,Kamareddy,Birkoor,Sunflower,94,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Sunflower,0,
+2018-2019,Rabi,Kamareddy,Banswada,Sunflower,13,0
+2018-2019,Rabi,Kamareddy,Pitlam,Sunflower,5,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Sunflower,14,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Sunflower,2,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Sunflower,5,0
+2018-2019,Rabi,Kamareddy,Lingampet,Sunflower,2,1
+2018-2019,Rabi,Kamareddy,Gandhari,Sunflower,66,47
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Sunflower,7,
+2018-2019,Rabi,Kamareddy,Tadwai,Sunflower,0,
+2018-2019,Rabi,Kamareddy,Rajampet,Sunflower,3,
+2018-2019,Rabi,Kamareddy,Bhiknur,Sunflower,133,15
+2018-2019,Rabi,Kamareddy,Kamareddy,Sunflower,12,
+2018-2019,Rabi,Kamareddy,Ramareddy,Sunflower,1,
+2018-2019,Rabi,Kamareddy,Machareddy,Sunflower,59,2
+2018-2019,Rabi,Kamareddy,Domakonda,Sunflower,81,10
+2018-2019,Rabi,Kamareddy,Bibipet,Sunflower,3,
+2018-2019,Rabi,Kamareddy,Madnur,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Jukkal,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Birkoor,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Banswada,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Other oil seeds,1,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Other oil seeds,0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Other oil seeds,44,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Other oil seeds,13,
+2018-2019,Rabi,Kamareddy,Tadwai,Other oil seeds,39,
+2018-2019,Rabi,Kamareddy,Rajampet,Other oil seeds,2,
+2018-2019,Rabi,Kamareddy,Bhiknur,Other oil seeds,1,
+2018-2019,Rabi,Kamareddy,Kamareddy,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Other oil seeds,0,
+2018-2019,Rabi,Kamareddy,Madnur,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Jukkal,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Bichkunda,Tobacco,64,120
+2018-2019,Rabi,Kamareddy,Birkoor,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Nasurullabad,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Banswada,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Pitlam,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Nizamsagar,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Yellareddy,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Lingampet,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Gandhari,Tobacco,0,0
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Tadwai,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Rajampet,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Bhiknur,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Kamareddy,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Ramareddy,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Machareddy,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Domakonda,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Bibipet,Tobacco,0,
+2018-2019,Rabi,Kamareddy,Madnur,Total,8033,4867
+2018-2019,Rabi,Kamareddy,Jukkal,Total,5460,4605
+2018-2019,Rabi,Kamareddy,Pedda kodapgal,Total,1116,1133
+2018-2019,Rabi,Kamareddy,Bichkunda,Total,6347,4894
+2018-2019,Rabi,Kamareddy,Birkoor,Total,3827,1317
+2018-2019,Rabi,Kamareddy,Nasurullabad,Total,3411,1481
+2018-2019,Rabi,Kamareddy,Banswada,Total,5457,556
+2018-2019,Rabi,Kamareddy,Pitlam,Total,5003,1715
+2018-2019,Rabi,Kamareddy,Nizamsagar,Total,2740,324
+2018-2019,Rabi,Kamareddy,Naga_reddipet,Total,2060,893
+2018-2019,Rabi,Kamareddy,Yellareddy,Total,2501,968
+2018-2019,Rabi,Kamareddy,Lingampet,Total,3174,1579
+2018-2019,Rabi,Kamareddy,Gandhari,Total,5508,4499
+2018-2019,Rabi,Kamareddy,Sadasivanagar,Total,2747,971
+2018-2019,Rabi,Kamareddy,Tadwai,Total,2155,2003
+2018-2019,Rabi,Kamareddy,Rajampet,Total,1758,268
+2018-2019,Rabi,Kamareddy,Bhiknur,Total,3784,885
+2018-2019,Rabi,Kamareddy,Kamareddy,Total,2041,422
+2018-2019,Rabi,Kamareddy,Ramareddy,Total,1176,741
+2018-2019,Rabi,Kamareddy,Machareddy,Total,2553,407
+2018-2019,Rabi,Kamareddy,Domakonda,Total,1632.52747252747,467
+2018-2019,Rabi,Kamareddy,Bibipet,Total,1379.47252747253,207

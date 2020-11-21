@@ -1,0 +1,295 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Wanaparthy,Amarachintha,Paddy,1322.4,1068
+2018-2019,Kharif,Wanaparthy,Madanapur,Paddy,2956.6,4227
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Paddy,792.2,1177
+2018-2019,Kharif,Wanaparthy,Ghanpur,Paddy,1434.2,1426
+2018-2019,Kharif,Wanaparthy,Gopalpet,Paddy,804,1681
+2018-2019,Kharif,Wanaparthy,Revally,Paddy,556.6,1912
+2018-2019,Kharif,Wanaparthy,Pangal,Paddy,1993,2363
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Paddy,1177.2,1694
+2018-2019,Kharif,Wanaparthy,Kothakota,Paddy,3465.4,5310
+2018-2019,Kharif,Wanaparthy,Atmakur,Paddy,2616,4115
+2018-2019,Kharif,Wanaparthy,Pebbair,Paddy,4145.8,6229
+2018-2019,Kharif,Wanaparthy,Srirangapur,Paddy,1400.2,2554
+2018-2019,Kharif,Wanaparthy,Weepangandla,Paddy,2058.6,3204
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Paddy,1950.4,2656
+2018-2019,Kharif,Wanaparthy,Amarachintha,Jowar,0.6,3
+2018-2019,Kharif,Wanaparthy,Madanapur,Jowar,43.2,6
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Jowar,558,546
+2018-2019,Kharif,Wanaparthy,Ghanpur,Jowar,531.6,251
+2018-2019,Kharif,Wanaparthy,Gopalpet,Jowar,261.2,382
+2018-2019,Kharif,Wanaparthy,Revally,Jowar,120.2,99
+2018-2019,Kharif,Wanaparthy,Pangal,Jowar,502,302
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Jowar,543.4,439
+2018-2019,Kharif,Wanaparthy,Kothakota,Jowar,57.6,4
+2018-2019,Kharif,Wanaparthy,Atmakur,Jowar,1.6,10
+2018-2019,Kharif,Wanaparthy,Pebbair,Jowar,8.8,0
+2018-2019,Kharif,Wanaparthy,Srirangapur,Jowar,14.2,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Jowar,94.8,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Jowar,0,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Maize,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Maize,87.8,2
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Maize,1608.2,600
+2018-2019,Kharif,Wanaparthy,Ghanpur,Maize,1420,415
+2018-2019,Kharif,Wanaparthy,Gopalpet,Maize,6497.8,1416
+2018-2019,Kharif,Wanaparthy,Revally,Maize,4640.2,1638
+2018-2019,Kharif,Wanaparthy,Pangal,Maize,2084.8,1686
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Maize,2637.8,684
+2018-2019,Kharif,Wanaparthy,Kothakota,Maize,137.2,38
+2018-2019,Kharif,Wanaparthy,Atmakur,Maize,0.6,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Maize,48.8,149
+2018-2019,Kharif,Wanaparthy,Srirangapur,Maize,19.4,13
+2018-2019,Kharif,Wanaparthy,Weepangandla,Maize,310.4,114
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Maize,1168,2927
+2018-2019,Kharif,Wanaparthy,Amarachintha,Red Gram,2115.2,2585
+2018-2019,Kharif,Wanaparthy,Madanapur,Red Gram,1084,1720
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Red Gram,599,1229
+2018-2019,Kharif,Wanaparthy,Ghanpur,Red Gram,201.8,272
+2018-2019,Kharif,Wanaparthy,Gopalpet,Red Gram,270.2,367
+2018-2019,Kharif,Wanaparthy,Revally,Red Gram,165.2,166
+2018-2019,Kharif,Wanaparthy,Pangal,Red Gram,1257,1257
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Red Gram,575.4,569
+2018-2019,Kharif,Wanaparthy,Kothakota,Red Gram,472.8,739
+2018-2019,Kharif,Wanaparthy,Atmakur,Red Gram,903,1824
+2018-2019,Kharif,Wanaparthy,Pebbair,Red Gram,377.6,879
+2018-2019,Kharif,Wanaparthy,Srirangapur,Red Gram,192.2,143
+2018-2019,Kharif,Wanaparthy,Weepangandla,Red Gram,1098.8,1303
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Red Gram,212,193
+2018-2019,Kharif,Wanaparthy,Amarachintha,Cotton,417.8,337
+2018-2019,Kharif,Wanaparthy,Madanapur,Cotton,111.2,57
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Cotton,866,717
+2018-2019,Kharif,Wanaparthy,Ghanpur,Cotton,1192.2,982
+2018-2019,Kharif,Wanaparthy,Gopalpet,Cotton,183.2,271
+2018-2019,Kharif,Wanaparthy,Revally,Cotton,208.4,115
+2018-2019,Kharif,Wanaparthy,Pangal,Cotton,59.4,9
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Cotton,63,65
+2018-2019,Kharif,Wanaparthy,Kothakota,Cotton,72.2,37
+2018-2019,Kharif,Wanaparthy,Atmakur,Cotton,131,80
+2018-2019,Kharif,Wanaparthy,Pebbair,Cotton,31,32
+2018-2019,Kharif,Wanaparthy,Srirangapur,Cotton,7.8,3
+2018-2019,Kharif,Wanaparthy,Weepangandla,Cotton,17.2,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Cotton,21,32
+2018-2019,Kharif,Wanaparthy,Amarachintha,Groundnut,1.2,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Groundnut,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Groundnut,88.6,42
+2018-2019,Kharif,Wanaparthy,Ghanpur,Groundnut,6.8,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Groundnut,11.2,40
+2018-2019,Kharif,Wanaparthy,Revally,Groundnut,3.6,16
+2018-2019,Kharif,Wanaparthy,Pangal,Groundnut,312.8,60
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Groundnut,481.8,140
+2018-2019,Kharif,Wanaparthy,Kothakota,Groundnut,61.4,57
+2018-2019,Kharif,Wanaparthy,Atmakur,Groundnut,2.8,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Groundnut,151.4,57
+2018-2019,Kharif,Wanaparthy,Srirangapur,Groundnut,114.2,50
+2018-2019,Kharif,Wanaparthy,Weepangandla,Groundnut,191.8,132
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Groundnut,45,15
+2018-2019,Kharif,Wanaparthy,Amarachintha,Castor,934.2,306
+2018-2019,Kharif,Wanaparthy,Madanapur,Castor,794,446
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Castor,1063.4,692
+2018-2019,Kharif,Wanaparthy,Ghanpur,Castor,425.2,259
+2018-2019,Kharif,Wanaparthy,Gopalpet,Castor,240.8,320
+2018-2019,Kharif,Wanaparthy,Revally,Castor,77.8,73
+2018-2019,Kharif,Wanaparthy,Pangal,Castor,1099,760
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Castor,967.2,490
+2018-2019,Kharif,Wanaparthy,Kothakota,Castor,667.6,241
+2018-2019,Kharif,Wanaparthy,Atmakur,Castor,875.2,599
+2018-2019,Kharif,Wanaparthy,Pebbair,Castor,122.6,25
+2018-2019,Kharif,Wanaparthy,Srirangapur,Castor,147.4,55
+2018-2019,Kharif,Wanaparthy,Weepangandla,Castor,275.4,41
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Castor,5.8,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Ragi,22.8,22
+2018-2019,Kharif,Wanaparthy,Ghanpur,Ragi,5.8,14
+2018-2019,Kharif,Wanaparthy,Gopalpet,Ragi,9,16
+2018-2019,Kharif,Wanaparthy,Revally,Ragi,10.6,2
+2018-2019,Kharif,Wanaparthy,Pangal,Ragi,6.4,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Ragi,2.8,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Ragi,2.4,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Srirangapur,Ragi,0.2,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Ragi,0,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Revally,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Korra,1,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Korra,1,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Korra,2,0
+2018-2019,Kharif,Wanaparthy,Srirangapur,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Korra,0,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Korra,2,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Revally,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Horse Gram,1.4,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Horse Gram,0.2,0
+2018-2019,Kharif,Wanaparthy,Srirangapur,Horse Gram,0,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Horse Gram,5.4,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Horse Gram,0.6,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Green Gram,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Green Gram,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Green Gram,5.8,7
+2018-2019,Kharif,Wanaparthy,Ghanpur,Green Gram,0.4,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Green Gram,0.4,0
+2018-2019,Kharif,Wanaparthy,Revally,Green Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Green Gram,51.2,35
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Green Gram,12.2,4
+2018-2019,Kharif,Wanaparthy,Kothakota,Green Gram,4.6,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Green Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Green Gram,99.8,94
+2018-2019,Kharif,Wanaparthy,Srirangapur,Green Gram,45.8,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Green Gram,201.6,165
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Green Gram,134.8,47
+2018-2019,Kharif,Wanaparthy,Amarachintha,Black Gram,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Black Gram,0.2,5
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Black Gram,0.2,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Black Gram,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Black Gram,0.4,0
+2018-2019,Kharif,Wanaparthy,Revally,Black Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Black Gram,15.4,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Black Gram,1,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Black Gram,0.4,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Black Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Black Gram,118.8,95
+2018-2019,Kharif,Wanaparthy,Srirangapur,Black Gram,11,28
+2018-2019,Kharif,Wanaparthy,Weepangandla,Black Gram,9,9
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Black Gram,78.4,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Cow Gram,2.4,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Revally,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Cow Gram,15.2,11
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Cow Gram,6.4,1
+2018-2019,Kharif,Wanaparthy,Kothakota,Cow Gram,0.2,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Cow Gram,7.4,19
+2018-2019,Kharif,Wanaparthy,Srirangapur,Cow Gram,4.8,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Cow Gram,21,16
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Cow Gram,0,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Chillies,2.4,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Chillies,3.2,1
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Chillies,8.4,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Chillies,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Chillies,2.4,0
+2018-2019,Kharif,Wanaparthy,Revally,Chillies,1.6,0
+2018-2019,Kharif,Wanaparthy,Pangal,Chillies,0.4,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Chillies,3.2,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Chillies,19.6,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Chillies,25.2,31
+2018-2019,Kharif,Wanaparthy,Pebbair,Chillies,111.6,202
+2018-2019,Kharif,Wanaparthy,Srirangapur,Chillies,5.6,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Chillies,5.4,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Chillies,112.8,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Sugarcane,727.6,1102
+2018-2019,Kharif,Wanaparthy,Madanapur,Sugarcane,58.6,82
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Sugarcane,6,1
+2018-2019,Kharif,Wanaparthy,Ghanpur,Sugarcane,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Sugarcane,1.8,9
+2018-2019,Kharif,Wanaparthy,Revally,Sugarcane,0,2
+2018-2019,Kharif,Wanaparthy,Pangal,Sugarcane,0,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Sugarcane,14,6
+2018-2019,Kharif,Wanaparthy,Kothakota,Sugarcane,29.6,6
+2018-2019,Kharif,Wanaparthy,Atmakur,Sugarcane,244.8,374
+2018-2019,Kharif,Wanaparthy,Pebbair,Sugarcane,16.4,22
+2018-2019,Kharif,Wanaparthy,Srirangapur,Sugarcane,0.6,6
+2018-2019,Kharif,Wanaparthy,Weepangandla,Sugarcane,24,38
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Sugarcane,121.2,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Onion,0.8,1
+2018-2019,Kharif,Wanaparthy,Madanapur,Onion,0,2
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Onion,2.8,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Onion,3.2,2
+2018-2019,Kharif,Wanaparthy,Gopalpet,Onion,1.6,0
+2018-2019,Kharif,Wanaparthy,Revally,Onion,0.8,0
+2018-2019,Kharif,Wanaparthy,Pangal,Onion,0,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Onion,0,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Onion,0,4
+2018-2019,Kharif,Wanaparthy,Atmakur,Onion,0.4,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Onion,116.4,103
+2018-2019,Kharif,Wanaparthy,Srirangapur,Onion,2,2
+2018-2019,Kharif,Wanaparthy,Weepangandla,Onion,6.4,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Onion,759.2,495
+2018-2019,Kharif,Wanaparthy,Amarachintha,Vegetables,14.4,20
+2018-2019,Kharif,Wanaparthy,Madanapur,Vegetables,23,6
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Vegetables,19.2,20
+2018-2019,Kharif,Wanaparthy,Ghanpur,Vegetables,14.6,9
+2018-2019,Kharif,Wanaparthy,Gopalpet,Vegetables,28.8,13
+2018-2019,Kharif,Wanaparthy,Revally,Vegetables,22.6,15
+2018-2019,Kharif,Wanaparthy,Pangal,Vegetables,64.2,17
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Vegetables,36.8,62
+2018-2019,Kharif,Wanaparthy,Kothakota,Vegetables,11.8,22
+2018-2019,Kharif,Wanaparthy,Atmakur,Vegetables,11.4,11
+2018-2019,Kharif,Wanaparthy,Pebbair,Vegetables,44,40
+2018-2019,Kharif,Wanaparthy,Srirangapur,Vegetables,15.6,18
+2018-2019,Kharif,Wanaparthy,Weepangandla,Vegetables,27.4,7
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Vegetables,17.8,26
+2018-2019,Kharif,Wanaparthy,Amarachintha,Horticulture Crops,166,276
+2018-2019,Kharif,Wanaparthy,Madanapur,Horticulture Crops,78.2,137
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Horticulture Crops,181.8,186
+2018-2019,Kharif,Wanaparthy,Ghanpur,Horticulture Crops,114.6,155
+2018-2019,Kharif,Wanaparthy,Gopalpet,Horticulture Crops,150.6,178
+2018-2019,Kharif,Wanaparthy,Revally,Horticulture Crops,85,76
+2018-2019,Kharif,Wanaparthy,Pangal,Horticulture Crops,493.6,674
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Horticulture Crops,280.4,401
+2018-2019,Kharif,Wanaparthy,Kothakota,Horticulture Crops,141.8,253
+2018-2019,Kharif,Wanaparthy,Atmakur,Horticulture Crops,146.4,246
+2018-2019,Kharif,Wanaparthy,Pebbair,Horticulture Crops,281.2,284
+2018-2019,Kharif,Wanaparthy,Srirangapur,Horticulture Crops,58.4,102
+2018-2019,Kharif,Wanaparthy,Weepangandla,Horticulture Crops,1079.8,1393
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Horticulture Crops,484.6,574
+2018-2019,Kharif,Wanaparthy,Amarachintha,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Revally,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Kothakota,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Atmakur,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Srirangapur,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Bengal Gram,0,0
+2018-2019,Kharif,Wanaparthy,Amarachintha,Other Crops,0,0
+2018-2019,Kharif,Wanaparthy,Madanapur,Other Crops,1,0
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Other Crops,0,0
+2018-2019,Kharif,Wanaparthy,Ghanpur,Other Crops,0,0
+2018-2019,Kharif,Wanaparthy,Gopalpet,Other Crops,0,6
+2018-2019,Kharif,Wanaparthy,Revally,Other Crops,0,0
+2018-2019,Kharif,Wanaparthy,Pangal,Other Crops,1,0
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Other Crops,0,16
+2018-2019,Kharif,Wanaparthy,Kothakota,Other Crops,3,15
+2018-2019,Kharif,Wanaparthy,Atmakur,Other Crops,2,0
+2018-2019,Kharif,Wanaparthy,Pebbair,Other Crops,2,3
+2018-2019,Kharif,Wanaparthy,Srirangapur,Other Crops,1,0
+2018-2019,Kharif,Wanaparthy,Weepangandla,Other Crops,1,0
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Other Crops,0,135
+2018-2019,Kharif,Wanaparthy,Amarachintha,Total,5702.6,5698
+2018-2019,Kharif,Wanaparthy,Madanapur,Total,5241,6691
+2018-2019,Kharif,Wanaparthy,Peddamandadi,Total,5824.8,5239
+2018-2019,Kharif,Wanaparthy,Ghanpur,Total,5350.4,3785
+2018-2019,Kharif,Wanaparthy,Gopalpet,Total,8463.4,4699
+2018-2019,Kharif,Wanaparthy,Revally,Total,5892.6,4114
+2018-2019,Kharif,Wanaparthy,Pangal,Total,7956.4,7174
+2018-2019,Kharif,Wanaparthy,Wanaparthy,Total,6805,4571
+2018-2019,Kharif,Wanaparthy,Kothakota,Total,5147.6,6726
+2018-2019,Kharif,Wanaparthy,Atmakur,Total,4960.4,7290
+2018-2019,Kharif,Wanaparthy,Pebbair,Total,5685.8,8233
+2018-2019,Kharif,Wanaparthy,Srirangapur,Total,2040.4,2974
+2018-2019,Kharif,Wanaparthy,Weepangandla,Total,5428,6422
+2018-2019,Kharif,Wanaparthy,Chinnambavi,Total,5113.6,7100

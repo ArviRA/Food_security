@@ -1,0 +1,621 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Nalgonda,Chityala,Paddy,1376,1221
+2018-2019,Kharif,Nalgonda,Narketpalle,Paddy,2050,3800
+2018-2019,Kharif,Nalgonda,Kattangur,Paddy,1951,2541
+2018-2019,Kharif,Nalgonda,Shaligowraram,Paddy,2127,3029
+2018-2019,Kharif,Nalgonda,Nakrekal,Paddy,1521,1652
+2018-2019,Kharif,Nalgonda,Kethepalli,Paddy,1901,3301
+2018-2019,Kharif,Nalgonda,Thipparthy,Paddy,2007,2249
+2018-2019,Kharif,Nalgonda,Nalgonda,Paddy,4130,4129
+2018-2019,Kharif,Nalgonda,Kangal,Paddy,4258,4395
+2018-2019,Kharif,Nalgonda,Munugode,Paddy,916,1916
+2018-2019,Kharif,Nalgonda,Chandur,Paddy,287,391
+2018-2019,Kharif,Nalgonda,Marriguda,Paddy,425,452
+2018-2019,Kharif,Nalgonda,Chinthapally,Paddy,690,841
+2018-2019,Kharif,Nalgonda,Nampally,Paddy,747,1081
+2018-2019,Kharif,Nalgonda,Gurrampode,Paddy,1361,1218
+2018-2019,Kharif,Nalgonda,P a pally,Paddy,3350,5127
+2018-2019,Kharif,Nalgonda,Neredugommu,Paddy,158,215
+2018-2019,Kharif,Nalgonda,Kondamallepally,Paddy,687,638
+2018-2019,Kharif,Nalgonda,Devarakonda,Paddy,399,420
+2018-2019,Kharif,Nalgonda,Gundlapally,Paddy,883,6082
+2018-2019,Kharif,Nalgonda,Chandampet,Paddy,320,270
+2018-2019,Kharif,Nalgonda,Anumula,Paddy,3236,4536
+2018-2019,Kharif,Nalgonda,Nidmanoor,Paddy,4270,7348
+2018-2019,Kharif,Nalgonda,Tripuraram,Paddy,4736,7054
+2018-2019,Kharif,Nalgonda,Madugulapaly,Paddy,2277,3423
+2018-2019,Kharif,Nalgonda,Vemulapally,Paddy,3526,5403
+2018-2019,Kharif,Nalgonda,Miryalaguda,Paddy,7866,12997
+2018-2019,Kharif,Nalgonda,Damaracharala,Paddy,2611,4245
+2018-2019,Kharif,Nalgonda,Advidevulapally,Paddy,705,859
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Paddy,1214,2385
+2018-2019,Kharif,Nalgonda,Peddavooora,Paddy,1017,1301
+2018-2019,Kharif,Nalgonda,Chityala,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Jowar,2,0
+2018-2019,Kharif,Nalgonda,Munugode,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Jowar,101,13
+2018-2019,Kharif,Nalgonda,Chinthapally,Jowar,171,19
+2018-2019,Kharif,Nalgonda,Nampally,Jowar,16,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Jowar,4,0
+2018-2019,Kharif,Nalgonda,P a pally,Jowar,30,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Jowar,7,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Jowar,12,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Jowar,15,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Jowar,121,16
+2018-2019,Kharif,Nalgonda,Chandampet,Jowar,6,0
+2018-2019,Kharif,Nalgonda,Anumula,Jowar,11,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Jowar,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Jowar,1,0
+2018-2019,Kharif,Nalgonda,Chityala,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Bajra,26,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Bajra,75,6
+2018-2019,Kharif,Nalgonda,Nampally,Bajra,2,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Bajra,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Bajra,26,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Bajra,8,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Bajra,15,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Bajra,19,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Bajra,125,2
+2018-2019,Kharif,Nalgonda,Chandampet,Bajra,26,0
+2018-2019,Kharif,Nalgonda,Anumula,Bajra,109,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Bajra,23,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Bajra,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Maize,31,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Maize,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Maize,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Maize,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Maize,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Maize,1,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Maize,1,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Maize,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Maize,4,0
+2018-2019,Kharif,Nalgonda,Munugode,Maize,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Maize,2,0
+2018-2019,Kharif,Nalgonda,Marriguda,Maize,38,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Maize,16,12
+2018-2019,Kharif,Nalgonda,Nampally,Maize,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Maize,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Maize,5,2
+2018-2019,Kharif,Nalgonda,Neredugommu,Maize,1,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Maize,2,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Maize,4,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Maize,42,0
+2018-2019,Kharif,Nalgonda,Chandampet,Maize,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Maize,24,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Maize,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Maize,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Maize,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Maize,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Maize,1,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Maize,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Maize,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Maize,4,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Maize,1,0
+2018-2019,Kharif,Nalgonda,Chityala,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Horse Gram,1,0
+2018-2019,Kharif,Nalgonda,Kangal,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Horse Gram,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Red Gram,628,467
+2018-2019,Kharif,Nalgonda,Narketpalle,Red Gram,400,466
+2018-2019,Kharif,Nalgonda,Kattangur,Red Gram,612,406
+2018-2019,Kharif,Nalgonda,Shaligowraram,Red Gram,75,136
+2018-2019,Kharif,Nalgonda,Nakrekal,Red Gram,242,225
+2018-2019,Kharif,Nalgonda,Kethepalli,Red Gram,118,40
+2018-2019,Kharif,Nalgonda,Thipparthy,Red Gram,245,295
+2018-2019,Kharif,Nalgonda,Nalgonda,Red Gram,633,176
+2018-2019,Kharif,Nalgonda,Kangal,Red Gram,352,72
+2018-2019,Kharif,Nalgonda,Munugode,Red Gram,110,242
+2018-2019,Kharif,Nalgonda,Chandur,Red Gram,122,230
+2018-2019,Kharif,Nalgonda,Marriguda,Red Gram,197,149
+2018-2019,Kharif,Nalgonda,Chinthapally,Red Gram,558,635
+2018-2019,Kharif,Nalgonda,Nampally,Red Gram,437,426
+2018-2019,Kharif,Nalgonda,Gurrampode,Red Gram,541,262
+2018-2019,Kharif,Nalgonda,P a pally,Red Gram,608,622
+2018-2019,Kharif,Nalgonda,Neredugommu,Red Gram,983,57
+2018-2019,Kharif,Nalgonda,Kondamallepally,Red Gram,141,58
+2018-2019,Kharif,Nalgonda,Devarakonda,Red Gram,217,105
+2018-2019,Kharif,Nalgonda,Gundlapally,Red Gram,287,75
+2018-2019,Kharif,Nalgonda,Chandampet,Red Gram,149,62
+2018-2019,Kharif,Nalgonda,Anumula,Red Gram,451,91
+2018-2019,Kharif,Nalgonda,Nidmanoor,Red Gram,137,79
+2018-2019,Kharif,Nalgonda,Tripuraram,Red Gram,122,40
+2018-2019,Kharif,Nalgonda,Madugulapaly,Red Gram,495,125
+2018-2019,Kharif,Nalgonda,Vemulapally,Red Gram,276,160
+2018-2019,Kharif,Nalgonda,Miryalaguda,Red Gram,110,8
+2018-2019,Kharif,Nalgonda,Damaracharala,Red Gram,183,118
+2018-2019,Kharif,Nalgonda,Advidevulapally,Red Gram,125,72
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Red Gram,553,290
+2018-2019,Kharif,Nalgonda,Peddavooora,Red Gram,2056,207
+2018-2019,Kharif,Nalgonda,Chityala,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Black Gram,128,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Black Gram,5,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Black Gram,20,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Black Gram,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Green Gram,29,8
+2018-2019,Kharif,Nalgonda,Narketpalle,Green Gram,38,0
+2018-2019,Kharif,Nalgonda,Kattangur,Green Gram,465,38
+2018-2019,Kharif,Nalgonda,Shaligowraram,Green Gram,33,20
+2018-2019,Kharif,Nalgonda,Nakrekal,Green Gram,269,129
+2018-2019,Kharif,Nalgonda,Kethepalli,Green Gram,153,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Green Gram,91,50
+2018-2019,Kharif,Nalgonda,Nalgonda,Green Gram,55,19
+2018-2019,Kharif,Nalgonda,Kangal,Green Gram,25,0
+2018-2019,Kharif,Nalgonda,Munugode,Green Gram,2,0
+2018-2019,Kharif,Nalgonda,Chandur,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Green Gram,19,11
+2018-2019,Kharif,Nalgonda,Chinthapally,Green Gram,46,34
+2018-2019,Kharif,Nalgonda,Nampally,Green Gram,8,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Green Gram,20,0
+2018-2019,Kharif,Nalgonda,P a pally,Green Gram,5,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Green Gram,4,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Green Gram,2,0
+2018-2019,Kharif,Nalgonda,Chandampet,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Green Gram,20,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Green Gram,73,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Green Gram,179,15
+2018-2019,Kharif,Nalgonda,Vemulapally,Green Gram,233,140
+2018-2019,Kharif,Nalgonda,Miryalaguda,Green Gram,17,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Green Gram,113,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Green Gram,46,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Green Gram,1,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Green Gram,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Chillies,63,16
+2018-2019,Kharif,Nalgonda,Nakrekal,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Chillies,1,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Chillies,20,27
+2018-2019,Kharif,Nalgonda,Chandur,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Chillies,6,6
+2018-2019,Kharif,Nalgonda,Chinthapally,Chillies,66,59
+2018-2019,Kharif,Nalgonda,Nampally,Chillies,1,21
+2018-2019,Kharif,Nalgonda,Gurrampode,Chillies,70,54
+2018-2019,Kharif,Nalgonda,P a pally,Chillies,73,86
+2018-2019,Kharif,Nalgonda,Neredugommu,Chillies,2,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Chillies,10,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Chillies,12,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Chillies,55,24
+2018-2019,Kharif,Nalgonda,Chandampet,Chillies,31,24
+2018-2019,Kharif,Nalgonda,Anumula,Chillies,98,11
+2018-2019,Kharif,Nalgonda,Nidmanoor,Chillies,0,10
+2018-2019,Kharif,Nalgonda,Tripuraram,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Chillies,2,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Chillies,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Chillies,7,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Chillies,324,418
+2018-2019,Kharif,Nalgonda,Advidevulapally,Chillies,531,430
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Chillies,344,234
+2018-2019,Kharif,Nalgonda,Peddavooora,Chillies,113,86
+2018-2019,Kharif,Nalgonda,Chityala,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Turmeric,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Sugarcane planted (sown),0,3
+2018-2019,Kharif,Nalgonda,Narketpalle,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Sugarcane planted (sown),0,11
+2018-2019,Kharif,Nalgonda,Shaligowraram,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Sugarcane planted (sown),0,2
+2018-2019,Kharif,Nalgonda,Kangal,Sugarcane planted (sown),0,60
+2018-2019,Kharif,Nalgonda,Munugode,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Chandur,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Nampally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,P a pally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Anumula,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Sugarcane planted (sown),0,0
+2018-2019,Kharif,Nalgonda,Chityala,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Sugarcane planted (harvest),3,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Sugarcane planted (harvest),4,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kangal,Sugarcane planted (harvest),93,0
+2018-2019,Kharif,Nalgonda,Munugode,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chandur,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nampally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Sugarcane planted (harvest),1,12
+2018-2019,Kharif,Nalgonda,P a pally,Sugarcane planted (harvest),2,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Anumula,Sugarcane planted (harvest),6,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Sugarcane planted (harvest),2,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Sugarcane planted (harvest),9,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Sugarcane planted (harvest),4,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Sugarcane planted (harvest),17,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Sugarcane planted (harvest),0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Sugarcane planted (harvest),2,0
+2018-2019,Kharif,Nalgonda,Chityala,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Sugarcane ratoon (harvest),7,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Sugarcane ratoon (harvest),4,1
+2018-2019,Kharif,Nalgonda,Thipparthy,Sugarcane ratoon (harvest),8,2
+2018-2019,Kharif,Nalgonda,Nalgonda,Sugarcane ratoon (harvest),25,26
+2018-2019,Kharif,Nalgonda,Kangal,Sugarcane ratoon (harvest),252,145
+2018-2019,Kharif,Nalgonda,Munugode,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chandur,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nampally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,P a pally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Anumula,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Sugarcane ratoon (harvest),0,6
+2018-2019,Kharif,Nalgonda,Madugulapaly,Sugarcane ratoon (harvest),0,4
+2018-2019,Kharif,Nalgonda,Vemulapally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Sugarcane ratoon (harvest),0,8
+2018-2019,Kharif,Nalgonda,Damaracharala,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Sugarcane ratoon (harvest),0,0
+2018-2019,Kharif,Nalgonda,Chityala,Sugarcane,0,3
+2018-2019,Kharif,Nalgonda,Narketpalle,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Sugarcane,7,11
+2018-2019,Kharif,Nalgonda,Shaligowraram,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Sugarcane,4,1
+2018-2019,Kharif,Nalgonda,Thipparthy,Sugarcane,8,2
+2018-2019,Kharif,Nalgonda,Nalgonda,Sugarcane,25,28
+2018-2019,Kharif,Nalgonda,Kangal,Sugarcane,252,205
+2018-2019,Kharif,Nalgonda,Munugode,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Sugarcane,0,6
+2018-2019,Kharif,Nalgonda,Madugulapaly,Sugarcane,0,4
+2018-2019,Kharif,Nalgonda,Vemulapally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Sugarcane,0,8
+2018-2019,Kharif,Nalgonda,Damaracharala,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Sugarcane,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Cotton,8341,9847
+2018-2019,Kharif,Nalgonda,Narketpalle,Cotton,7260,7806
+2018-2019,Kharif,Nalgonda,Kattangur,Cotton,3316,3610
+2018-2019,Kharif,Nalgonda,Shaligowraram,Cotton,7290,8075
+2018-2019,Kharif,Nalgonda,Nakrekal,Cotton,3609,3510
+2018-2019,Kharif,Nalgonda,Kethepalli,Cotton,4933,3695
+2018-2019,Kharif,Nalgonda,Thipparthy,Cotton,4660,4540
+2018-2019,Kharif,Nalgonda,Nalgonda,Cotton,11018,9824
+2018-2019,Kharif,Nalgonda,Kangal,Cotton,6046,6386
+2018-2019,Kharif,Nalgonda,Munugode,Cotton,13989,13728
+2018-2019,Kharif,Nalgonda,Chandur,Cotton,13473,13010
+2018-2019,Kharif,Nalgonda,Marriguda,Cotton,13195,13542
+2018-2019,Kharif,Nalgonda,Chinthapally,Cotton,12667,14137
+2018-2019,Kharif,Nalgonda,Nampally,Cotton,11980,13652
+2018-2019,Kharif,Nalgonda,Gurrampode,Cotton,14281,16059
+2018-2019,Kharif,Nalgonda,P a pally,Cotton,7139,7262
+2018-2019,Kharif,Nalgonda,Neredugommu,Cotton,3313,4275
+2018-2019,Kharif,Nalgonda,Kondamallepally,Cotton,5190,5305
+2018-2019,Kharif,Nalgonda,Devarakonda,Cotton,11665,13602
+2018-2019,Kharif,Nalgonda,Gundlapally,Cotton,8035,5014
+2018-2019,Kharif,Nalgonda,Chandampet,Cotton,7916,8476
+2018-2019,Kharif,Nalgonda,Anumula,Cotton,8686,7311
+2018-2019,Kharif,Nalgonda,Nidmanoor,Cotton,4930,4688
+2018-2019,Kharif,Nalgonda,Tripuraram,Cotton,1746,1582
+2018-2019,Kharif,Nalgonda,Madugulapaly,Cotton,6045,7464
+2018-2019,Kharif,Nalgonda,Vemulapally,Cotton,1200,1062
+2018-2019,Kharif,Nalgonda,Miryalaguda,Cotton,169,201
+2018-2019,Kharif,Nalgonda,Damaracharala,Cotton,3278,2910
+2018-2019,Kharif,Nalgonda,Advidevulapally,Cotton,4190,2100
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Cotton,5651,5885
+2018-2019,Kharif,Nalgonda,Peddavooora,Cotton,8719,9275
+2018-2019,Kharif,Nalgonda,Chityala,Groundnut,98,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Groundnut,3,0
+2018-2019,Kharif,Nalgonda,Kattangur,Groundnut,129,20
+2018-2019,Kharif,Nalgonda,Shaligowraram,Groundnut,13,1
+2018-2019,Kharif,Nalgonda,Nakrekal,Groundnut,177,57
+2018-2019,Kharif,Nalgonda,Kethepalli,Groundnut,32,8
+2018-2019,Kharif,Nalgonda,Thipparthy,Groundnut,76,105
+2018-2019,Kharif,Nalgonda,Nalgonda,Groundnut,103,42
+2018-2019,Kharif,Nalgonda,Kangal,Groundnut,37,0
+2018-2019,Kharif,Nalgonda,Munugode,Groundnut,10,5
+2018-2019,Kharif,Nalgonda,Chandur,Groundnut,11,0
+2018-2019,Kharif,Nalgonda,Marriguda,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Groundnut,6,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Groundnut,13,0
+2018-2019,Kharif,Nalgonda,P a pally,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Groundnut,3,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Groundnut,6,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Groundnut,172,30
+2018-2019,Kharif,Nalgonda,Vemulapally,Groundnut,1,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Groundnut,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Soyabean,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Kattangur,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Palm oil,0,20
+2018-2019,Kharif,Nalgonda,Nalgonda,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Munugode,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Chandur,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Marriguda,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Nampally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,P a pally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Chandampet,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Anumula,Palm oil,13,28
+2018-2019,Kharif,Nalgonda,Nidmanoor,Palm oil,3,8
+2018-2019,Kharif,Nalgonda,Tripuraram,Palm oil,0,2
+2018-2019,Kharif,Nalgonda,Madugulapaly,Palm oil,14,4
+2018-2019,Kharif,Nalgonda,Vemulapally,Palm oil,0,14
+2018-2019,Kharif,Nalgonda,Miryalaguda,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Palm oil,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Castor,5,0
+2018-2019,Kharif,Nalgonda,Narketpalle,Castor,14,0
+2018-2019,Kharif,Nalgonda,Kattangur,Castor,35,0
+2018-2019,Kharif,Nalgonda,Shaligowraram,Castor,0,0
+2018-2019,Kharif,Nalgonda,Nakrekal,Castor,0,0
+2018-2019,Kharif,Nalgonda,Kethepalli,Castor,4,0
+2018-2019,Kharif,Nalgonda,Thipparthy,Castor,7,0
+2018-2019,Kharif,Nalgonda,Nalgonda,Castor,0,0
+2018-2019,Kharif,Nalgonda,Kangal,Castor,8,0
+2018-2019,Kharif,Nalgonda,Munugode,Castor,1,0
+2018-2019,Kharif,Nalgonda,Chandur,Castor,10,0
+2018-2019,Kharif,Nalgonda,Marriguda,Castor,60,0
+2018-2019,Kharif,Nalgonda,Chinthapally,Castor,31,4
+2018-2019,Kharif,Nalgonda,Nampally,Castor,36,0
+2018-2019,Kharif,Nalgonda,Gurrampode,Castor,23,0
+2018-2019,Kharif,Nalgonda,P a pally,Castor,17,0
+2018-2019,Kharif,Nalgonda,Neredugommu,Castor,0,0
+2018-2019,Kharif,Nalgonda,Kondamallepally,Castor,13,0
+2018-2019,Kharif,Nalgonda,Devarakonda,Castor,9,0
+2018-2019,Kharif,Nalgonda,Gundlapally,Castor,37,0
+2018-2019,Kharif,Nalgonda,Chandampet,Castor,3,0
+2018-2019,Kharif,Nalgonda,Anumula,Castor,0,0
+2018-2019,Kharif,Nalgonda,Nidmanoor,Castor,0,0
+2018-2019,Kharif,Nalgonda,Tripuraram,Castor,0,0
+2018-2019,Kharif,Nalgonda,Madugulapaly,Castor,8,0
+2018-2019,Kharif,Nalgonda,Vemulapally,Castor,0,0
+2018-2019,Kharif,Nalgonda,Miryalaguda,Castor,0,0
+2018-2019,Kharif,Nalgonda,Damaracharala,Castor,0,0
+2018-2019,Kharif,Nalgonda,Advidevulapally,Castor,0,0
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Castor,4,0
+2018-2019,Kharif,Nalgonda,Peddavooora,Castor,0,0
+2018-2019,Kharif,Nalgonda,Chityala,Total,10508,11549
+2018-2019,Kharif,Nalgonda,Narketpalle,Total,9765,12072
+2018-2019,Kharif,Nalgonda,Kattangur,Total,6522,6637
+2018-2019,Kharif,Nalgonda,Shaligowraram,Total,9601,11277
+2018-2019,Kharif,Nalgonda,Nakrekal,Total,5821,5573
+2018-2019,Kharif,Nalgonda,Kethepalli,Total,7155,7046
+2018-2019,Kharif,Nalgonda,Thipparthy,Total,7103,7263
+2018-2019,Kharif,Nalgonda,Nalgonda,Total,15990,14246
+2018-2019,Kharif,Nalgonda,Kangal,Total,11329,11263
+2018-2019,Kharif,Nalgonda,Munugode,Total,15048,15918
+2018-2019,Kharif,Nalgonda,Chandur,Total,13905,13631
+2018-2019,Kharif,Nalgonda,Marriguda,Total,14067,14173
+2018-2019,Kharif,Nalgonda,Chinthapally,Total,14320,15747
+2018-2019,Kharif,Nalgonda,Nampally,Total,13233,15180
+2018-2019,Kharif,Nalgonda,Gurrampode,Total,16314,17605
+2018-2019,Kharif,Nalgonda,P a pally,Total,11255,13099
+2018-2019,Kharif,Nalgonda,Neredugommu,Total,4472,4547
+2018-2019,Kharif,Nalgonda,Kondamallepally,Total,6070,6001
+2018-2019,Kharif,Nalgonda,Devarakonda,Total,12344,14127
+2018-2019,Kharif,Nalgonda,Gundlapally,Total,9587,11213
+2018-2019,Kharif,Nalgonda,Chandampet,Total,8451,8832
+2018-2019,Kharif,Nalgonda,Anumula,Total,12762,11977
+2018-2019,Kharif,Nalgonda,Nidmanoor,Total,9370,12133
+2018-2019,Kharif,Nalgonda,Tripuraram,Total,6692,8690
+2018-2019,Kharif,Nalgonda,Madugulapaly,Total,9196,11069
+2018-2019,Kharif,Nalgonda,Vemulapally,Total,5236,6779
+2018-2019,Kharif,Nalgonda,Miryalaguda,Total,8187,13222
+2018-2019,Kharif,Nalgonda,Damaracharala,Total,6509,7691
+2018-2019,Kharif,Nalgonda,Advidevulapally,Total,5597,3461
+2018-2019,Kharif,Nalgonda,Thirmalgirisager,Total,7814,8794
+2018-2019,Kharif,Nalgonda,Peddavooora,Total,11909,10869

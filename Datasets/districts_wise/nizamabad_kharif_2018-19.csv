@@ -1,0 +1,541 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Nizamabad,Nizamabad North,Paddy,246,105.6
+2018-2019,Kharif,Nizamabad,Nizamabad South,Paddy,157,269.2
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Paddy,2324,3621.6
+2018-2019,Kharif,Nizamabad,Mugpal,Paddy,2456,3086
+2018-2019,Kharif,Nizamabad,Dichpally,Paddy,4236,3418.8
+2018-2019,Kharif,Nizamabad,Indalwai,Paddy,1665,2392
+2018-2019,Kharif,Nizamabad,Jakranpally,Paddy,1688.8,1940.4
+2018-2019,Kharif,Nizamabad,Dharpally,Paddy,3783,4462.8
+2018-2019,Kharif,Nizamabad,Sirikonda,Paddy,5744,5793.6
+2018-2019,Kharif,Nizamabad,Armoor,Paddy,2776.6,3594.4
+2018-2019,Kharif,Nizamabad,Makloor,Paddy,4784.2,5672.4
+2018-2019,Kharif,Nizamabad,Nandipet,Paddy,5093.6,4822.4
+2018-2019,Kharif,Nizamabad,Bheemgal,Paddy,4913.6,5201.2
+2018-2019,Kharif,Nizamabad,Morthad,Paddy,1538,2017.2
+2018-2019,Kharif,Nizamabad,Yergatla,Paddy,1395,1529.2
+2018-2019,Kharif,Nizamabad,Kammarpally,Paddy,2579.8,2954.4
+2018-2019,Kharif,Nizamabad,Balkonda,Paddy,849,1058.4
+2018-2019,Kharif,Nizamabad,Mupkal,Paddy,815,1018.4
+2018-2019,Kharif,Nizamabad,Mendora,Paddy,1141,1472.4
+2018-2019,Kharif,Nizamabad,Vailpoor,Paddy,2290,2201.6
+2018-2019,Kharif,Nizamabad,Bodhan,Paddy,8234.2,10342.8
+2018-2019,Kharif,Nizamabad,Yedapally,Paddy,3493.6,3989.6
+2018-2019,Kharif,Nizamabad,Renjal,Paddy,2841.6,3652
+2018-2019,Kharif,Nizamabad,Navipet,Paddy,4492,6806.4
+2018-2019,Kharif,Nizamabad,Kotagiri,Paddy,4835,8249.6
+2018-2019,Kharif,Nizamabad,Rudrur,Paddy,1883,2704
+2018-2019,Kharif,Nizamabad,Varni,Paddy,6234,6968.4
+2018-2019,Kharif,Nizamabad,Nizamabad North,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Jowar,1,0
+2018-2019,Kharif,Nizamabad,Armoor,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Makloor,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Balkonda,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Jowar,1.4,0
+2018-2019,Kharif,Nizamabad,Yedapally,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Varni,Jowar,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Maize,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Maize,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Maize,36,1.2
+2018-2019,Kharif,Nizamabad,Mugpal,Maize,107,94
+2018-2019,Kharif,Nizamabad,Dichpally,Maize,459,258.8
+2018-2019,Kharif,Nizamabad,Indalwai,Maize,104,154
+2018-2019,Kharif,Nizamabad,Jakranpally,Maize,2080,2097.2
+2018-2019,Kharif,Nizamabad,Dharpally,Maize,491,487.6
+2018-2019,Kharif,Nizamabad,Sirikonda,Maize,496,438.4
+2018-2019,Kharif,Nizamabad,Armoor,Maize,1957.4,3134.8
+2018-2019,Kharif,Nizamabad,Makloor,Maize,85.8,82
+2018-2019,Kharif,Nizamabad,Nandipet,Maize,1012.2,1452.8
+2018-2019,Kharif,Nizamabad,Bheemgal,Maize,442.6,408
+2018-2019,Kharif,Nizamabad,Morthad,Maize,1435,1772.4
+2018-2019,Kharif,Nizamabad,Yergatla,Maize,1505,1337.6
+2018-2019,Kharif,Nizamabad,Kammarpally,Maize,2504.8,2192.8
+2018-2019,Kharif,Nizamabad,Balkonda,Maize,772,1273.2
+2018-2019,Kharif,Nizamabad,Mupkal,Maize,640,758.4
+2018-2019,Kharif,Nizamabad,Mendora,Maize,962,1311.6
+2018-2019,Kharif,Nizamabad,Vailpoor,Maize,2285,2801.2
+2018-2019,Kharif,Nizamabad,Bodhan,Maize,1.4,18.4
+2018-2019,Kharif,Nizamabad,Yedapally,Maize,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Maize,2.4,0
+2018-2019,Kharif,Nizamabad,Navipet,Maize,28.8,14.4
+2018-2019,Kharif,Nizamabad,Kotagiri,Maize,23.6,10.4
+2018-2019,Kharif,Nizamabad,Rudrur,Maize,17,4
+2018-2019,Kharif,Nizamabad,Varni,Maize,323,817.6
+2018-2019,Kharif,Nizamabad,Nizamabad North,Red Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Red Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Red Gram,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Red Gram,1,0
+2018-2019,Kharif,Nizamabad,Dichpally,Red Gram,47.6,4.4
+2018-2019,Kharif,Nizamabad,Indalwai,Red Gram,14,9.2
+2018-2019,Kharif,Nizamabad,Jakranpally,Red Gram,44,29.2
+2018-2019,Kharif,Nizamabad,Dharpally,Red Gram,17,14.8
+2018-2019,Kharif,Nizamabad,Sirikonda,Red Gram,14,15.2
+2018-2019,Kharif,Nizamabad,Armoor,Red Gram,42.8,48.8
+2018-2019,Kharif,Nizamabad,Makloor,Red Gram,8.2,0
+2018-2019,Kharif,Nizamabad,Nandipet,Red Gram,3.8,47.6
+2018-2019,Kharif,Nizamabad,Bheemgal,Red Gram,30.8,8
+2018-2019,Kharif,Nizamabad,Morthad,Red Gram,45,19.2
+2018-2019,Kharif,Nizamabad,Yergatla,Red Gram,20,16.4
+2018-2019,Kharif,Nizamabad,Kammarpally,Red Gram,27.8,49.6
+2018-2019,Kharif,Nizamabad,Balkonda,Red Gram,12,14.8
+2018-2019,Kharif,Nizamabad,Mupkal,Red Gram,5,7.2
+2018-2019,Kharif,Nizamabad,Mendora,Red Gram,5,5.2
+2018-2019,Kharif,Nizamabad,Vailpoor,Red Gram,59.8,44.4
+2018-2019,Kharif,Nizamabad,Bodhan,Red Gram,385,1015.6
+2018-2019,Kharif,Nizamabad,Yedapally,Red Gram,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Red Gram,30,50.8
+2018-2019,Kharif,Nizamabad,Navipet,Red Gram,10.6,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Red Gram,145.8,226
+2018-2019,Kharif,Nizamabad,Rudrur,Red Gram,3.2,0
+2018-2019,Kharif,Nizamabad,Varni,Red Gram,22.6,43.2
+2018-2019,Kharif,Nizamabad,Nizamabad North,Green Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Green Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Green Gram,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Green Gram,2,0
+2018-2019,Kharif,Nizamabad,Dichpally,Green Gram,21.2,0
+2018-2019,Kharif,Nizamabad,Indalwai,Green Gram,7,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Green Gram,16.8,20
+2018-2019,Kharif,Nizamabad,Dharpally,Green Gram,36,12
+2018-2019,Kharif,Nizamabad,Sirikonda,Green Gram,2.4,0
+2018-2019,Kharif,Nizamabad,Armoor,Green Gram,7.6,8.4
+2018-2019,Kharif,Nizamabad,Makloor,Green Gram,8.4,0
+2018-2019,Kharif,Nizamabad,Nandipet,Green Gram,9.2,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Green Gram,19.2,0
+2018-2019,Kharif,Nizamabad,Morthad,Green Gram,3,0.8
+2018-2019,Kharif,Nizamabad,Yergatla,Green Gram,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Green Gram,15.4,13.6
+2018-2019,Kharif,Nizamabad,Balkonda,Green Gram,2.2,3.6
+2018-2019,Kharif,Nizamabad,Mupkal,Green Gram,0.8,0.8
+2018-2019,Kharif,Nizamabad,Mendora,Green Gram,1,3.6
+2018-2019,Kharif,Nizamabad,Vailpoor,Green Gram,14.8,18.8
+2018-2019,Kharif,Nizamabad,Bodhan,Green Gram,173.8,126
+2018-2019,Kharif,Nizamabad,Yedapally,Green Gram,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Green Gram,31.6,53.6
+2018-2019,Kharif,Nizamabad,Navipet,Green Gram,8.6,0.8
+2018-2019,Kharif,Nizamabad,Kotagiri,Green Gram,135.4,80.4
+2018-2019,Kharif,Nizamabad,Rudrur,Green Gram,3.6,0
+2018-2019,Kharif,Nizamabad,Varni,Green Gram,9.6,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Black Gram,2,0
+2018-2019,Kharif,Nizamabad,Dichpally,Black Gram,26.8,0
+2018-2019,Kharif,Nizamabad,Indalwai,Black Gram,8,0.8
+2018-2019,Kharif,Nizamabad,Jakranpally,Black Gram,26.8,18.8
+2018-2019,Kharif,Nizamabad,Dharpally,Black Gram,32,9.2
+2018-2019,Kharif,Nizamabad,Sirikonda,Black Gram,2,0
+2018-2019,Kharif,Nizamabad,Armoor,Black Gram,7.8,8.4
+2018-2019,Kharif,Nizamabad,Makloor,Black Gram,11.8,0
+2018-2019,Kharif,Nizamabad,Nandipet,Black Gram,12,24
+2018-2019,Kharif,Nizamabad,Bheemgal,Black Gram,15,0.8
+2018-2019,Kharif,Nizamabad,Morthad,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Black Gram,8,19.2
+2018-2019,Kharif,Nizamabad,Balkonda,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Black Gram,1.6,0
+2018-2019,Kharif,Nizamabad,Mendora,Black Gram,0.2,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Black Gram,16.8,19.2
+2018-2019,Kharif,Nizamabad,Bodhan,Black Gram,247.4,207.2
+2018-2019,Kharif,Nizamabad,Yedapally,Black Gram,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Black Gram,59.8,64
+2018-2019,Kharif,Nizamabad,Navipet,Black Gram,11,0.4
+2018-2019,Kharif,Nizamabad,Kotagiri,Black Gram,131.2,88.8
+2018-2019,Kharif,Nizamabad,Rudrur,Black Gram,3.8,0
+2018-2019,Kharif,Nizamabad,Varni,Black Gram,8.6,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Makloor,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Horse Gram,2,0
+2018-2019,Kharif,Nizamabad,Balkonda,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Yedapally,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Varni,Horse Gram,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Makloor,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Balkonda,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Yedapally,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Varni,Other pulses,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Groundnut,4.4,0
+2018-2019,Kharif,Nizamabad,Dharpally,Groundnut,0.4,2
+2018-2019,Kharif,Nizamabad,Sirikonda,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Groundnut,22.2,0
+2018-2019,Kharif,Nizamabad,Makloor,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Groundnut,0.6,2.8
+2018-2019,Kharif,Nizamabad,Kammarpally,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Balkonda,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Yedapally,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Varni,Groundnut,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Soyabean,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Soyabean,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Soyabean,498,19.2
+2018-2019,Kharif,Nizamabad,Mugpal,Soyabean,945,132.8
+2018-2019,Kharif,Nizamabad,Dichpally,Soyabean,1932,356
+2018-2019,Kharif,Nizamabad,Indalwai,Soyabean,952,909.6
+2018-2019,Kharif,Nizamabad,Jakranpally,Soyabean,2666.4,1136
+2018-2019,Kharif,Nizamabad,Dharpally,Soyabean,1614,594.4
+2018-2019,Kharif,Nizamabad,Sirikonda,Soyabean,1232,908
+2018-2019,Kharif,Nizamabad,Armoor,Soyabean,4859,2079.2
+2018-2019,Kharif,Nizamabad,Makloor,Soyabean,1221.2,410.8
+2018-2019,Kharif,Nizamabad,Nandipet,Soyabean,4378.4,4745.6
+2018-2019,Kharif,Nizamabad,Bheemgal,Soyabean,2807,2079.2
+2018-2019,Kharif,Nizamabad,Morthad,Soyabean,1805,1290.4
+2018-2019,Kharif,Nizamabad,Yergatla,Soyabean,1210,927.6
+2018-2019,Kharif,Nizamabad,Kammarpally,Soyabean,2065.6,1206.8
+2018-2019,Kharif,Nizamabad,Balkonda,Soyabean,1157,530.4
+2018-2019,Kharif,Nizamabad,Mupkal,Soyabean,1078,776.4
+2018-2019,Kharif,Nizamabad,Mendora,Soyabean,1433,376.8
+2018-2019,Kharif,Nizamabad,Vailpoor,Soyabean,3354.4,1554
+2018-2019,Kharif,Nizamabad,Bodhan,Soyabean,7671,8216.8
+2018-2019,Kharif,Nizamabad,Yedapally,Soyabean,131.8,16
+2018-2019,Kharif,Nizamabad,Renjal,Soyabean,2254.8,2910.4
+2018-2019,Kharif,Nizamabad,Navipet,Soyabean,687.2,114.8
+2018-2019,Kharif,Nizamabad,Kotagiri,Soyabean,4010,2505.2
+2018-2019,Kharif,Nizamabad,Rudrur,Soyabean,416,90
+2018-2019,Kharif,Nizamabad,Varni,Soyabean,951,381.2
+2018-2019,Kharif,Nizamabad,Nizamabad North,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Makloor,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Other oil seeds,0,0.8
+2018-2019,Kharif,Nizamabad,Yergatla,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Balkonda,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Yedapally,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Varni,Other oil seeds,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Cotton,2,0
+2018-2019,Kharif,Nizamabad,Mugpal,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Cotton,26.8,82
+2018-2019,Kharif,Nizamabad,Indalwai,Cotton,71,240.8
+2018-2019,Kharif,Nizamabad,Jakranpally,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Cotton,11,8.8
+2018-2019,Kharif,Nizamabad,Sirikonda,Cotton,60,85.6
+2018-2019,Kharif,Nizamabad,Armoor,Cotton,2,0
+2018-2019,Kharif,Nizamabad,Makloor,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Cotton,51.8,90.8
+2018-2019,Kharif,Nizamabad,Morthad,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Cotton,110.4,0
+2018-2019,Kharif,Nizamabad,Balkonda,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Cotton,1154,376.4
+2018-2019,Kharif,Nizamabad,Yedapally,Cotton,15.4,0
+2018-2019,Kharif,Nizamabad,Renjal,Cotton,310,202.8
+2018-2019,Kharif,Nizamabad,Navipet,Cotton,30.6,1.6
+2018-2019,Kharif,Nizamabad,Kotagiri,Cotton,178.4,119.6
+2018-2019,Kharif,Nizamabad,Rudrur,Cotton,0,0
+2018-2019,Kharif,Nizamabad,Varni,Cotton,13.2,31.2
+2018-2019,Kharif,Nizamabad,Nizamabad North,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Mugpal,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Makloor,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Balkonda,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Yedapally,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Varni,Tobacco,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Chillies,8,0
+2018-2019,Kharif,Nizamabad,Mugpal,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Chillies,16,0
+2018-2019,Kharif,Nizamabad,Indalwai,Chillies,8,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Chillies,25,8
+2018-2019,Kharif,Nizamabad,Dharpally,Chillies,21,26
+2018-2019,Kharif,Nizamabad,Sirikonda,Chillies,37,16
+2018-2019,Kharif,Nizamabad,Armoor,Chillies,7,0
+2018-2019,Kharif,Nizamabad,Makloor,Chillies,13,0
+2018-2019,Kharif,Nizamabad,Nandipet,Chillies,35,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Chillies,29,20
+2018-2019,Kharif,Nizamabad,Morthad,Chillies,7,12.8
+2018-2019,Kharif,Nizamabad,Yergatla,Chillies,2,2
+2018-2019,Kharif,Nizamabad,Kammarpally,Chillies,2,20.8
+2018-2019,Kharif,Nizamabad,Balkonda,Chillies,2,2.4
+2018-2019,Kharif,Nizamabad,Mupkal,Chillies,3,0
+2018-2019,Kharif,Nizamabad,Mendora,Chillies,1,9.6
+2018-2019,Kharif,Nizamabad,Vailpoor,Chillies,44,10
+2018-2019,Kharif,Nizamabad,Bodhan,Chillies,31,0
+2018-2019,Kharif,Nizamabad,Yedapally,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Chillies,3,0
+2018-2019,Kharif,Nizamabad,Navipet,Chillies,1,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Rudrur,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Varni,Chillies,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Sugarcane (Planted),9.6,0
+2018-2019,Kharif,Nizamabad,Mugpal,Sugarcane (Planted),0.4,0
+2018-2019,Kharif,Nizamabad,Dichpally,Sugarcane (Planted),4,0
+2018-2019,Kharif,Nizamabad,Indalwai,Sugarcane (Planted),6,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Sugarcane (Planted),13,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Armoor,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Makloor,Sugarcane (Planted),0.4,0
+2018-2019,Kharif,Nizamabad,Nandipet,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Morthad,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Yergatla,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Sugarcane (Planted),4.8,16
+2018-2019,Kharif,Nizamabad,Balkonda,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Mendora,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Sugarcane (Planted),0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Sugarcane (Planted),294.8,106
+2018-2019,Kharif,Nizamabad,Yedapally,Sugarcane (Planted),30.6,13.2
+2018-2019,Kharif,Nizamabad,Renjal,Sugarcane (Planted),44.4,0
+2018-2019,Kharif,Nizamabad,Navipet,Sugarcane (Planted),16,30.8
+2018-2019,Kharif,Nizamabad,Kotagiri,Sugarcane (Planted),11,0
+2018-2019,Kharif,Nizamabad,Rudrur,Sugarcane (Planted),1,0
+2018-2019,Kharif,Nizamabad,Varni,Sugarcane (Planted),9,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Sugarcane (Ratoon),1,0
+2018-2019,Kharif,Nizamabad,Mugpal,Sugarcane (Ratoon),8,0
+2018-2019,Kharif,Nizamabad,Dichpally,Sugarcane (Ratoon),0,1.2
+2018-2019,Kharif,Nizamabad,Indalwai,Sugarcane (Ratoon),7,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Dharpally,Sugarcane (Ratoon),4,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Armoor,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Makloor,Sugarcane (Ratoon),2.6,0
+2018-2019,Kharif,Nizamabad,Nandipet,Sugarcane (Ratoon),0.2,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Sugarcane (Ratoon),0.8,0
+2018-2019,Kharif,Nizamabad,Morthad,Sugarcane (Ratoon),0.4,0
+2018-2019,Kharif,Nizamabad,Yergatla,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Sugarcane (Ratoon),5,0
+2018-2019,Kharif,Nizamabad,Balkonda,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Mendora,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Sugarcane (Ratoon),0,0
+2018-2019,Kharif,Nizamabad,Bodhan,Sugarcane (Ratoon),244.8,132.8
+2018-2019,Kharif,Nizamabad,Yedapally,Sugarcane (Ratoon),20,18.8
+2018-2019,Kharif,Nizamabad,Renjal,Sugarcane (Ratoon),15.4,8
+2018-2019,Kharif,Nizamabad,Navipet,Sugarcane (Ratoon),19.6,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Sugarcane (Ratoon),7.6,0
+2018-2019,Kharif,Nizamabad,Rudrur,Sugarcane (Ratoon),0.2,7.2
+2018-2019,Kharif,Nizamabad,Varni,Sugarcane (Ratoon),5.6,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Onion,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Onion,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Onion,0.4,0.8
+2018-2019,Kharif,Nizamabad,Mugpal,Onion,0,0
+2018-2019,Kharif,Nizamabad,Dichpally,Onion,0,0
+2018-2019,Kharif,Nizamabad,Indalwai,Onion,0,0
+2018-2019,Kharif,Nizamabad,Jakranpally,Onion,0.2,0
+2018-2019,Kharif,Nizamabad,Dharpally,Onion,0,0
+2018-2019,Kharif,Nizamabad,Sirikonda,Onion,0,0
+2018-2019,Kharif,Nizamabad,Armoor,Onion,9.4,0
+2018-2019,Kharif,Nizamabad,Makloor,Onion,0,0
+2018-2019,Kharif,Nizamabad,Nandipet,Onion,0,0
+2018-2019,Kharif,Nizamabad,Bheemgal,Onion,0,0
+2018-2019,Kharif,Nizamabad,Morthad,Onion,2,0
+2018-2019,Kharif,Nizamabad,Yergatla,Onion,0,0
+2018-2019,Kharif,Nizamabad,Kammarpally,Onion,1.6,0
+2018-2019,Kharif,Nizamabad,Balkonda,Onion,0,0
+2018-2019,Kharif,Nizamabad,Mupkal,Onion,0,0
+2018-2019,Kharif,Nizamabad,Mendora,Onion,0,0
+2018-2019,Kharif,Nizamabad,Vailpoor,Onion,0.2,0
+2018-2019,Kharif,Nizamabad,Bodhan,Onion,11.4,0
+2018-2019,Kharif,Nizamabad,Yedapally,Onion,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Onion,0.4,2.4
+2018-2019,Kharif,Nizamabad,Navipet,Onion,0,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Onion,0.6,0
+2018-2019,Kharif,Nizamabad,Rudrur,Onion,0,0
+2018-2019,Kharif,Nizamabad,Varni,Onion,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Turmeric,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Turmeric,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Turmeric,4,0
+2018-2019,Kharif,Nizamabad,Mugpal,Turmeric,31,11.6
+2018-2019,Kharif,Nizamabad,Dichpally,Turmeric,72,8.8
+2018-2019,Kharif,Nizamabad,Indalwai,Turmeric,241,52
+2018-2019,Kharif,Nizamabad,Jakranpally,Turmeric,1622,1723.2
+2018-2019,Kharif,Nizamabad,Dharpally,Turmeric,113,184
+2018-2019,Kharif,Nizamabad,Sirikonda,Turmeric,163,153.2
+2018-2019,Kharif,Nizamabad,Armoor,Turmeric,1781,2244
+2018-2019,Kharif,Nizamabad,Makloor,Turmeric,46,0
+2018-2019,Kharif,Nizamabad,Nandipet,Turmeric,1198,1285.2
+2018-2019,Kharif,Nizamabad,Bheemgal,Turmeric,173,170
+2018-2019,Kharif,Nizamabad,Morthad,Turmeric,1479,1633.6
+2018-2019,Kharif,Nizamabad,Yergatla,Turmeric,950,1132.8
+2018-2019,Kharif,Nizamabad,Kammarpally,Turmeric,1693,1706.4
+2018-2019,Kharif,Nizamabad,Balkonda,Turmeric,732,785.6
+2018-2019,Kharif,Nizamabad,Mupkal,Turmeric,660,633.6
+2018-2019,Kharif,Nizamabad,Mendora,Turmeric,944,1144.4
+2018-2019,Kharif,Nizamabad,Vailpoor,Turmeric,1287,1467.2
+2018-2019,Kharif,Nizamabad,Bodhan,Turmeric,7,17.6
+2018-2019,Kharif,Nizamabad,Yedapally,Turmeric,0,0
+2018-2019,Kharif,Nizamabad,Renjal,Turmeric,0,0
+2018-2019,Kharif,Nizamabad,Navipet,Turmeric,3,0
+2018-2019,Kharif,Nizamabad,Kotagiri,Turmeric,22,6.4
+2018-2019,Kharif,Nizamabad,Rudrur,Turmeric,0,1.2
+2018-2019,Kharif,Nizamabad,Varni,Turmeric,1,0
+2018-2019,Kharif,Nizamabad,Nizamabad North,Others,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad South,Others,0,0
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Others,120,28.8
+2018-2019,Kharif,Nizamabad,Mugpal,Others,26.4,32.8
+2018-2019,Kharif,Nizamabad,Dichpally,Others,312.6,281.2
+2018-2019,Kharif,Nizamabad,Indalwai,Others,40.8,86.8
+2018-2019,Kharif,Nizamabad,Jakranpally,Others,134.2,94
+2018-2019,Kharif,Nizamabad,Dharpally,Others,88,149.2
+2018-2019,Kharif,Nizamabad,Sirikonda,Others,46.8,52.4
+2018-2019,Kharif,Nizamabad,Armoor,Others,313,430
+2018-2019,Kharif,Nizamabad,Makloor,Others,146,0
+2018-2019,Kharif,Nizamabad,Nandipet,Others,96,44.8
+2018-2019,Kharif,Nizamabad,Bheemgal,Others,186,234.8
+2018-2019,Kharif,Nizamabad,Morthad,Others,115,115.6
+2018-2019,Kharif,Nizamabad,Yergatla,Others,74,47.2
+2018-2019,Kharif,Nizamabad,Kammarpally,Others,101,132.8
+2018-2019,Kharif,Nizamabad,Balkonda,Others,39.8,39.2
+2018-2019,Kharif,Nizamabad,Mupkal,Others,16.2,19.6
+2018-2019,Kharif,Nizamabad,Mendora,Others,22.2,43.2
+2018-2019,Kharif,Nizamabad,Vailpoor,Others,108.8,113.6
+2018-2019,Kharif,Nizamabad,Bodhan,Others,314,181.6
+2018-2019,Kharif,Nizamabad,Yedapally,Others,39.8,63.2
+2018-2019,Kharif,Nizamabad,Renjal,Others,43,64.8
+2018-2019,Kharif,Nizamabad,Navipet,Others,83.4,83.2
+2018-2019,Kharif,Nizamabad,Kotagiri,Others,175.4,180
+2018-2019,Kharif,Nizamabad,Rudrur,Others,26.2,67.6
+2018-2019,Kharif,Nizamabad,Varni,Others,49,84.4
+2018-2019,Kharif,Nizamabad,Nizamabad North,Total,246,105.6
+2018-2019,Kharif,Nizamabad,Nizamabad South,Total,157,269.2
+2018-2019,Kharif,Nizamabad,Nizamabad Rural,Total,3003,3671.6
+2018-2019,Kharif,Nizamabad,Mugpal,Total,3578.8,3357.2
+2018-2019,Kharif,Nizamabad,Dichpally,Total,7154,4411.2
+2018-2019,Kharif,Nizamabad,Indalwai,Total,3123.8,3845.2
+2018-2019,Kharif,Nizamabad,Jakranpally,Total,8308.6,7066.8
+2018-2019,Kharif,Nizamabad,Dharpally,Total,6223.4,5950.8
+2018-2019,Kharif,Nizamabad,Sirikonda,Total,7798.2,7462.4
+2018-2019,Kharif,Nizamabad,Armoor,Total,11785.8,11548
+2018-2019,Kharif,Nizamabad,Makloor,Total,6327.6,6165.2
+2018-2019,Kharif,Nizamabad,Nandipet,Total,11838.4,12422.4
+2018-2019,Kharif,Nizamabad,Bheemgal,Total,8668.8,8212.8
+2018-2019,Kharif,Nizamabad,Morthad,Total,6429.4,6862.8
+2018-2019,Kharif,Nizamabad,Yergatla,Total,5156.6,4995.6
+2018-2019,Kharif,Nizamabad,Kammarpally,Total,9121.2,8312.4
+2018-2019,Kharif,Nizamabad,Balkonda,Total,3566,3707.6
+2018-2019,Kharif,Nizamabad,Mupkal,Total,3219.6,3214.4
+2018-2019,Kharif,Nizamabad,Mendora,Total,4509.4,4366.8
+2018-2019,Kharif,Nizamabad,Vailpoor,Total,9460.8,8230
+2018-2019,Kharif,Nizamabad,Bodhan,Total,18771.2,20741.2
+2018-2019,Kharif,Nizamabad,Yedapally,Total,3731.2,4100.8
+2018-2019,Kharif,Nizamabad,Renjal,Total,5636.4,7008.8
+2018-2019,Kharif,Nizamabad,Navipet,Total,5391.8,7052.4
+2018-2019,Kharif,Nizamabad,Kotagiri,Total,9676,11466.4
+2018-2019,Kharif,Nizamabad,Rudrur,Total,2354,2874
+2018-2019,Kharif,Nizamabad,Varni,Total,7626.6,8326

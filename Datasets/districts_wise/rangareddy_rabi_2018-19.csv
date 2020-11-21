@@ -1,0 +1,703 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Rabi,Rangareddy,Shankarpally,Paddy,367,125
+2018-2019,Rabi,Rangareddy,Moinabad,Paddy,357,0
+2018-2019,Rabi,Rangareddy,Chevella,Paddy,73,12
+2018-2019,Rabi,Rangareddy,Shabad,Paddy,463,112
+2018-2019,Rabi,Rangareddy,Hayathnagar,Paddy,11,5
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Paddy,829,215
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Paddy,766,50
+2018-2019,Rabi,Rangareddy,Manchal,Paddy,509,42
+2018-2019,Rabi,Rangareddy,Yacharam,Paddy,368,38
+2018-2019,Rabi,Rangareddy,Madgul,Paddy,381,22
+2018-2019,Rabi,Rangareddy,Balapur,Paddy,67,28
+2018-2019,Rabi,Rangareddy,Saroornagar,Paddy,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Paddy,348,50
+2018-2019,Rabi,Rangareddy,Talakondapally,Paddy,659,102
+2018-2019,Rabi,Rangareddy,Kadthal,Paddy,557,42
+2018-2019,Rabi,Rangareddy,Kandukur,Paddy,577,24
+2018-2019,Rabi,Rangareddy,Maheshwaram,Paddy,409,56
+2018-2019,Rabi,Rangareddy,Serilingampally,Paddy,4,0
+2018-2019,Rabi,Rangareddy,Gandipet,Paddy,55,15
+2018-2019,Rabi,Rangareddy,Rajendranagar,Paddy,58,2
+2018-2019,Rabi,Rangareddy,Shamshabad,Paddy,323,13
+2018-2019,Rabi,Rangareddy,Keshampet,Paddy,628,14
+2018-2019,Rabi,Rangareddy,Kothur,Paddy,210,75
+2018-2019,Rabi,Rangareddy,Nandigam,Paddy,101,115
+2018-2019,Rabi,Rangareddy,Farooqnagar,Paddy,499,22
+2018-2019,Rabi,Rangareddy,Kondurg,Paddy,732,12
+2018-2019,Rabi,Rangareddy,Chowdergudem,Paddy,271,15
+2018-2019,Rabi,Rangareddy,Shankarpally,Wheat,31,17
+2018-2019,Rabi,Rangareddy,Moinabad,Wheat,21,0
+2018-2019,Rabi,Rangareddy,Chevella,Wheat,29,8
+2018-2019,Rabi,Rangareddy,Shabad,Wheat,11,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Wheat,1,0
+2018-2019,Rabi,Rangareddy,Manchal,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Wheat,3,0
+2018-2019,Rabi,Rangareddy,Madgul,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Wheat,1,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Wheat,2,0
+2018-2019,Rabi,Rangareddy,Keshampet,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Wheat,2,0
+2018-2019,Rabi,Rangareddy,Nandigam,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Wheat,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Wheat,1,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Wheat,1,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Jowar,65,132
+2018-2019,Rabi,Rangareddy,Moinabad,Jowar,20,2
+2018-2019,Rabi,Rangareddy,Chevella,Jowar,47,21
+2018-2019,Rabi,Rangareddy,Shabad,Jowar,82,62
+2018-2019,Rabi,Rangareddy,Hayathnagar,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Jowar,2,3
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Jowar,10,0
+2018-2019,Rabi,Rangareddy,Manchal,Jowar,9,0
+2018-2019,Rabi,Rangareddy,Yacharam,Jowar,4,0
+2018-2019,Rabi,Rangareddy,Madgul,Jowar,4,0
+2018-2019,Rabi,Rangareddy,Balapur,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Jowar,3,2
+2018-2019,Rabi,Rangareddy,Talakondapally,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Jowar,92,18
+2018-2019,Rabi,Rangareddy,Maheshwaram,Jowar,12,3
+2018-2019,Rabi,Rangareddy,Serilingampally,Jowar,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Jowar,2,2
+2018-2019,Rabi,Rangareddy,Rajendranagar,Jowar,3,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Jowar,10,4
+2018-2019,Rabi,Rangareddy,Keshampet,Jowar,12,1
+2018-2019,Rabi,Rangareddy,Kothur,Jowar,1,1
+2018-2019,Rabi,Rangareddy,Nandigam,Jowar,1,1
+2018-2019,Rabi,Rangareddy,Farooqnagar,Jowar,10,2
+2018-2019,Rabi,Rangareddy,Kondurg,Jowar,9,1
+2018-2019,Rabi,Rangareddy,Chowdergudem,Jowar,9,2
+2018-2019,Rabi,Rangareddy,Shankarpally,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Bajra,6,0
+2018-2019,Rabi,Rangareddy,Keshampet,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Bajra,1,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Bajra,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Maize,339,245
+2018-2019,Rabi,Rangareddy,Moinabad,Maize,30,7
+2018-2019,Rabi,Rangareddy,Chevella,Maize,69,35
+2018-2019,Rabi,Rangareddy,Shabad,Maize,47,42
+2018-2019,Rabi,Rangareddy,Hayathnagar,Maize,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Maize,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Maize,3,0
+2018-2019,Rabi,Rangareddy,Manchal,Maize,1,0
+2018-2019,Rabi,Rangareddy,Yacharam,Maize,13,0
+2018-2019,Rabi,Rangareddy,Madgul,Maize,11,5
+2018-2019,Rabi,Rangareddy,Balapur,Maize,3,2
+2018-2019,Rabi,Rangareddy,Saroornagar,Maize,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Maize,48,30
+2018-2019,Rabi,Rangareddy,Talakondapally,Maize,94,54
+2018-2019,Rabi,Rangareddy,Kadthal,Maize,71,15
+2018-2019,Rabi,Rangareddy,Kandukur,Maize,665,46
+2018-2019,Rabi,Rangareddy,Maheshwaram,Maize,92,20
+2018-2019,Rabi,Rangareddy,Serilingampally,Maize,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Maize,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Maize,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Maize,152,10
+2018-2019,Rabi,Rangareddy,Keshampet,Maize,185,14
+2018-2019,Rabi,Rangareddy,Kothur,Maize,107,15
+2018-2019,Rabi,Rangareddy,Nandigam,Maize,26,25
+2018-2019,Rabi,Rangareddy,Farooqnagar,Maize,168,20
+2018-2019,Rabi,Rangareddy,Kondurg,Maize,249,19
+2018-2019,Rabi,Rangareddy,Chowdergudem,Maize,29,18
+2018-2019,Rabi,Rangareddy,Shankarpally,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Ragi,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Horse Gram,0,2
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Horse Gram,7,0
+2018-2019,Rabi,Rangareddy,Manchal,Horse Gram,13,0
+2018-2019,Rabi,Rangareddy,Yacharam,Horse Gram,10,0
+2018-2019,Rabi,Rangareddy,Madgul,Horse Gram,6,3
+2018-2019,Rabi,Rangareddy,Balapur,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Horse Gram,63,15
+2018-2019,Rabi,Rangareddy,Talakondapally,Horse Gram,39,6
+2018-2019,Rabi,Rangareddy,Kadthal,Horse Gram,34,19
+2018-2019,Rabi,Rangareddy,Kandukur,Horse Gram,19,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Horse Gram,6,2
+2018-2019,Rabi,Rangareddy,Serilingampally,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Horse Gram,7,1
+2018-2019,Rabi,Rangareddy,Kothur,Horse Gram,3,1
+2018-2019,Rabi,Rangareddy,Nandigam,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Horse Gram,1,0
+2018-2019,Rabi,Rangareddy,Kondurg,Horse Gram,2,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Horse Gram,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Green Gram,5,0
+2018-2019,Rabi,Rangareddy,Madgul,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Green Gram,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Black Gram,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Black Gram,1,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Red Gram,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Cow Gram,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Bengal Gram,654,932
+2018-2019,Rabi,Rangareddy,Moinabad,Bengal Gram,205,92
+2018-2019,Rabi,Rangareddy,Chevella,Bengal Gram,416,392
+2018-2019,Rabi,Rangareddy,Shabad,Bengal Gram,474,400
+2018-2019,Rabi,Rangareddy,Hayathnagar,Bengal Gram,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Bengal Gram,11,10
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Bengal Gram,2,0
+2018-2019,Rabi,Rangareddy,Manchal,Bengal Gram,2,0
+2018-2019,Rabi,Rangareddy,Yacharam,Bengal Gram,2,0
+2018-2019,Rabi,Rangareddy,Madgul,Bengal Gram,3,0
+2018-2019,Rabi,Rangareddy,Balapur,Bengal Gram,18,15
+2018-2019,Rabi,Rangareddy,Saroornagar,Bengal Gram,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Bengal Gram,1,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Bengal Gram,4,9
+2018-2019,Rabi,Rangareddy,Kadthal,Bengal Gram,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Bengal Gram,149,52
+2018-2019,Rabi,Rangareddy,Maheshwaram,Bengal Gram,79,60
+2018-2019,Rabi,Rangareddy,Serilingampally,Bengal Gram,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Bengal Gram,1,1
+2018-2019,Rabi,Rangareddy,Rajendranagar,Bengal Gram,1,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Bengal Gram,3,1
+2018-2019,Rabi,Rangareddy,Keshampet,Bengal Gram,4,0
+2018-2019,Rabi,Rangareddy,Kothur,Bengal Gram,66,81
+2018-2019,Rabi,Rangareddy,Nandigam,Bengal Gram,22,53
+2018-2019,Rabi,Rangareddy,Farooqnagar,Bengal Gram,6,3
+2018-2019,Rabi,Rangareddy,Kondurg,Bengal Gram,154,77
+2018-2019,Rabi,Rangareddy,Chowdergudem,Bengal Gram,40,32
+2018-2019,Rabi,Rangareddy,Shankarpally,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Other pulses,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Chillies,1,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Chillies,2,0
+2018-2019,Rabi,Rangareddy,Manchal,Chillies,2,0
+2018-2019,Rabi,Rangareddy,Yacharam,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Chillies,9,8
+2018-2019,Rabi,Rangareddy,Balapur,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Chillies,1,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Chillies,2,3
+2018-2019,Rabi,Rangareddy,Kadthal,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Chillies,23,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Chillies,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Coriander,13,5
+2018-2019,Rabi,Rangareddy,Shabad,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Coriander,0,1
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Coriander,12,0
+2018-2019,Rabi,Rangareddy,Manchal,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Coriander,3,0
+2018-2019,Rabi,Rangareddy,Balapur,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Coriander,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Potato,22,4
+2018-2019,Rabi,Rangareddy,Moinabad,Potato,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Potato,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Potato,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Potato,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Potato,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Potato,3,0
+2018-2019,Rabi,Rangareddy,Manchal,Potato,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Potato,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Potato,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Potato,2,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Potato,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Potato,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Potato,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Potato,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Potato,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Potato,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Potato,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Potato,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Potato,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Potato,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Potato,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Potato,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Potato,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Potato,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Potato,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Potato,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Onion,74,86
+2018-2019,Rabi,Rangareddy,Moinabad,Onion,24,3
+2018-2019,Rabi,Rangareddy,Chevella,Onion,40,32
+2018-2019,Rabi,Rangareddy,Shabad,Onion,35,18
+2018-2019,Rabi,Rangareddy,Hayathnagar,Onion,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Onion,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Onion,21,0
+2018-2019,Rabi,Rangareddy,Manchal,Onion,1,0
+2018-2019,Rabi,Rangareddy,Yacharam,Onion,9,0
+2018-2019,Rabi,Rangareddy,Madgul,Onion,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Onion,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Onion,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Onion,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Onion,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Onion,1,0
+2018-2019,Rabi,Rangareddy,Kandukur,Onion,29,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Onion,24,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Onion,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Onion,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Onion,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Onion,16,4
+2018-2019,Rabi,Rangareddy,Keshampet,Onion,33,4
+2018-2019,Rabi,Rangareddy,Kothur,Onion,10,6
+2018-2019,Rabi,Rangareddy,Nandigam,Onion,3,5
+2018-2019,Rabi,Rangareddy,Farooqnagar,Onion,17,7
+2018-2019,Rabi,Rangareddy,Kondurg,Onion,34,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Onion,24,8
+2018-2019,Rabi,Rangareddy,Shankarpally,Other food crops,780,225
+2018-2019,Rabi,Rangareddy,Moinabad,Other food crops,562,0
+2018-2019,Rabi,Rangareddy,Chevella,Other food crops,421,288
+2018-2019,Rabi,Rangareddy,Shabad,Other food crops,803,256
+2018-2019,Rabi,Rangareddy,Hayathnagar,Other food crops,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Other food crops,192,48
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Other food crops,399,14
+2018-2019,Rabi,Rangareddy,Manchal,Other food crops,189,14
+2018-2019,Rabi,Rangareddy,Yacharam,Other food crops,192,14
+2018-2019,Rabi,Rangareddy,Madgul,Other food crops,102,14
+2018-2019,Rabi,Rangareddy,Balapur,Other food crops,79,59
+2018-2019,Rabi,Rangareddy,Saroornagar,Other food crops,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Other food crops,89,25
+2018-2019,Rabi,Rangareddy,Talakondapally,Other food crops,272,110
+2018-2019,Rabi,Rangareddy,Kadthal,Other food crops,133,15
+2018-2019,Rabi,Rangareddy,Kandukur,Other food crops,0,30
+2018-2019,Rabi,Rangareddy,Maheshwaram,Other food crops,495,64
+2018-2019,Rabi,Rangareddy,Serilingampally,Other food crops,2,0
+2018-2019,Rabi,Rangareddy,Gandipet,Other food crops,42,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Other food crops,42,5
+2018-2019,Rabi,Rangareddy,Shamshabad,Other food crops,457,225
+2018-2019,Rabi,Rangareddy,Keshampet,Other food crops,782,306
+2018-2019,Rabi,Rangareddy,Kothur,Other food crops,289,117
+2018-2019,Rabi,Rangareddy,Nandigam,Other food crops,179,89
+2018-2019,Rabi,Rangareddy,Farooqnagar,Other food crops,350,224
+2018-2019,Rabi,Rangareddy,Kondurg,Other food crops,487,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Other food crops,92,65
+2018-2019,Rabi,Rangareddy,Shankarpally,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Groundnut,2,0
+2018-2019,Rabi,Rangareddy,Shabad,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Groundnut,89,21
+2018-2019,Rabi,Rangareddy,Balapur,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Groundnut,263,50
+2018-2019,Rabi,Rangareddy,Talakondapally,Groundnut,701,284
+2018-2019,Rabi,Rangareddy,Kadthal,Groundnut,224,48
+2018-2019,Rabi,Rangareddy,Kandukur,Groundnut,1,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Groundnut,6,1
+2018-2019,Rabi,Rangareddy,Keshampet,Groundnut,250,47
+2018-2019,Rabi,Rangareddy,Kothur,Groundnut,4,0
+2018-2019,Rabi,Rangareddy,Nandigam,Groundnut,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Groundnut,28,30
+2018-2019,Rabi,Rangareddy,Kondurg,Groundnut,80,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Groundnut,23,10
+2018-2019,Rabi,Rangareddy,Shankarpally,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Sesamum,1,0
+2018-2019,Rabi,Rangareddy,Shabad,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Sesamum,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Safflower,27,16
+2018-2019,Rabi,Rangareddy,Moinabad,Safflower,2,0
+2018-2019,Rabi,Rangareddy,Chevella,Safflower,38,22
+2018-2019,Rabi,Rangareddy,Shabad,Safflower,8,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Safflower,1,1
+2018-2019,Rabi,Rangareddy,Rajendranagar,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Safflower,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Sunflower,16,2
+2018-2019,Rabi,Rangareddy,Moinabad,Sunflower,5,0
+2018-2019,Rabi,Rangareddy,Chevella,Sunflower,51,42
+2018-2019,Rabi,Rangareddy,Shabad,Sunflower,17,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Sunflower,10,0
+2018-2019,Rabi,Rangareddy,Balapur,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Sunflower,84,10
+2018-2019,Rabi,Rangareddy,Talakondapally,Sunflower,49,6
+2018-2019,Rabi,Rangareddy,Kadthal,Sunflower,59,13
+2018-2019,Rabi,Rangareddy,Kandukur,Sunflower,3,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Sunflower,1,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Sunflower,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Sunflower,6,0
+2018-2019,Rabi,Rangareddy,Keshampet,Sunflower,38,1
+2018-2019,Rabi,Rangareddy,Kothur,Sunflower,16,3
+2018-2019,Rabi,Rangareddy,Nandigam,Sunflower,5,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Sunflower,11,2
+2018-2019,Rabi,Rangareddy,Kondurg,Sunflower,4,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Sunflower,1,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Other oil seeds,2,0
+2018-2019,Rabi,Rangareddy,Balapur,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Other oil seeds,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Moinabad,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Chevella,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Shabad,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Hayathnagar,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Manchal,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Yacharam,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Madgul,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Balapur,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Saroornagar,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Kadthal,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Kandukur,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Serilingampally,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Gandipet,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Shamshabad,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Keshampet,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Kothur,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Nandigam,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Farooqnagar,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Kondurg,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Tobacco,0,0
+2018-2019,Rabi,Rangareddy,Shankarpally,Other non-food crops,163,46
+2018-2019,Rabi,Rangareddy,Moinabad,Other non-food crops,273,112
+2018-2019,Rabi,Rangareddy,Chevella,Other non-food crops,60,35
+2018-2019,Rabi,Rangareddy,Shabad,Other non-food crops,174,117
+2018-2019,Rabi,Rangareddy,Hayathnagar,Other non-food crops,0,3
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Other non-food crops,89,65
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Other non-food crops,143,0
+2018-2019,Rabi,Rangareddy,Manchal,Other non-food crops,122,0
+2018-2019,Rabi,Rangareddy,Yacharam,Other non-food crops,21,0
+2018-2019,Rabi,Rangareddy,Madgul,Other non-food crops,37,19
+2018-2019,Rabi,Rangareddy,Balapur,Other non-food crops,4,4
+2018-2019,Rabi,Rangareddy,Saroornagar,Other non-food crops,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Other non-food crops,7,0
+2018-2019,Rabi,Rangareddy,Talakondapally,Other non-food crops,32,32
+2018-2019,Rabi,Rangareddy,Kadthal,Other non-food crops,14,13
+2018-2019,Rabi,Rangareddy,Kandukur,Other non-food crops,0,0
+2018-2019,Rabi,Rangareddy,Maheshwaram,Other non-food crops,244,90
+2018-2019,Rabi,Rangareddy,Serilingampally,Other non-food crops,2,0
+2018-2019,Rabi,Rangareddy,Gandipet,Other non-food crops,9,0
+2018-2019,Rabi,Rangareddy,Rajendranagar,Other non-food crops,23,4
+2018-2019,Rabi,Rangareddy,Shamshabad,Other non-food crops,0,47
+2018-2019,Rabi,Rangareddy,Keshampet,Other non-food crops,271,120
+2018-2019,Rabi,Rangareddy,Kothur,Other non-food crops,17,27
+2018-2019,Rabi,Rangareddy,Nandigam,Other non-food crops,20,28
+2018-2019,Rabi,Rangareddy,Farooqnagar,Other non-food crops,118,74
+2018-2019,Rabi,Rangareddy,Kondurg,Other non-food crops,46,0
+2018-2019,Rabi,Rangareddy,Chowdergudem,Other non-food crops,9,5
+2018-2019,Rabi,Rangareddy,Shankarpally,Total,2538,1830
+2018-2019,Rabi,Rangareddy,Moinabad,Total,1499,216
+2018-2019,Rabi,Rangareddy,Chevella,Total,1260,892
+2018-2019,Rabi,Rangareddy,Shabad,Total,2115,1007
+2018-2019,Rabi,Rangareddy,Hayathnagar,Total,11,8
+2018-2019,Rabi,Rangareddy,Abdullapurmet,Total,1123,344
+2018-2019,Rabi,Rangareddy,Ibrahimpatnam,Total,1369,64
+2018-2019,Rabi,Rangareddy,Manchal,Total,848,56
+2018-2019,Rabi,Rangareddy,Yacharam,Total,627,52
+2018-2019,Rabi,Rangareddy,Madgul,Total,657,92
+2018-2019,Rabi,Rangareddy,Balapur,Total,174,108
+2018-2019,Rabi,Rangareddy,Saroornagar,Total,0,0
+2018-2019,Rabi,Rangareddy,Amangal,Total,907,182
+2018-2019,Rabi,Rangareddy,Talakondapally,Total,1852,606
+2018-2019,Rabi,Rangareddy,Kadthal,Total,1093,165
+2018-2019,Rabi,Rangareddy,Kandukur,Total,1535,170
+2018-2019,Rabi,Rangareddy,Maheshwaram,Total,1385,295
+2018-2019,Rabi,Rangareddy,Serilingampally,Total,8,0
+2018-2019,Rabi,Rangareddy,Gandipet,Total,110,19
+2018-2019,Rabi,Rangareddy,Rajendranagar,Total,127,11
+2018-2019,Rabi,Rangareddy,Shamshabad,Total,981,305
+2018-2019,Rabi,Rangareddy,Keshampet,Total,2210,508
+2018-2019,Rabi,Rangareddy,Kothur,Total,725,326
+2018-2019,Rabi,Rangareddy,Nandigam,Total,357,316
+2018-2019,Rabi,Rangareddy,Farooqnagar,Total,1208,384
+2018-2019,Rabi,Rangareddy,Kondurg,Total,1799,109
+2018-2019,Rabi,Rangareddy,Chowdergudem,Total,500,155

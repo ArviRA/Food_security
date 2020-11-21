@@ -1,0 +1,379 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Khammam,Raghunadhapalem,Paddy,730,1338
+2018-2019,Kharif,Khammam,Khammam (U),Paddy,460,535
+2018-2019,Kharif,Khammam,Kamepalli,Paddy,1353,1563
+2018-2019,Kharif,Khammam,Kusumanchi,Paddy,3989,4305
+2018-2019,Kharif,Khammam,Nelakondapalli,Paddy,4448,7615
+2018-2019,Kharif,Khammam,Tirumalaipalem,Paddy,1663,3464
+2018-2019,Kharif,Khammam,Khammam (R),Paddy,1271,1830
+2018-2019,Kharif,Khammam,Madhira,Paddy,1389,1740
+2018-2019,Kharif,Khammam,Bonakal,Paddy,1086,1611
+2018-2019,Kharif,Khammam,Chinthakani,Paddy,1620,1856
+2018-2019,Kharif,Khammam,Mudigonda,Paddy,2626,3191
+2018-2019,Kharif,Khammam,Yerrupalem,Paddy,3418,3557
+2018-2019,Kharif,Khammam,Konijerla,Paddy,1227,1575
+2018-2019,Kharif,Khammam,Wyra,Paddy,3030,5742
+2018-2019,Kharif,Khammam,Singareni,Paddy,1154,1336
+2018-2019,Kharif,Khammam,Enkoor,Paddy,1443,1648
+2018-2019,Kharif,Khammam,Sathupalli,Paddy,6443,6414
+2018-2019,Kharif,Khammam,Vemsoor,Paddy,4874,5279
+2018-2019,Kharif,Khammam,Penuballi,Paddy,6880,7799
+2018-2019,Kharif,Khammam,Kalluru,Paddy,7303,11623
+2018-2019,Kharif,Khammam,Thallada,Paddy,4140,8416
+2018-2019,Kharif,Khammam,Raghunadhapalem,Jowar,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Jowar,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Jowar,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Jowar,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Jowar,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Jowar,2,2
+2018-2019,Kharif,Khammam,Khammam (R),Jowar,0,0
+2018-2019,Kharif,Khammam,Madhira,Jowar,0,0
+2018-2019,Kharif,Khammam,Bonakal,Jowar,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Jowar,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Jowar,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Jowar,0,0
+2018-2019,Kharif,Khammam,Konijerla,Jowar,0,0
+2018-2019,Kharif,Khammam,Wyra,Jowar,0,0
+2018-2019,Kharif,Khammam,Singareni,Jowar,0,0
+2018-2019,Kharif,Khammam,Enkoor,Jowar,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Jowar,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Jowar,0,0
+2018-2019,Kharif,Khammam,Penuballi,Jowar,0,0
+2018-2019,Kharif,Khammam,Kalluru,Jowar,0,0
+2018-2019,Kharif,Khammam,Thallada,Jowar,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Bajra,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Bajra,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Bajra,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Bajra,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Bajra,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Bajra,1,0
+2018-2019,Kharif,Khammam,Khammam (R),Bajra,0,0
+2018-2019,Kharif,Khammam,Madhira,Bajra,0,0
+2018-2019,Kharif,Khammam,Bonakal,Bajra,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Bajra,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Bajra,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Bajra,0,0
+2018-2019,Kharif,Khammam,Konijerla,Bajra,0,0
+2018-2019,Kharif,Khammam,Wyra,Bajra,0,0
+2018-2019,Kharif,Khammam,Singareni,Bajra,0,0
+2018-2019,Kharif,Khammam,Enkoor,Bajra,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Bajra,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Bajra,0,0
+2018-2019,Kharif,Khammam,Penuballi,Bajra,0,0
+2018-2019,Kharif,Khammam,Kalluru,Bajra,0,0
+2018-2019,Kharif,Khammam,Thallada,Bajra,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Maize,119,62
+2018-2019,Kharif,Khammam,Khammam (U),Maize,91,35
+2018-2019,Kharif,Khammam,Kamepalli,Maize,48,22
+2018-2019,Kharif,Khammam,Kusumanchi,Maize,24,24
+2018-2019,Kharif,Khammam,Nelakondapalli,Maize,103,42
+2018-2019,Kharif,Khammam,Tirumalaipalem,Maize,42,25
+2018-2019,Kharif,Khammam,Khammam (R),Maize,180,80
+2018-2019,Kharif,Khammam,Madhira,Maize,226,207
+2018-2019,Kharif,Khammam,Bonakal,Maize,294,421
+2018-2019,Kharif,Khammam,Chinthakani,Maize,1182,930
+2018-2019,Kharif,Khammam,Mudigonda,Maize,685,236
+2018-2019,Kharif,Khammam,Yerrupalem,Maize,369,408
+2018-2019,Kharif,Khammam,Konijerla,Maize,61,21
+2018-2019,Kharif,Khammam,Wyra,Maize,22,22
+2018-2019,Kharif,Khammam,Singareni,Maize,207,170
+2018-2019,Kharif,Khammam,Enkoor,Maize,74,15
+2018-2019,Kharif,Khammam,Sathupalli,Maize,504,385
+2018-2019,Kharif,Khammam,Vemsoor,Maize,77,83
+2018-2019,Kharif,Khammam,Penuballi,Maize,11,39
+2018-2019,Kharif,Khammam,Kalluru,Maize,7,18
+2018-2019,Kharif,Khammam,Thallada,Maize,37,36
+2018-2019,Kharif,Khammam,Raghunadhapalem,Green Gram,248,407
+2018-2019,Kharif,Khammam,Khammam (U),Green Gram,118,185
+2018-2019,Kharif,Khammam,Kamepalli,Green Gram,20,33
+2018-2019,Kharif,Khammam,Kusumanchi,Green Gram,1493,1720
+2018-2019,Kharif,Khammam,Nelakondapalli,Green Gram,827,558
+2018-2019,Kharif,Khammam,Tirumalaipalem,Green Gram,1840,1178
+2018-2019,Kharif,Khammam,Khammam (R),Green Gram,343,382
+2018-2019,Kharif,Khammam,Madhira,Green Gram,180,81
+2018-2019,Kharif,Khammam,Bonakal,Green Gram,213,201
+2018-2019,Kharif,Khammam,Chinthakani,Green Gram,729,992
+2018-2019,Kharif,Khammam,Mudigonda,Green Gram,338,325
+2018-2019,Kharif,Khammam,Yerrupalem,Green Gram,131,36
+2018-2019,Kharif,Khammam,Konijerla,Green Gram,810,699
+2018-2019,Kharif,Khammam,Wyra,Green Gram,434,463
+2018-2019,Kharif,Khammam,Singareni,Green Gram,35,40
+2018-2019,Kharif,Khammam,Enkoor,Green Gram,71,53
+2018-2019,Kharif,Khammam,Sathupalli,Green Gram,17,15
+2018-2019,Kharif,Khammam,Vemsoor,Green Gram,31,13
+2018-2019,Kharif,Khammam,Penuballi,Green Gram,44,51
+2018-2019,Kharif,Khammam,Kalluru,Green Gram,407,374
+2018-2019,Kharif,Khammam,Thallada,Green Gram,423,170
+2018-2019,Kharif,Khammam,Raghunadhapalem,Black Gram,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Black Gram,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Black Gram,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Black Gram,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Black Gram,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Black Gram,2,0
+2018-2019,Kharif,Khammam,Khammam (R),Black Gram,0,0
+2018-2019,Kharif,Khammam,Madhira,Black Gram,14,11
+2018-2019,Kharif,Khammam,Bonakal,Black Gram,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Black Gram,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Black Gram,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Black Gram,9,0
+2018-2019,Kharif,Khammam,Konijerla,Black Gram,3,14
+2018-2019,Kharif,Khammam,Wyra,Black Gram,0,0
+2018-2019,Kharif,Khammam,Singareni,Black Gram,0,0
+2018-2019,Kharif,Khammam,Enkoor,Black Gram,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Black Gram,3,3
+2018-2019,Kharif,Khammam,Vemsoor,Black Gram,14,2
+2018-2019,Kharif,Khammam,Penuballi,Black Gram,0,0
+2018-2019,Kharif,Khammam,Kalluru,Black Gram,35,43
+2018-2019,Kharif,Khammam,Thallada,Black Gram,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Red Gram,94,14
+2018-2019,Kharif,Khammam,Khammam (U),Red Gram,43,20
+2018-2019,Kharif,Khammam,Kamepalli,Red Gram,36,16
+2018-2019,Kharif,Khammam,Kusumanchi,Red Gram,316,351
+2018-2019,Kharif,Khammam,Nelakondapalli,Red Gram,343,153
+2018-2019,Kharif,Khammam,Tirumalaipalem,Red Gram,248,92
+2018-2019,Kharif,Khammam,Khammam (R),Red Gram,126,156
+2018-2019,Kharif,Khammam,Madhira,Red Gram,121,82
+2018-2019,Kharif,Khammam,Bonakal,Red Gram,98,5
+2018-2019,Kharif,Khammam,Chinthakani,Red Gram,113,99
+2018-2019,Kharif,Khammam,Mudigonda,Red Gram,178,214
+2018-2019,Kharif,Khammam,Yerrupalem,Red Gram,103,38
+2018-2019,Kharif,Khammam,Konijerla,Red Gram,52,58
+2018-2019,Kharif,Khammam,Wyra,Red Gram,9,8
+2018-2019,Kharif,Khammam,Singareni,Red Gram,114,76
+2018-2019,Kharif,Khammam,Enkoor,Red Gram,27,9
+2018-2019,Kharif,Khammam,Sathupalli,Red Gram,9,12
+2018-2019,Kharif,Khammam,Vemsoor,Red Gram,17,1
+2018-2019,Kharif,Khammam,Penuballi,Red Gram,16,0
+2018-2019,Kharif,Khammam,Kalluru,Red Gram,117,75
+2018-2019,Kharif,Khammam,Thallada,Red Gram,96,21
+2018-2019,Kharif,Khammam,Raghunadhapalem,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Cow Gram,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Cow Gram,2,0
+2018-2019,Kharif,Khammam,Khammam (R),Cow Gram,0,0
+2018-2019,Kharif,Khammam,Madhira,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Bonakal,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Konijerla,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Wyra,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Singareni,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Enkoor,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Penuballi,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Kalluru,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Thallada,Cow Gram,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Groundnut,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Groundnut,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Groundnut,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Groundnut,99,43
+2018-2019,Kharif,Khammam,Nelakondapalli,Groundnut,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Groundnut,72,36
+2018-2019,Kharif,Khammam,Khammam (R),Groundnut,0,0
+2018-2019,Kharif,Khammam,Madhira,Groundnut,0,0
+2018-2019,Kharif,Khammam,Bonakal,Groundnut,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Groundnut,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Groundnut,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Groundnut,3,4
+2018-2019,Kharif,Khammam,Konijerla,Groundnut,0,0
+2018-2019,Kharif,Khammam,Wyra,Groundnut,0,0
+2018-2019,Kharif,Khammam,Singareni,Groundnut,0,0
+2018-2019,Kharif,Khammam,Enkoor,Groundnut,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Groundnut,18,0
+2018-2019,Kharif,Khammam,Vemsoor,Groundnut,0,0
+2018-2019,Kharif,Khammam,Penuballi,Groundnut,0,0
+2018-2019,Kharif,Khammam,Kalluru,Groundnut,0,0
+2018-2019,Kharif,Khammam,Thallada,Groundnut,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Sesamum,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Sesamum,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Sesamum,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Sesamum,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Sesamum,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Sesamum,0,0
+2018-2019,Kharif,Khammam,Khammam (R),Sesamum,0,0
+2018-2019,Kharif,Khammam,Madhira,Sesamum,10,0
+2018-2019,Kharif,Khammam,Bonakal,Sesamum,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Sesamum,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Sesamum,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Sesamum,0,0
+2018-2019,Kharif,Khammam,Konijerla,Sesamum,0,0
+2018-2019,Kharif,Khammam,Wyra,Sesamum,0,0
+2018-2019,Kharif,Khammam,Singareni,Sesamum,0,0
+2018-2019,Kharif,Khammam,Enkoor,Sesamum,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Sesamum,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Sesamum,0,0
+2018-2019,Kharif,Khammam,Penuballi,Sesamum,0,0
+2018-2019,Kharif,Khammam,Kalluru,Sesamum,2,0
+2018-2019,Kharif,Khammam,Thallada,Sesamum,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Soyabean,1,0
+2018-2019,Kharif,Khammam,Khammam (U),Soyabean,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Soyabean,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Soyabean,0,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Soyabean,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Soyabean,1,0
+2018-2019,Kharif,Khammam,Khammam (R),Soyabean,0,0
+2018-2019,Kharif,Khammam,Madhira,Soyabean,1,0
+2018-2019,Kharif,Khammam,Bonakal,Soyabean,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Soyabean,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Soyabean,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Soyabean,2,0
+2018-2019,Kharif,Khammam,Konijerla,Soyabean,0,0
+2018-2019,Kharif,Khammam,Wyra,Soyabean,0,0
+2018-2019,Kharif,Khammam,Singareni,Soyabean,0,0
+2018-2019,Kharif,Khammam,Enkoor,Soyabean,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Soyabean,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Soyabean,0,0
+2018-2019,Kharif,Khammam,Penuballi,Soyabean,0,0
+2018-2019,Kharif,Khammam,Kalluru,Soyabean,2,0
+2018-2019,Kharif,Khammam,Thallada,Soyabean,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Mesta,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Mesta,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Mesta,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Mesta,1,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Mesta,0,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Mesta,0,0
+2018-2019,Kharif,Khammam,Khammam (R),Mesta,0,0
+2018-2019,Kharif,Khammam,Madhira,Mesta,0,0
+2018-2019,Kharif,Khammam,Bonakal,Mesta,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Mesta,0,0
+2018-2019,Kharif,Khammam,Mudigonda,Mesta,0,0
+2018-2019,Kharif,Khammam,Yerrupalem,Mesta,0,0
+2018-2019,Kharif,Khammam,Konijerla,Mesta,0,0
+2018-2019,Kharif,Khammam,Wyra,Mesta,0,0
+2018-2019,Kharif,Khammam,Singareni,Mesta,0,0
+2018-2019,Kharif,Khammam,Enkoor,Mesta,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Mesta,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Mesta,0,0
+2018-2019,Kharif,Khammam,Penuballi,Mesta,0,0
+2018-2019,Kharif,Khammam,Kalluru,Mesta,0,0
+2018-2019,Kharif,Khammam,Thallada,Mesta,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Chillies,2397,2715
+2018-2019,Kharif,Khammam,Khammam (U),Chillies,148,136
+2018-2019,Kharif,Khammam,Kamepalli,Chillies,2383,2285
+2018-2019,Kharif,Khammam,Kusumanchi,Chillies,1742,1401
+2018-2019,Kharif,Khammam,Nelakondapalli,Chillies,208,388
+2018-2019,Kharif,Khammam,Tirumalaipalem,Chillies,2152,2590
+2018-2019,Kharif,Khammam,Khammam (R),Chillies,1392,1171
+2018-2019,Kharif,Khammam,Madhira,Chillies,1043,1410
+2018-2019,Kharif,Khammam,Bonakal,Chillies,825,1184
+2018-2019,Kharif,Khammam,Chinthakani,Chillies,558,972
+2018-2019,Kharif,Khammam,Mudigonda,Chillies,925,825
+2018-2019,Kharif,Khammam,Yerrupalem,Chillies,968,1463
+2018-2019,Kharif,Khammam,Konijerla,Chillies,973,1071
+2018-2019,Kharif,Khammam,Wyra,Chillies,344,386
+2018-2019,Kharif,Khammam,Singareni,Chillies,1046,1121
+2018-2019,Kharif,Khammam,Enkoor,Chillies,1774,2120
+2018-2019,Kharif,Khammam,Sathupalli,Chillies,0,0
+2018-2019,Kharif,Khammam,Vemsoor,Chillies,0,0
+2018-2019,Kharif,Khammam,Penuballi,Chillies,77,0
+2018-2019,Kharif,Khammam,Kalluru,Chillies,265,530
+2018-2019,Kharif,Khammam,Thallada,Chillies,608,1642
+2018-2019,Kharif,Khammam,Raghunadhapalem,Cotton,7065,6292
+2018-2019,Kharif,Khammam,Khammam (U),Cotton,822,1045
+2018-2019,Kharif,Khammam,Kamepalli,Cotton,6718,6423
+2018-2019,Kharif,Khammam,Kusumanchi,Cotton,6944,7208
+2018-2019,Kharif,Khammam,Nelakondapalli,Cotton,2090,2008
+2018-2019,Kharif,Khammam,Tirumalaipalem,Cotton,6908,8687
+2018-2019,Kharif,Khammam,Khammam (R),Cotton,5631,5877
+2018-2019,Kharif,Khammam,Madhira,Cotton,8207,6926
+2018-2019,Kharif,Khammam,Bonakal,Cotton,6131,4961
+2018-2019,Kharif,Khammam,Chinthakani,Cotton,6234,7603
+2018-2019,Kharif,Khammam,Mudigonda,Cotton,4951,5236
+2018-2019,Kharif,Khammam,Yerrupalem,Cotton,5983,4783
+2018-2019,Kharif,Khammam,Konijerla,Cotton,6642,7412
+2018-2019,Kharif,Khammam,Wyra,Cotton,2235,1796
+2018-2019,Kharif,Khammam,Singareni,Cotton,6162,6483
+2018-2019,Kharif,Khammam,Enkoor,Cotton,6613,6532
+2018-2019,Kharif,Khammam,Sathupalli,Cotton,82,32
+2018-2019,Kharif,Khammam,Vemsoor,Cotton,930,843
+2018-2019,Kharif,Khammam,Penuballi,Cotton,1361,951
+2018-2019,Kharif,Khammam,Kalluru,Cotton,2064,2124
+2018-2019,Kharif,Khammam,Thallada,Cotton,4089,3912
+2018-2019,Kharif,Khammam,Raghunadhapalem,Sugarcane,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Sugarcane,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Sugarcane,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Sugarcane,594,566
+2018-2019,Kharif,Khammam,Nelakondapalli,Sugarcane,1474,1243
+2018-2019,Kharif,Khammam,Tirumalaipalem,Sugarcane,5,1
+2018-2019,Kharif,Khammam,Khammam (R),Sugarcane,27,14
+2018-2019,Kharif,Khammam,Madhira,Sugarcane,248,27
+2018-2019,Kharif,Khammam,Bonakal,Sugarcane,167,12
+2018-2019,Kharif,Khammam,Chinthakani,Sugarcane,5,3
+2018-2019,Kharif,Khammam,Mudigonda,Sugarcane,249,129
+2018-2019,Kharif,Khammam,Yerrupalem,Sugarcane,801,17
+2018-2019,Kharif,Khammam,Konijerla,Sugarcane,28,0
+2018-2019,Kharif,Khammam,Wyra,Sugarcane,85,311
+2018-2019,Kharif,Khammam,Singareni,Sugarcane,0,0
+2018-2019,Kharif,Khammam,Enkoor,Sugarcane,188,16
+2018-2019,Kharif,Khammam,Sathupalli,Sugarcane,11,512
+2018-2019,Kharif,Khammam,Vemsoor,Sugarcane,55,174
+2018-2019,Kharif,Khammam,Penuballi,Sugarcane,567,166
+2018-2019,Kharif,Khammam,Kalluru,Sugarcane,129,95
+2018-2019,Kharif,Khammam,Thallada,Sugarcane,37,159
+2018-2019,Kharif,Khammam,Raghunadhapalem,Turmeric,0,0
+2018-2019,Kharif,Khammam,Khammam (U),Turmeric,0,0
+2018-2019,Kharif,Khammam,Kamepalli,Turmeric,0,0
+2018-2019,Kharif,Khammam,Kusumanchi,Turmeric,1,0
+2018-2019,Kharif,Khammam,Nelakondapalli,Turmeric,4,0
+2018-2019,Kharif,Khammam,Tirumalaipalem,Turmeric,0,0
+2018-2019,Kharif,Khammam,Khammam (R),Turmeric,6,0
+2018-2019,Kharif,Khammam,Madhira,Turmeric,6,2
+2018-2019,Kharif,Khammam,Bonakal,Turmeric,0,0
+2018-2019,Kharif,Khammam,Chinthakani,Turmeric,3,0
+2018-2019,Kharif,Khammam,Mudigonda,Turmeric,2,0
+2018-2019,Kharif,Khammam,Yerrupalem,Turmeric,43,39
+2018-2019,Kharif,Khammam,Konijerla,Turmeric,0,0
+2018-2019,Kharif,Khammam,Wyra,Turmeric,0,11
+2018-2019,Kharif,Khammam,Singareni,Turmeric,1,0
+2018-2019,Kharif,Khammam,Enkoor,Turmeric,0,0
+2018-2019,Kharif,Khammam,Sathupalli,Turmeric,1,0
+2018-2019,Kharif,Khammam,Vemsoor,Turmeric,40,33
+2018-2019,Kharif,Khammam,Penuballi,Turmeric,0,0
+2018-2019,Kharif,Khammam,Kalluru,Turmeric,1,2
+2018-2019,Kharif,Khammam,Thallada,Turmeric,0,0
+2018-2019,Kharif,Khammam,Raghunadhapalem,Other crops,998,1597
+2018-2019,Kharif,Khammam,Khammam (U),Other crops,372,409
+2018-2019,Kharif,Khammam,Kamepalli,Other crops,828,1073
+2018-2019,Kharif,Khammam,Kusumanchi,Other crops,919,777
+2018-2019,Kharif,Khammam,Nelakondapalli,Other crops,1002,586
+2018-2019,Kharif,Khammam,Tirumalaipalem,Other crops,664,851
+2018-2019,Kharif,Khammam,Khammam (R),Other crops,785,842
+2018-2019,Kharif,Khammam,Madhira,Other crops,2704,3270
+2018-2019,Kharif,Khammam,Bonakal,Other crops,693,887
+2018-2019,Kharif,Khammam,Chinthakani,Other crops,665,678
+2018-2019,Kharif,Khammam,Mudigonda,Other crops,909,788
+2018-2019,Kharif,Khammam,Yerrupalem,Other crops,2599,3845
+2018-2019,Kharif,Khammam,Konijerla,Other crops,699,592
+2018-2019,Kharif,Khammam,Wyra,Other crops,925,421
+2018-2019,Kharif,Khammam,Singareni,Other crops,639,850
+2018-2019,Kharif,Khammam,Enkoor,Other crops,1412,2192
+2018-2019,Kharif,Khammam,Sathupalli,Other crops,3972,3087
+2018-2019,Kharif,Khammam,Vemsoor,Other crops,5438,4027
+2018-2019,Kharif,Khammam,Penuballi,Other crops,4014,2956
+2018-2019,Kharif,Khammam,Kalluru,Other crops,2109,2308
+2018-2019,Kharif,Khammam,Thallada,Other crops,1660,1696
+2018-2019,Kharif,Khammam,Raghunadhapalem,Total,11652,12425
+2018-2019,Kharif,Khammam,Khammam (U),Total,2054,2365
+2018-2019,Kharif,Khammam,Kamepalli,Total,11386,11415
+2018-2019,Kharif,Khammam,Kusumanchi,Total,16122,16395
+2018-2019,Kharif,Khammam,Nelakondapalli,Total,10499,12593
+2018-2019,Kharif,Khammam,Tirumalaipalem,Total,13600,16926
+2018-2019,Kharif,Khammam,Khammam (R),Total,9761,10352
+2018-2019,Kharif,Khammam,Madhira,Total,14149,13756
+2018-2019,Kharif,Khammam,Bonakal,Total,9507,9282
+2018-2019,Kharif,Khammam,Chinthakani,Total,11109,13133
+2018-2019,Kharif,Khammam,Mudigonda,Total,10863,10944
+2018-2019,Kharif,Khammam,Yerrupalem,Total,14429,14190
+2018-2019,Kharif,Khammam,Konijerla,Total,10495,11442
+2018-2019,Kharif,Khammam,Wyra,Total,7084,9160
+2018-2019,Kharif,Khammam,Singareni,Total,9358,10076
+2018-2019,Kharif,Khammam,Enkoor,Total,11602,12585
+2018-2019,Kharif,Khammam,Sathupalli,Total,11060,10460
+2018-2019,Kharif,Khammam,Vemsoor,Total,11476,10455
+2018-2019,Kharif,Khammam,Penuballi,Total,12970,11962
+2018-2019,Kharif,Khammam,Kalluru,Total,12441,17192
+2018-2019,Kharif,Khammam,Thallada,Total,11090,16052

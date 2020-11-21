@@ -1,0 +1,229 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Nirmal,Kubeer,Paddy,802,78
+2018-2019,Kharif,Nirmal,Tanoor,Paddy,752.75,0
+2018-2019,Kharif,Nirmal,Basar,Paddy,1001.75,255
+2018-2019,Kharif,Nirmal,Mudhole,Paddy,1065,1878
+2018-2019,Kharif,Nirmal,Bhainsa,Paddy,1245,822
+2018-2019,Kharif,Nirmal,Kuntala,Paddy,1065,698
+2018-2019,Kharif,Nirmal,Narsapur G,Paddy,224.75,2015
+2018-2019,Kharif,Nirmal,Lokeshwaram,Paddy,1279.5,1232
+2018-2019,Kharif,Nirmal,Dilawarpur,Paddy,2126.4,1445
+2018-2019,Kharif,Nirmal,Sarangapur,Paddy,1126,2597
+2018-2019,Kharif,Nirmal,Nirmal Urban,Paddy,89,93
+2018-2019,Kharif,Nirmal,Nirmal Rural,Paddy,14,1056
+2018-2019,Kharif,Nirmal,Soan,Paddy,579.2,1744
+2018-2019,Kharif,Nirmal,Laxmanchanda,Paddy,1246.75,3642
+2018-2019,Kharif,Nirmal,Mamada,Paddy,220.75,1568
+2018-2019,Kharif,Nirmal,Pembi,Paddy,632.6,262
+2018-2019,Kharif,Nirmal,Khanapur,Paddy,1484.2,2715
+2018-2019,Kharif,Nirmal,Kaddam peddur,Paddy,1069,567
+2018-2019,Kharif,Nirmal,Dasturabad,Paddy,78,1866
+2018-2019,Kharif,Nirmal,Kubeer,Jowar,1,3
+2018-2019,Kharif,Nirmal,Tanoor,Jowar,0,0
+2018-2019,Kharif,Nirmal,Basar,Jowar,0,0
+2018-2019,Kharif,Nirmal,Mudhole,Jowar,0,0
+2018-2019,Kharif,Nirmal,Bhainsa,Jowar,2,0
+2018-2019,Kharif,Nirmal,Kuntala,Jowar,0,0
+2018-2019,Kharif,Nirmal,Narsapur G,Jowar,0,0
+2018-2019,Kharif,Nirmal,Lokeshwaram,Jowar,0,0
+2018-2019,Kharif,Nirmal,Dilawarpur,Jowar,0,0
+2018-2019,Kharif,Nirmal,Sarangapur,Jowar,0,0
+2018-2019,Kharif,Nirmal,Nirmal Urban,Jowar,199,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Jowar,74,0
+2018-2019,Kharif,Nirmal,Soan,Jowar,0,0
+2018-2019,Kharif,Nirmal,Laxmanchanda,Jowar,1.25,0
+2018-2019,Kharif,Nirmal,Mamada,Jowar,0,28
+2018-2019,Kharif,Nirmal,Pembi,Jowar,0,0
+2018-2019,Kharif,Nirmal,Khanapur,Jowar,3,0
+2018-2019,Kharif,Nirmal,Kaddam peddur,Jowar,0,0
+2018-2019,Kharif,Nirmal,Dasturabad,Jowar,0,0
+2018-2019,Kharif,Nirmal,Kubeer,Maize,5,7
+2018-2019,Kharif,Nirmal,Tanoor,Maize,79,0
+2018-2019,Kharif,Nirmal,Basar,Maize,417.5,0
+2018-2019,Kharif,Nirmal,Mudhole,Maize,816.75,4
+2018-2019,Kharif,Nirmal,Bhainsa,Maize,715.8,5
+2018-2019,Kharif,Nirmal,Kuntala,Maize,816.75,0
+2018-2019,Kharif,Nirmal,Narsapur G,Maize,394,0
+2018-2019,Kharif,Nirmal,Lokeshwaram,Maize,1809.25,44
+2018-2019,Kharif,Nirmal,Dilawarpur,Maize,14.6,468
+2018-2019,Kharif,Nirmal,Sarangapur,Maize,1664,77
+2018-2019,Kharif,Nirmal,Nirmal Urban,Maize,23,2
+2018-2019,Kharif,Nirmal,Nirmal Rural,Maize,0,1042
+2018-2019,Kharif,Nirmal,Soan,Maize,111.4,883
+2018-2019,Kharif,Nirmal,Laxmanchanda,Maize,5.5,1764
+2018-2019,Kharif,Nirmal,Mamada,Maize,0,2145
+2018-2019,Kharif,Nirmal,Pembi,Maize,592,357
+2018-2019,Kharif,Nirmal,Khanapur,Maize,154.8,951
+2018-2019,Kharif,Nirmal,Kaddam peddur,Maize,1060,0
+2018-2019,Kharif,Nirmal,Dasturabad,Maize,5,31
+2018-2019,Kharif,Nirmal,Kubeer,Red Gram,311,1139
+2018-2019,Kharif,Nirmal,Tanoor,Red Gram,314,1417
+2018-2019,Kharif,Nirmal,Basar,Red Gram,218.5,444
+2018-2019,Kharif,Nirmal,Mudhole,Red Gram,97,586
+2018-2019,Kharif,Nirmal,Bhainsa,Red Gram,208,1161
+2018-2019,Kharif,Nirmal,Kuntala,Red Gram,97,233
+2018-2019,Kharif,Nirmal,Narsapur G,Red Gram,159.5,203
+2018-2019,Kharif,Nirmal,Lokeshwaram,Red Gram,105.5,223
+2018-2019,Kharif,Nirmal,Dilawarpur,Red Gram,185,296
+2018-2019,Kharif,Nirmal,Sarangapur,Red Gram,393.75,601
+2018-2019,Kharif,Nirmal,Nirmal Urban,Red Gram,1117,1
+2018-2019,Kharif,Nirmal,Nirmal Rural,Red Gram,847,162
+2018-2019,Kharif,Nirmal,Soan,Red Gram,967.6,247
+2018-2019,Kharif,Nirmal,Laxmanchanda,Red Gram,407.5,304
+2018-2019,Kharif,Nirmal,Mamada,Red Gram,273.25,629
+2018-2019,Kharif,Nirmal,Pembi,Red Gram,85.6,332
+2018-2019,Kharif,Nirmal,Khanapur,Red Gram,212.6,154
+2018-2019,Kharif,Nirmal,Kaddam peddur,Red Gram,157,0
+2018-2019,Kharif,Nirmal,Dasturabad,Red Gram,4,16
+2018-2019,Kharif,Nirmal,Kubeer,Black Gram,123,321
+2018-2019,Kharif,Nirmal,Tanoor,Black Gram,126.5,1509
+2018-2019,Kharif,Nirmal,Basar,Black Gram,38.25,936
+2018-2019,Kharif,Nirmal,Mudhole,Black Gram,20.25,687
+2018-2019,Kharif,Nirmal,Bhainsa,Black Gram,14.2,458
+2018-2019,Kharif,Nirmal,Kuntala,Black Gram,20.25,26
+2018-2019,Kharif,Nirmal,Narsapur G,Black Gram,20.5,103
+2018-2019,Kharif,Nirmal,Lokeshwaram,Black Gram,25.5,108
+2018-2019,Kharif,Nirmal,Dilawarpur,Black Gram,148.6,47
+2018-2019,Kharif,Nirmal,Sarangapur,Black Gram,32.75,15
+2018-2019,Kharif,Nirmal,Nirmal Urban,Black Gram,245,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Black Gram,824,40
+2018-2019,Kharif,Nirmal,Soan,Black Gram,345.2,3
+2018-2019,Kharif,Nirmal,Laxmanchanda,Black Gram,331.75,26
+2018-2019,Kharif,Nirmal,Mamada,Black Gram,512.5,66
+2018-2019,Kharif,Nirmal,Pembi,Black Gram,9.8,0
+2018-2019,Kharif,Nirmal,Khanapur,Black Gram,23.6,7
+2018-2019,Kharif,Nirmal,Kaddam peddur,Black Gram,43,0
+2018-2019,Kharif,Nirmal,Dasturabad,Black Gram,2,0
+2018-2019,Kharif,Nirmal,Kubeer,Green Gram,23,134
+2018-2019,Kharif,Nirmal,Tanoor,Green Gram,33.25,251
+2018-2019,Kharif,Nirmal,Basar,Green Gram,20,19
+2018-2019,Kharif,Nirmal,Mudhole,Green Gram,123.75,76
+2018-2019,Kharif,Nirmal,Bhainsa,Green Gram,274.2,83
+2018-2019,Kharif,Nirmal,Kuntala,Green Gram,123.75,0
+2018-2019,Kharif,Nirmal,Narsapur G,Green Gram,68.5,25
+2018-2019,Kharif,Nirmal,Lokeshwaram,Green Gram,20.75,51
+2018-2019,Kharif,Nirmal,Dilawarpur,Green Gram,18,20
+2018-2019,Kharif,Nirmal,Sarangapur,Green Gram,111.25,10
+2018-2019,Kharif,Nirmal,Nirmal Urban,Green Gram,143,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Green Gram,298,41
+2018-2019,Kharif,Nirmal,Soan,Green Gram,68,5
+2018-2019,Kharif,Nirmal,Laxmanchanda,Green Gram,60.5,25
+2018-2019,Kharif,Nirmal,Mamada,Green Gram,44,142
+2018-2019,Kharif,Nirmal,Pembi,Green Gram,7,2
+2018-2019,Kharif,Nirmal,Khanapur,Green Gram,25,45
+2018-2019,Kharif,Nirmal,Kaddam peddur,Green Gram,41,0
+2018-2019,Kharif,Nirmal,Dasturabad,Green Gram,1,18
+2018-2019,Kharif,Nirmal,Kubeer,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Tanoor,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Basar,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Mudhole,Cow Gram,8.5,0
+2018-2019,Kharif,Nirmal,Bhainsa,Cow Gram,13.6,0
+2018-2019,Kharif,Nirmal,Kuntala,Cow Gram,8.5,0
+2018-2019,Kharif,Nirmal,Narsapur G,Cow Gram,3.75,0
+2018-2019,Kharif,Nirmal,Lokeshwaram,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Dilawarpur,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Sarangapur,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Nirmal Urban,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Soan,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Laxmanchanda,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Mamada,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Pembi,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Khanapur,Cow Gram,1.8,6
+2018-2019,Kharif,Nirmal,Kaddam peddur,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Dasturabad,Cow Gram,0,0
+2018-2019,Kharif,Nirmal,Kubeer,Soyabean,1882,6654
+2018-2019,Kharif,Nirmal,Tanoor,Soyabean,2047.5,5949
+2018-2019,Kharif,Nirmal,Basar,Soyabean,2080.75,2714
+2018-2019,Kharif,Nirmal,Mudhole,Soyabean,197.5,2683
+2018-2019,Kharif,Nirmal,Bhainsa,Soyabean,268.4,5885
+2018-2019,Kharif,Nirmal,Kuntala,Soyabean,197.5,1681
+2018-2019,Kharif,Nirmal,Narsapur G,Soyabean,108.25,1590
+2018-2019,Kharif,Nirmal,Lokeshwaram,Soyabean,1426,1596
+2018-2019,Kharif,Nirmal,Dilawarpur,Soyabean,2671,418
+2018-2019,Kharif,Nirmal,Sarangapur,Soyabean,1251,1922
+2018-2019,Kharif,Nirmal,Nirmal Urban,Soyabean,5525,7
+2018-2019,Kharif,Nirmal,Nirmal Rural,Soyabean,5600,167
+2018-2019,Kharif,Nirmal,Soan,Soyabean,5988.4,277
+2018-2019,Kharif,Nirmal,Laxmanchanda,Soyabean,3289.75,62
+2018-2019,Kharif,Nirmal,Mamada,Soyabean,2637.75,295
+2018-2019,Kharif,Nirmal,Pembi,Soyabean,590.8,0
+2018-2019,Kharif,Nirmal,Khanapur,Soyabean,1919.4,0
+2018-2019,Kharif,Nirmal,Kaddam peddur,Soyabean,1412,6
+2018-2019,Kharif,Nirmal,Dasturabad,Soyabean,12,0
+2018-2019,Kharif,Nirmal,Kubeer,Cotton,4104,9714
+2018-2019,Kharif,Nirmal,Tanoor,Cotton,3421.75,7400
+2018-2019,Kharif,Nirmal,Basar,Cotton,1918.75,2625
+2018-2019,Kharif,Nirmal,Mudhole,Cotton,801.25,4754
+2018-2019,Kharif,Nirmal,Bhainsa,Cotton,1968,7468
+2018-2019,Kharif,Nirmal,Kuntala,Cotton,801.25,5075
+2018-2019,Kharif,Nirmal,Narsapur G,Cotton,1201.5,4579
+2018-2019,Kharif,Nirmal,Lokeshwaram,Cotton,474.5,2450
+2018-2019,Kharif,Nirmal,Dilawarpur,Cotton,4088,2883
+2018-2019,Kharif,Nirmal,Sarangapur,Cotton,1373.25,4273
+2018-2019,Kharif,Nirmal,Nirmal Urban,Cotton,11633,2
+2018-2019,Kharif,Nirmal,Nirmal Rural,Cotton,8307,238
+2018-2019,Kharif,Nirmal,Soan,Cotton,8100,100
+2018-2019,Kharif,Nirmal,Laxmanchanda,Cotton,4690,278
+2018-2019,Kharif,Nirmal,Mamada,Cotton,3236.75,1790
+2018-2019,Kharif,Nirmal,Pembi,Cotton,40,1340
+2018-2019,Kharif,Nirmal,Khanapur,Cotton,3346.6,592
+2018-2019,Kharif,Nirmal,Kaddam peddur,Cotton,202,0
+2018-2019,Kharif,Nirmal,Dasturabad,Cotton,3,42
+2018-2019,Kharif,Nirmal,Kubeer,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Tanoor,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Basar,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Mudhole,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Bhainsa,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Kuntala,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Narsapur G,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Lokeshwaram,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Dilawarpur,Sugarcane,0,2
+2018-2019,Kharif,Nirmal,Sarangapur,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Nirmal Urban,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Soan,Sugarcane,1.6,0
+2018-2019,Kharif,Nirmal,Laxmanchanda,Sugarcane,1.5,0
+2018-2019,Kharif,Nirmal,Mamada,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Pembi,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Khanapur,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Kaddam peddur,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Dasturabad,Sugarcane,0,0
+2018-2019,Kharif,Nirmal,Kubeer,Chillies,68,14
+2018-2019,Kharif,Nirmal,Tanoor,Chillies,37.25,7
+2018-2019,Kharif,Nirmal,Basar,Chillies,24.5,2
+2018-2019,Kharif,Nirmal,Mudhole,Chillies,2.25,6
+2018-2019,Kharif,Nirmal,Bhainsa,Chillies,0,17
+2018-2019,Kharif,Nirmal,Kuntala,Chillies,2.25,13
+2018-2019,Kharif,Nirmal,Narsapur G,Chillies,0,68
+2018-2019,Kharif,Nirmal,Lokeshwaram,Chillies,0,18
+2018-2019,Kharif,Nirmal,Dilawarpur,Chillies,0,0
+2018-2019,Kharif,Nirmal,Sarangapur,Chillies,0,62
+2018-2019,Kharif,Nirmal,Nirmal Urban,Chillies,67,0
+2018-2019,Kharif,Nirmal,Nirmal Rural,Chillies,190,0
+2018-2019,Kharif,Nirmal,Soan,Chillies,196.2,29
+2018-2019,Kharif,Nirmal,Laxmanchanda,Chillies,55.25,0
+2018-2019,Kharif,Nirmal,Mamada,Chillies,19.75,0
+2018-2019,Kharif,Nirmal,Pembi,Chillies,0,0
+2018-2019,Kharif,Nirmal,Khanapur,Chillies,213.2,0
+2018-2019,Kharif,Nirmal,Kaddam peddur,Chillies,0,0
+2018-2019,Kharif,Nirmal,Dasturabad,Chillies,0,0
+2018-2019,Kharif,Nirmal,Kubeer,Turmeric,58,45
+2018-2019,Kharif,Nirmal,Tanoor,Turmeric,166.5,117
+2018-2019,Kharif,Nirmal,Basar,Turmeric,441.75,26
+2018-2019,Kharif,Nirmal,Mudhole,Turmeric,812.5,54
+2018-2019,Kharif,Nirmal,Bhainsa,Turmeric,619.6,195
+2018-2019,Kharif,Nirmal,Kuntala,Turmeric,812.5,97
+2018-2019,Kharif,Nirmal,Narsapur G,Turmeric,301.75,133
+2018-2019,Kharif,Nirmal,Lokeshwaram,Turmeric,1354.5,146
+2018-2019,Kharif,Nirmal,Dilawarpur,Turmeric,74.8,472
+2018-2019,Kharif,Nirmal,Sarangapur,Turmeric,1378,423
+2018-2019,Kharif,Nirmal,Nirmal Urban,Turmeric,25,2
+2018-2019,Kharif,Nirmal,Nirmal Rural,Turmeric,5600,853
+2018-2019,Kharif,Nirmal,Soan,Turmeric,93.2,741
+2018-2019,Kharif,Nirmal,Laxmanchanda,Turmeric,37,1511
+2018-2019,Kharif,Nirmal,Mamada,Turmeric,15.25,1654
+2018-2019,Kharif,Nirmal,Pembi,Turmeric,408.8,252
+2018-2019,Kharif,Nirmal,Khanapur,Turmeric,243.2,707
+2018-2019,Kharif,Nirmal,Kaddam peddur,Turmeric,752,0
+2018-2019,Kharif,Nirmal,Dasturabad,Turmeric,10,23

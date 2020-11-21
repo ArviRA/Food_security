@@ -1,0 +1,381 @@
+year,season,districtName,mandalName,crop,normalAreaSown,actualAreaSown
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Paddy,603,724
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Paddy,460,1792
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Paddy,356,514
+2018-2019,Kharif,Nagarkurnool,Tadoor,Paddy,496,1554
+2018-2019,Kharif,Nagarkurnool,Urkonda,Paddy,356,359
+2018-2019,Kharif,Nagarkurnool,Veldanda,Paddy,395,504
+2018-2019,Kharif,Nagarkurnool,Charakonda,Paddy,140,111
+2018-2019,Kharif,Nagarkurnool,Vangoor,Paddy,524,571
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Paddy,494,1382
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Paddy,374,326
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Paddy,595,1145
+2018-2019,Kharif,Nagarkurnool,Achampet,Paddy,657,480
+2018-2019,Kharif,Nagarkurnool,Amrabad,Paddy,214,212
+2018-2019,Kharif,Nagarkurnool,Padara,Paddy,40,26
+2018-2019,Kharif,Nagarkurnool,Balmoor,Paddy,480,618
+2018-2019,Kharif,Nagarkurnool,Lingal,Paddy,437,269
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Paddy,711,1270
+2018-2019,Kharif,Nagarkurnool,Kodair,Paddy,777,1101
+2018-2019,Kharif,Nagarkurnool,Kollapur,Paddy,1512,2343
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Paddy,595,490
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Jowar,264,122
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Jowar,227,228
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Jowar,99,43
+2018-2019,Kharif,Nagarkurnool,Tadoor,Jowar,34,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Jowar,130,48
+2018-2019,Kharif,Nagarkurnool,Veldanda,Jowar,562,99
+2018-2019,Kharif,Nagarkurnool,Charakonda,Jowar,116,12
+2018-2019,Kharif,Nagarkurnool,Vangoor,Jowar,319,301
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Jowar,244,91
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Jowar,161,55
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Jowar,683,290
+2018-2019,Kharif,Nagarkurnool,Achampet,Jowar,893,50
+2018-2019,Kharif,Nagarkurnool,Amrabad,Jowar,33,14
+2018-2019,Kharif,Nagarkurnool,Padara,Jowar,6,32
+2018-2019,Kharif,Nagarkurnool,Balmoor,Jowar,337,335
+2018-2019,Kharif,Nagarkurnool,Lingal,Jowar,84,62
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Jowar,155,22
+2018-2019,Kharif,Nagarkurnool,Kodair,Jowar,150,75
+2018-2019,Kharif,Nagarkurnool,Kollapur,Jowar,77,24
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Jowar,5,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Bajra,8,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Bajra,8,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Bajra,8,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Bajra,9,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Bajra,1,3
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Bajra,62,2
+2018-2019,Kharif,Nagarkurnool,Achampet,Bajra,95,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Bajra,4,0
+2018-2019,Kharif,Nagarkurnool,Padara,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Bajra,27,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Bajra,2,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Bajra,0,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Maize,3976,2528
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Maize,7051,3589
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Maize,7938,5121
+2018-2019,Kharif,Nagarkurnool,Tadoor,Maize,2486,1760
+2018-2019,Kharif,Nagarkurnool,Urkonda,Maize,3232,1675
+2018-2019,Kharif,Nagarkurnool,Veldanda,Maize,1604,1157
+2018-2019,Kharif,Nagarkurnool,Charakonda,Maize,359,25
+2018-2019,Kharif,Nagarkurnool,Vangoor,Maize,2095,1452
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Maize,2546,1880
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Maize,6660,3619
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Maize,4106,4353
+2018-2019,Kharif,Nagarkurnool,Achampet,Maize,2233,1820
+2018-2019,Kharif,Nagarkurnool,Amrabad,Maize,559,294
+2018-2019,Kharif,Nagarkurnool,Padara,Maize,70,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Maize,6957,6787
+2018-2019,Kharif,Nagarkurnool,Lingal,Maize,6026,6868
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Maize,10740,9850
+2018-2019,Kharif,Nagarkurnool,Kodair,Maize,4791,3341
+2018-2019,Kharif,Nagarkurnool,Kollapur,Maize,2390,1843
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Maize,473,499
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Ragi,1,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Ragi,39,69
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Ragi,2,9
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Ragi,1,0
+2018-2019,Kharif,Nagarkurnool,Padara,Ragi,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Ragi,9,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Ragi,4,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Ragi,32,55
+2018-2019,Kharif,Nagarkurnool,Kodair,Ragi,122,91
+2018-2019,Kharif,Nagarkurnool,Kollapur,Ragi,1,8
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Ragi,0,2
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Korra,3,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Korra,2,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Korra,3,5
+2018-2019,Kharif,Nagarkurnool,Kodair,Korra,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Korra,270,29
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Korra,196,24
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Tadoor,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Urkonda,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Veldanda,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Charakonda,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Vangoor,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Horse Gram,7,
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Achampet,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Amrabad,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Padara,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Balmoor,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Lingal,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Kodair,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Kollapur,Horse Gram,0,
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Horse Gram,2,
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Green Gram,2,2
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Green Gram,0,6
+2018-2019,Kharif,Nagarkurnool,Tadoor,Green Gram,2,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Green Gram,0,2
+2018-2019,Kharif,Nagarkurnool,Charakonda,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Green Gram,4,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Green Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Green Gram,0,27
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Green Gram,10,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Black Gram,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Black Gram,36,5
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Black Gram,13,8
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Red Gram,364,457
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Red Gram,606,601
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Red Gram,300,388
+2018-2019,Kharif,Nagarkurnool,Tadoor,Red Gram,91,320
+2018-2019,Kharif,Nagarkurnool,Urkonda,Red Gram,877,84
+2018-2019,Kharif,Nagarkurnool,Veldanda,Red Gram,417,378
+2018-2019,Kharif,Nagarkurnool,Charakonda,Red Gram,147,96
+2018-2019,Kharif,Nagarkurnool,Vangoor,Red Gram,534,681
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Red Gram,467,250
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Red Gram,207,261
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Red Gram,395,560
+2018-2019,Kharif,Nagarkurnool,Achampet,Red Gram,333,225
+2018-2019,Kharif,Nagarkurnool,Amrabad,Red Gram,176,240
+2018-2019,Kharif,Nagarkurnool,Padara,Red Gram,88,82
+2018-2019,Kharif,Nagarkurnool,Balmoor,Red Gram,352,372
+2018-2019,Kharif,Nagarkurnool,Lingal,Red Gram,387,249
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Red Gram,456,260
+2018-2019,Kharif,Nagarkurnool,Kodair,Red Gram,718,571
+2018-2019,Kharif,Nagarkurnool,Kollapur,Red Gram,1225,1141
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Red Gram,480,477.53
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Chillies,10,60
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Chillies,29,15
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Chillies,2,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Chillies,4,143
+2018-2019,Kharif,Nagarkurnool,Urkonda,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Chillies,0,11
+2018-2019,Kharif,Nagarkurnool,Vangoor,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Chillies,59,45
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Chillies,58,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Chillies,0,2
+2018-2019,Kharif,Nagarkurnool,Amrabad,Chillies,66,106
+2018-2019,Kharif,Nagarkurnool,Padara,Chillies,187,364
+2018-2019,Kharif,Nagarkurnool,Balmoor,Chillies,5,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Chillies,11,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Chillies,13,15
+2018-2019,Kharif,Nagarkurnool,Kodair,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Chillies,0,0
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Chillies,4,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Sugarcane,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Sugarcane,0,16
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Sugarcane,7,4
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Other food crops,178,149
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Other food crops,181,321
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Other food crops,186,231
+2018-2019,Kharif,Nagarkurnool,Tadoor,Other food crops,275,326
+2018-2019,Kharif,Nagarkurnool,Urkonda,Other food crops,197,312
+2018-2019,Kharif,Nagarkurnool,Veldanda,Other food crops,764,538
+2018-2019,Kharif,Nagarkurnool,Charakonda,Other food crops,142,196
+2018-2019,Kharif,Nagarkurnool,Vangoor,Other food crops,841,870
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Other food crops,513,671
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Other food crops,272,243
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Other food crops,281,794
+2018-2019,Kharif,Nagarkurnool,Achampet,Other food crops,17,216
+2018-2019,Kharif,Nagarkurnool,Amrabad,Other food crops,13,24
+2018-2019,Kharif,Nagarkurnool,Padara,Other food crops,8,14
+2018-2019,Kharif,Nagarkurnool,Balmoor,Other food crops,260,419
+2018-2019,Kharif,Nagarkurnool,Lingal,Other food crops,108,179
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Other food crops,1051,1185
+2018-2019,Kharif,Nagarkurnool,Kodair,Other food crops,736,721
+2018-2019,Kharif,Nagarkurnool,Kollapur,Other food crops,1028,1021
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Other food crops,178,288.86
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Cotton,6389,7035
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Cotton,7957,6834
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Cotton,6318,7394
+2018-2019,Kharif,Nagarkurnool,Tadoor,Cotton,11331,11615
+2018-2019,Kharif,Nagarkurnool,Urkonda,Cotton,5926,4804
+2018-2019,Kharif,Nagarkurnool,Veldanda,Cotton,7054,9834
+2018-2019,Kharif,Nagarkurnool,Charakonda,Cotton,5021,6159
+2018-2019,Kharif,Nagarkurnool,Vangoor,Cotton,8560,8953
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Cotton,9676,10820
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Cotton,8358,8864
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Cotton,8098,11547
+2018-2019,Kharif,Nagarkurnool,Achampet,Cotton,8941,9325
+2018-2019,Kharif,Nagarkurnool,Amrabad,Cotton,3336,5945
+2018-2019,Kharif,Nagarkurnool,Padara,Cotton,3253,3578
+2018-2019,Kharif,Nagarkurnool,Balmoor,Cotton,2953,5760
+2018-2019,Kharif,Nagarkurnool,Lingal,Cotton,1104,540
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Cotton,458,52
+2018-2019,Kharif,Nagarkurnool,Kodair,Cotton,156,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Cotton,10,0
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Cotton,3,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Groundnut,0,97
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Groundnut,0,2
+2018-2019,Kharif,Nagarkurnool,Urkonda,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Groundnut,23,13
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Groundnut,15,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Groundnut,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Groundnut,22,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Groundnut,3,21
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Groundnut,40,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Groundnut,272,91
+2018-2019,Kharif,Nagarkurnool,Kollapur,Groundnut,620,147
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Groundnut,144,38.45
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Tadoor,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Urkonda,Sunflower,125,
+2018-2019,Kharif,Nagarkurnool,Veldanda,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Charakonda,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Vangoor,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Achampet,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Amrabad,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Padara,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Balmoor,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Lingal,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Kodair,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Kollapur,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Sunflower,0,
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Castor,134,6
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Castor,193,91
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Castor,166,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Castor,123,0
+2018-2019,Kharif,Nagarkurnool,Urkonda,Castor,0,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Castor,68,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Castor,13,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Castor,79,10
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Castor,128,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Castor,88,19
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Castor,60,4
+2018-2019,Kharif,Nagarkurnool,Achampet,Castor,77,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Castor,34,2
+2018-2019,Kharif,Nagarkurnool,Padara,Castor,2,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Castor,42,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Castor,169,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Castor,289,32
+2018-2019,Kharif,Nagarkurnool,Kodair,Castor,992,382
+2018-2019,Kharif,Nagarkurnool,Kollapur,Castor,169,115
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Castor,12,2.83
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Tadoor,Other non-food crops,2,2
+2018-2019,Kharif,Nagarkurnool,Urkonda,Other non-food crops,84,0
+2018-2019,Kharif,Nagarkurnool,Veldanda,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Charakonda,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Vangoor,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Achampet,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Amrabad,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Padara,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Balmoor,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Lingal,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Kodair,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Kollapur,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Other non-food crops,0,0
+2018-2019,Kharif,Nagarkurnool,Thimmajipeta,Total,11921,11083
+2018-2019,Kharif,Nagarkurnool,Bijinapalle,Total,16743,13637
+2018-2019,Kharif,Nagarkurnool,Nagarkurnool,Total,15365,13697
+2018-2019,Kharif,Nagarkurnool,Tadoor,Total,14844,15722
+2018-2019,Kharif,Nagarkurnool,Urkonda,Total,10927,7282
+2018-2019,Kharif,Nagarkurnool,Veldanda,Total,10872,12512
+2018-2019,Kharif,Nagarkurnool,Charakonda,Total,5946,6610
+2018-2019,Kharif,Nagarkurnool,Vangoor,Total,12960,12838
+2018-2019,Kharif,Nagarkurnool,Kalwakurthy,Total,14084,15094
+2018-2019,Kharif,Nagarkurnool,Telkapalle,Total,16205,13457
+2018-2019,Kharif,Nagarkurnool,Uppunuthala,Total,14341,18695
+2018-2019,Kharif,Nagarkurnool,Achampet,Total,13261,12118
+2018-2019,Kharif,Nagarkurnool,Amrabad,Total,4436,6837
+2018-2019,Kharif,Nagarkurnool,Padara,Total,3658,4096
+2018-2019,Kharif,Nagarkurnool,Balmoor,Total,11444,14291
+2018-2019,Kharif,Nagarkurnool,Lingal,Total,8337,8188
+2018-2019,Kharif,Nagarkurnool,Peddakothapalle,Total,13948,12746
+2018-2019,Kharif,Nagarkurnool,Kodair,Total,8714,6373
+2018-2019,Kharif,Nagarkurnool,Kollapur,Total,7338,6719
+2018-2019,Kharif,Nagarkurnool,Pentlavelli,Total,2122,1834.67
