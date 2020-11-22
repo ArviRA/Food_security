@@ -1,6 +1,5 @@
 ## Indo Data Week Hackathon - Team Appendly 🚀
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)
 ![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)
 ### Problem Statement 🤔:
 * ### Theme: Food Security Through Soil Health
@@ -16,7 +15,9 @@
 
 * A Data-Driven Evaluatory Model that analyses the vitals of a particular region and quantifies it based on its Food  Insecurity Level.
 * A Suggestive Model that takes into consideration various factors of Crop Diversity of a region and suggests the best fit crop for cultivation
+### Architecture 😎: 
 
+<img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/archiecture.PNG" width="90%">
 ### Tech Stacks ⚛️:
 <img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/TechStack.PNG?raw=true" width="90%">
 
@@ -55,4 +56,5 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ### Authors 📋:
+Our Blog [Predicting Food Security & Promoting Crop Diversity in Telangana](https://medium.com/@datadrivensanjay/31e4c5a26ee4)
 <p> Made with ❤</p>
