@@ -18,6 +18,7 @@
 ### Architecture 😎: 
 
 <img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/archiecture.PNG" width="90%">
+
 ### Tech Stacks ⚛️:
 
 <img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/TechStack.PNG?raw=true" width="90%">
