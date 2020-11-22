@@ -24,7 +24,8 @@
 <img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/TechStack.PNG?raw=true" width="90%">
 
 ## Installation
- ## Data Intepretation and Model
+
+## Data Intepretation and Model
 * Clone the repo
 ```sh
    $ git clone https://github.com/Shakileash5/Food_security.git
@@ -57,6 +58,6 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-### Authors 📋:
-Our Blog [Predicting Food Security & Promoting Crop Diversity in Telangana](https://medium.com/@datadrivensanjay/31e4c5a26ee4)
+#### Our Blog [Predicting Food Security & Promoting Crop Diversity in Telangana](https://medium.com/@datadrivensanjay/31e4c5a26ee4) 📋:
+
 <p> Made with ❤</p>
