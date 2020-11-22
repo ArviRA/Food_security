@@ -18,7 +18,7 @@
 * A Suggestive Model that takes into consideration various factors of Crop Diversity of a region and suggests the best fit crop for cultivation
 
 ### Tech Stacks ⚛️:
-<img src="https://github.com/Sai-Adarsh/agbi-hackathon/blob/main/diagnosis-tagging/stack.png" width="90%">
+<img src="https://github.com/Shakileash5/Food_security/blob/master/DataImages/TechStack.PNG?raw=true" width="90%">
 
 ## Installation
  ## Data Intepretation and Model
